@@ -1,0 +1,26 @@
+name: Syndication After Reset
+on:
+  workflow_dispatch:
+    inputs:
+      wait_seconds:
+        description: Seconds to wait before the first request
+        default: "420"
+permissions:
+  contents: read
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q curl_cffi
+      - run: sleep "${{ inputs.wait_seconds }}" && python3 -u .github/scripts/syndication_after_reset.py
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: syndication-latest
+          path: /tmp/syndication_latest/
+          if-no-files-found: ignore
