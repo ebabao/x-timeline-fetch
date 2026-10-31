@@ -2,14 +2,13 @@
 # -*- coding: utf-8 -*-
 """跑在 GitHub Runner 上的 X 时间线抓取脚本（无需登录、无需 API key）。
 
-双通道降级：
-  A. guest GraphQL —— X 前端那套协议（Nitter / twscrape 同源），字段最全、支持翻页
-     1) POST https://api.x.com/1.1/guest/activate.json      -> guest_token
-     2) GET  https://x.com/i/api/graphql/<hash>/UserByScreenName -> uid
-     3) GET  https://x.com/i/api/graphql/<hash>/UserTweets      -> 时间线
+三通道降级：
+  F. FxTwitter v2 —— https://api.fxtwitter.com/2/profile/<handle>/statuses
+     按时间倒序返回最新推文，正文/时间/互动齐全，当前最稳定的 latest 通道。
+  A. guest GraphQL —— X 前端那套协议（Nitter / twscrape 同源）
+     注意：2026-10 实测 guest 的 UserTweets 多数只返回 profile_best_highlights（历史精选）。
   B. syndication SSR —— https://syndication.twitter.com/srv/timeline-profile/screen-name/<h>
-     给 X widget 用的免鉴权接口，返回内嵌 __NEXT_DATA__ 的 HTML。
-     A 被限流 / 被封时兜底。
+     给 X widget 用的免鉴权接口；GitHub IP 常被 429，仅作最后兜底。
 
 Usage:
     python3 fetch_timelines.py --accounts "SCMPChinese business" --limit 40 --outdir data
@@ -300,21 +299,66 @@ def channel_synd(handle, limit=40):
         return None, "syndication 异常: {}".format(str(e)[:70])
 
 
+# ------------------------------------------------------------------ 通道 FxTwitter v2
+def channel_fx2(handle, limit=40):
+    """免登录、按时间倒序的最新时间线（当前唯一稳定给出 latest 的通道）。"""
+    url = "https://api.fxtwitter.com/2/profile/{}/statuses".format(handle)
+    last = ""
+    for attempt in range(3):
+        try:
+            r = requests.get(url, headers={"User-Agent": UA}, timeout=35)
+            j = r.json()
+            if r.status_code == 200 and j.get("code") == 200 and j.get("results"):
+                out = []
+                for t in j["results"][:limit]:
+                    if t.get("type") not in (None, "status"):
+                        continue
+                    raw_media = (t.get("media") or {}).get("all", []) if isinstance(t.get("media"), dict) else []
+                    out.append({
+                        "id": t.get("id"),
+                        "time": t.get("created_at"),
+                        "user": (t.get("author") or {}).get("screen_name") or handle,
+                        "name": (t.get("author") or {}).get("name"),
+                        "text": t.get("text") or "",
+                        "reply": t.get("replies"),
+                        "like": t.get("likes"),
+                        "rt": t.get("reposts"),
+                        "view": t.get("views"),
+                        "lang": t.get("lang"),
+                        "media": [m.get("url") for m in raw_media if isinstance(m, dict) and m.get("url")][:4],
+                        "url": t.get("url") or "https://x.com/{}/status/{}".format(handle, t.get("id")),
+                        "src": "fxtwitter-v2",
+                    })
+                return out, None
+            last = "HTTP {} / code {}".format(r.status_code, j.get("code"))
+        except Exception as e:
+            last = "{}: {}".format(type(e).__name__, str(e)[:70])
+        time.sleep(2 + attempt * 2)
+    return None, last
+
+
 # ------------------------------------------------------------------ 编排
 def fetch(handle, limit=40):
-    """先 GraphQL，失败回落 syndication"""
+    """先 FxTwitter v2 最新时间线，失败再试 guest GraphQL / syndication"""
+    try:
+        items, err = channel_fx2(handle, limit)
+        if items:
+            return items, "fxtwitter-v2"
+        last = "fxtwitter-v2: {}".format(err)
+    except Exception as e:
+        last = "fxtwitter-v2: {}: {}".format(type(e).__name__, str(e)[:70])
     try:
         items, err = channel_gql(handle, limit)
         if items:
             return items, "guest-gql"
-        last = err
+        last += " | guest-gql: {}".format(err)
     except Exception as e:
-        last = "{}: {}".format(type(e).__name__, str(e)[:70])
+        last += " | guest-gql: {}: {}".format(type(e).__name__, str(e)[:70])
     time.sleep(1.5)
     items, err2 = channel_synd(handle, limit)
     if items:
         return items, "syndication"
-    return [], "通道A: {} | 通道B: {}".format(last, err2)
+    return [], "{} | syndication: {}".format(last, err2)
 
 
 def main():
