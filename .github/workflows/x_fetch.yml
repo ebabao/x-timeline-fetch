@@ -52,15 +52,6 @@ jobs:
             --limit "${INPUT_LIMIT:-40}" \
             --outdir data
 
-      - name: Build site
-        env:
-          PYTHONUNBUFFERED: "1"
-        run: |
-          python3 .github/scripts/build_site.py \
-            --datadir data \
-            --out docs/index.html \
-            --limit 300
-
       - name: Show summary
         if: always()
         run: |
@@ -78,18 +69,17 @@ jobs:
           PY
           fi
 
-      - name: Commit results
+      - name: Commit data
         if: always()
         run: |
           git config user.name "x-fetch-bot"
           git config user.email "bot@noreply"
-          # 拉一次远端，避免多账号并发时 push 冲突
+          # 只提交 data/。页面（docs/index.html）改由本地定时任务 build 后推送，
+          # 避免 GitHub schedule 不可靠导致线上停更，也避免两条链路抢着写 docs 冲突。
           git pull --rebase --autostash origin ${{ github.ref_name }} || true
-          # data/ 是资讯源，site/translations.json 是译文缓存，docs/index.html 是页面产物，
-          # 三者必须同一批提交 —— 这样"页面"和"数据"永远不会错位。
-          if [ -n "$(git status --porcelain data site docs)" ]; then
-            git add data site/translations.json docs
-            git commit -m "chore: update X timelines + site $(date -u +%Y-%m-%dT%H:%MZ)"
+          if [ -n "$(git status --porcelain data)" ]; then
+            git add data
+            git commit -m "chore: update X timelines $(date -u +%Y-%m-%dT%H:%MZ)"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "无变化，跳过提交"
@@ -101,5 +91,4 @@ jobs:
           name: x-timelines-${{ github.run_number }}
           path: |
             data/*.json
-            docs/index.html
           retention-days: 30
