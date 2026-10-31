@@ -4,10 +4,11 @@ import re
 from playwright.sync_api import sync_playwright
 
 URLS = [
-    "https://nitter.tiekoetter.com/SCMPChinese",
-    "https://twstalker.com/SCMPChinese",
-    "https://sotwe.com/SCMPChinese",
-    "https://xcancel.com/SCMPChinese",
+    "https://nitter.tiekoetter.com/search?f=tweets&q=from%3ASCMPChinese",
+    "https://nitter.tiekoetter.com/search?f=tweets&q=from%3Abusiness",
+    "https://nitter.tiekoetter.com/SCMPChinese/with_replies",
+    "https://nitter.tiekoetter.com/SCMPChinese/media",
+    "https://nitter.tiekoetter.com/SCMPChinese/rss",
 ]
 
 def snowflake(tid):
