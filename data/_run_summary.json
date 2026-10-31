@@ -1,0 +1,101 @@
+{
+ "ran_at": "2026-10-31T00:50:22Z",
+ "summary": [
+  {
+   "handle": "cnfinancewatch",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "dmjk001",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "baoshu88",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "fxtrader",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "CrushTheShorts",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "SCMPChinese",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "SCMPNews",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "business",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "ReutersChina",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "nytchinese",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "bbcchinese",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  },
+  {
+   "handle": "RFI_Cn",
+   "ok": false,
+   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
+  }
+ ]
+}
