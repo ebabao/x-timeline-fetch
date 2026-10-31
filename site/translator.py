@@ -67,8 +67,12 @@ class BingTranslator:
 
     # ---------------------------------------------------------- Bing
     def _bing_handshake(self):
+        """拿到 token 还不够 —— 同一个 token 在 A 机房能翻、B 机房被风控返回空 body。
+        所以握手后立刻真翻一个词验证，只有验证通过才采用这个 host。"""
         for host in BING_HOSTS:
             try:
+                self.s.headers["Referer"] = host + "/translator"
+                self.s.headers["Origin"] = host
                 r = self.s.get(host + "/translator", timeout=20)
                 if r.status_code != 200:
                     continue
@@ -78,20 +82,18 @@ class BingTranslator:
                 parts = [p.strip().strip('"') for p in m.group(1).split(",")]
                 ig = re.search(r'IG:"([^"]+)"', r.text)
                 iid = re.search(r'data-iid="([^"]+)"', r.text)
-                self._b.update({"host": host, "key": parts[0], "token": parts[1],
-                                "ig": ig.group(1) if ig else "",
-                                "iid": iid.group(1) if iid else "translator.5023",
-                                "born": time.time(), "n": 0})
-                return True
+                st = {"host": host, "key": parts[0], "token": parts[1],
+                      "ig": ig.group(1) if ig else "",
+                      "iid": iid.group(1) if iid else "translator.5023",
+                      "born": time.time(), "n": 0}
+                if self._bing_post("ok", st):
+                    self._b = st
+                    return True
             except Exception:
                 continue
         return False
 
-    def _bing(self, text):
-        st = self._b
-        if not st["token"] or time.time() - st["born"] > 3000 or st["n"] > 150:
-            if not self._bing_handshake():
-                raise RuntimeError("BING_HANDSHAKE")
+    def _bing_post(self, text, st):
         url = "{}/ttranslatev3?isVertical=1&&IG={}&IID={}".format(
             st["host"], st["ig"], st["iid"])
         r = self.s.post(url, data={"fromLang": "auto-detect", "to": "zh-Hans",
@@ -104,12 +106,19 @@ class BingTranslator:
         r.raise_for_status()
         body = r.text.strip()
         if not body.startswith(("[", "{")):
-            # 风控时返回 HTML 验证页，直接 r.json() 会报 Expecting value
+            # 风控时返回的是 HTML 验证页或空 body
             raise RuntimeError("BING_HTML")
         j = r.json()
         if isinstance(j, dict) and j.get("statusCode"):
             raise RuntimeError("BING_API")
         return j[0]["translations"][0]["text"]
+
+    def _bing(self, text):
+        st = self._b
+        if not st["token"] or time.time() - st["born"] > 3000 or st["n"] > 150:
+            if not self._bing_handshake():
+                raise RuntimeError("BING_HANDSHAKE")
+        return self._bing_post(text, self._b)
 
     # ---------------------------------------------------------- 选路
     def _probe(self):
