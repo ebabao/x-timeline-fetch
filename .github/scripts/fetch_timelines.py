@@ -304,7 +304,7 @@ def channel_fx2(handle, limit=40):
     """免登录、按时间倒序的最新时间线（当前唯一稳定给出 latest 的通道）。"""
     url = "https://api.fxtwitter.com/2/profile/{}/statuses".format(handle)
     last = ""
-    for attempt in range(3):
+    for attempt in range(5):
         try:
             r = requests.get(url, headers={"User-Agent": UA}, timeout=35)
             j = r.json()
@@ -334,6 +334,7 @@ def channel_fx2(handle, limit=40):
         except Exception as e:
             last = "{}: {}".format(type(e).__name__, str(e)[:70])
         time.sleep(2 + attempt * 2)
+    log("   fxtwitter-v2 重试 5 次仍失败: {}".format(last))
     return None, last
 
 
