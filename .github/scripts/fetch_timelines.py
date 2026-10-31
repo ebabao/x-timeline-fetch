@@ -94,7 +94,11 @@ class Guest:
         return False
 
     def gql(self, op, variables, retry=True):
-        url = "{}/{}/{}".format(GQL, op, op.split("/")[1])
+        # op 形如 "<queryId>/<OperationName>"，已含操作名，直接拼即可。
+        # 之前写成 "{}/{}/{}".format(GQL, op, op.split("/")[1]) 会把操作名重复一遍，
+        # 变成 .../<hash>/UserByScreenName/UserByScreenName —— X 返回非 200，
+        # 于是 uid() 永远拿到 None，表现为"查不到 uid"。
+        url = "{}/{}".format(GQL, op)
         # 注意：不要带 features 参数。2026-10 实测（GitHub Runner 诊断）：
         # 传入一堆已废弃的 feature flag 会让 X 直接拒绝请求；
         # 只带 variables 反而 UserByScreenName / UserTweets 都返回 200。
@@ -116,7 +120,11 @@ class Guest:
     def uid(self, screen_name):
         r = self.gql(OP_USER_BY_SCREEN,
                      {"screen_name": screen_name, "withSafetyModeUserFields": True})
-        if r is None or r.status_code != 200:
+        if r is None:
+            log("      uid 请求无响应")
+            return None
+        if r.status_code != 200:
+            log("      uid HTTP {} : {}".format(r.status_code, r.text[:160]))
             return None
         try:
             result = r.json()["data"]["user"]["result"]
@@ -128,8 +136,10 @@ class Guest:
             if raw.startswith("VXNlcjo"):
                 import base64
                 return base64.b64decode(raw).decode().split(":")[-1]
+            log("      uid 响应缺少 rest_id，键={}".format(list(result.keys())[:12]))
             return None
-        except Exception:
+        except Exception as e:
+            log("      uid 解析异常 {} : {}".format(type(e).__name__, r.text[:160]))
             return None
 
     def tweets(self, uid, count=40, cursor=None):
