@@ -1,101 +1,111 @@
 {
- "ran_at": "2026-10-31T01:14:50Z",
+ "ran_at": "2026-10-31T05:39:31Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 34,
+   "cn_new": 34
   },
   {
    "handle": "dmjk001",
    "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "src": "通道A: None | 通道B: syndication HTTP 429",
    "new": 0,
    "total": 0,
    "cn": 0
   },
   {
    "handle": "baoshu88",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 40,
+   "cn_new": 40
   },
   {
    "handle": "fxtrader",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 36,
+   "cn_new": 36
   },
   {
    "handle": "CrushTheShorts",
    "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
+   "src": "通道A: None | 通道B: syndication HTTP 429",
    "new": 0,
    "total": 0,
    "cn": 0
   },
   {
    "handle": "SCMPChinese",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 40,
+   "cn_new": 40
   },
   {
    "handle": "SCMPNews",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 0,
+   "cn_new": 0
   },
   {
    "handle": "business",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 0,
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 0,
+   "cn_new": 0
   },
   {
    "handle": "nytchinese",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 40,
+   "cn_new": 40
   },
   {
    "handle": "bbcchinese",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 40,
+   "cn_new": 40
   },
   {
    "handle": "RFI_Cn",
-   "ok": false,
-   "src": "通道A: 查不到 uid | 通道B: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "guest-gql",
+   "new": 40,
+   "total": 40,
+   "cn": 40,
+   "cn_new": 40
   }
  ]
 }
