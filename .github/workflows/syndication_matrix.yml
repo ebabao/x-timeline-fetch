@@ -1,0 +1,28 @@
+name: Syndication Exit Matrix
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  fetch:
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q curl_cffi
+      - run: python3 -u .github/scripts/syndication_once.py
+        env:
+          SHARD: ${{ matrix.shard }}
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: syndication-success-${{ matrix.shard }}
+          path: /tmp/syndication_success/
+          if-no-files-found: ignore
