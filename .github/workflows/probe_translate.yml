@@ -1,0 +1,56 @@
+name: Probe Translate
+on: workflow_dispatch
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -q requests
+      - name: probe
+        run: |
+          python3 - <<'PY'
+          import requests, json
+          UA={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
+          def t(name, fn):
+              try:
+                  print("%-22s OK   %s" % (name, str(fn())[:90]))
+              except Exception as e:
+                  print("%-22s FAIL %s" % (name, str(e)[:100]))
+
+          def g():
+              r=requests.get("https://translate.googleapis.com/translate_a/single",
+                  params={"client":"gtx","sl":"auto","tl":"zh-CN","dt":"t","q":"market update"},headers=UA,timeout=15)
+              return "%s %s" % (r.status_code, r.text[:60])
+
+          def b():
+              s=requests.Session(); s.headers.update(UA)
+              r=s.get("https://cn.bing.com/translator",timeout=20)
+              return "GET %s len=%d head=%s" % (r.status_code, len(r.text), r.text[:60].replace("\n"," "))
+
+          def b2():
+              s=requests.Session(); s.headers.update(UA)
+              r=s.get("https://www.bing.com/translator",timeout=20)
+              return "GET %s len=%d" % (r.status_code, len(r.text))
+
+          def lingva():
+              r=requests.get("https://lingva.ml/api/v1/en/zh/market%20update",headers=UA,timeout=15)
+              return "%s %s" % (r.status_code, r.text[:60])
+
+          def lingva2():
+              r=requests.get("https://lingva.garudalinux.org/api/v1/en/zh/market%20update",headers=UA,timeout=15)
+              return "%s %s" % (r.status_code, r.text[:60])
+
+          def libre():
+              r=requests.post("https://libretranslate.com/translate",json={"q":"market update","source":"en","target":"zh"},headers=UA,timeout=15)
+              return "%s %s" % (r.status_code, r.text[:60])
+
+          def simply():
+              r=requests.get("https://simplytranslate.org/api/translate/",params={"engine":"google","from":"en","to":"zh","text":"market update"},headers=UA,timeout=15)
+              return "%s %s" % (r.status_code, r.text[:60])
+
+          for n,f in [("google-gtx",g),("bing-cn",b),("bing-www",b2),("lingva.ml",lingva),
+                      ("lingva.garuda",lingva2),("libretranslate",libre),("simplytranslate",simply)]:
+              t(n,f)
+          PY
