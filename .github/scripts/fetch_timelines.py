@@ -95,8 +95,10 @@ class Guest:
 
     def gql(self, op, variables, retry=True):
         url = "{}/{}/{}".format(GQL, op, op.split("/")[1])
-        params = {"variables": json.dumps(variables, separators=(",", ":")),
-                  "features": json.dumps(FEATURES, separators=(",", ":"))}
+        # 注意：不要带 features 参数。2026-10 实测（GitHub Runner 诊断）：
+        # 传入一堆已废弃的 feature flag 会让 X 直接拒绝请求；
+        # 只带 variables 反而 UserByScreenName / UserTweets 都返回 200。
+        params = {"variables": json.dumps(variables, separators=(",", ":"))}
         try:
             r = self.s.get(url, params=params, timeout=30)
         except Exception as e:
@@ -117,7 +119,16 @@ class Guest:
         if r is None or r.status_code != 200:
             return None
         try:
-            return r.json()["data"]["user"]["result"]["rest_id"]
+            result = r.json()["data"]["user"]["result"]
+            # rest_id 在顶层；部分响应里只给 base64 的 id，需兜底
+            rid = result.get("rest_id")
+            if rid:
+                return rid
+            raw = result.get("id", "")
+            if raw.startswith("VXNlcjo"):
+                import base64
+                return base64.b64decode(raw).decode().split(":")[-1]
+            return None
         except Exception:
             return None
 
@@ -134,7 +145,10 @@ class Guest:
         if r.status_code != 200:
             return [], None, r.status_code
         try:
-            ins = r.json()["data"]["user"]["result"]["timeline_v2"]["timeline"]["instructions"]
+            result = r.json()["data"]["user"]["result"]
+            # X 在 2026 年把 timeline_v2 改名成 timeline，两种都兼容
+            tl = result.get("timeline_v2") or result.get("timeline") or {}
+            ins = tl["timeline"]["instructions"]
         except Exception:
             return [], None, "structure"
         entries, next_cursor = [], None
@@ -149,9 +163,13 @@ class Guest:
 def simplify_gql(entries):
     out = []
     for e in entries:
-        if not e.get("entryId", "").startswith("tweet-"):
+        eid = e.get("entryId", "") or ""
+        content = e.get("content") or {}
+        # entryId 前缀只是辅助判断；新版响应里可能缺 entryId，
+        # 所以最终以「有没有 tweet_results」为准
+        if eid and not eid.startswith("tweet-"):
             continue
-        tw = (e.get("content", {}).get("itemContent", {})
+        tw = (content.get("itemContent", {})
               .get("tweet_results", {}).get("result", {}))
         if not tw:
             continue
@@ -159,16 +177,19 @@ def simplify_gql(entries):
             tw = tw["tweet"]
         lg = tw.get("legacy", {})
         us = tw.get("core", {}).get("user_results", {}).get("result", {})
-        ul = us.get("legacy", {})
+        # 新版 X 把 name/screen_name 从 legacy 挪到了 core，两个都读
+        ul = us.get("legacy") or {}
+        uc = us.get("core") or {}
         text = lg.get("full_text") or lg.get("text") or ""
         note = tw.get("note_tweet", {}).get("note_tweet_results", {}).get("result", {})
         if note.get("text"):
             text = note["text"]
         tid = lg.get("id_str") or tw.get("rest_id")
-        screen = ul.get("screen_name") or us.get("screen_name")
+        screen = ul.get("screen_name") or uc.get("screen_name") or us.get("screen_name")
+        name = ul.get("name") or uc.get("name")
         out.append({
             "id": tid, "time": lg.get("created_at"), "user": screen,
-            "name": ul.get("name"), "text": text,
+            "name": name, "text": text,
             "reply": lg.get("reply_count"), "like": lg.get("favorite_count"),
             "rt": lg.get("retweet_count"),
             "view": (tw.get("views") or {}).get("count"),
