@@ -11,46 +11,41 @@ jobs:
       - name: probe
         run: |
           python3 - <<'PY'
-          import requests, json
-          UA={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"}
-          def t(name, fn):
-              try:
-                  print("%-22s OK   %s" % (name, str(fn())[:90]))
-              except Exception as e:
-                  print("%-22s FAIL %s" % (name, str(e)[:100]))
-
-          def g():
-              r=requests.get("https://translate.googleapis.com/translate_a/single",
-                  params={"client":"gtx","sl":"auto","tl":"zh-CN","dt":"t","q":"market update"},headers=UA,timeout=15)
-              return "%s %s" % (r.status_code, r.text[:60])
-
-          def b():
+          import requests, re, json
+          UA={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+              "Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8"}
+          def show(n, v): print("%-24s %s" % (n, str(v)[:150]))
+          def bing_post(host):
               s=requests.Session(); s.headers.update(UA)
-              r=s.get("https://cn.bing.com/translator",timeout=20)
-              return "GET %s len=%d head=%s" % (r.status_code, len(r.text), r.text[:60].replace("\n"," "))
-
-          def b2():
-              s=requests.Session(); s.headers.update(UA)
-              r=s.get("https://www.bing.com/translator",timeout=20)
-              return "GET %s len=%d" % (r.status_code, len(r.text))
-
-          def lingva():
-              r=requests.get("https://lingva.ml/api/v1/en/zh/market%20update",headers=UA,timeout=15)
-              return "%s %s" % (r.status_code, r.text[:60])
-
-          def lingva2():
-              r=requests.get("https://lingva.garudalinux.org/api/v1/en/zh/market%20update",headers=UA,timeout=15)
-              return "%s %s" % (r.status_code, r.text[:60])
-
-          def libre():
-              r=requests.post("https://libretranslate.com/translate",json={"q":"market update","source":"en","target":"zh"},headers=UA,timeout=15)
-              return "%s %s" % (r.status_code, r.text[:60])
-
-          def simply():
-              r=requests.get("https://simplytranslate.org/api/translate/",params={"engine":"google","from":"en","to":"zh","text":"market update"},headers=UA,timeout=15)
-              return "%s %s" % (r.status_code, r.text[:60])
-
-          for n,f in [("google-gtx",g),("bing-cn",b),("bing-www",b2),("lingva.ml",lingva),
-                      ("lingva.garuda",lingva2),("libretranslate",libre),("simplytranslate",simply)]:
-              t(n,f)
+              s.headers.update({"Referer":host+"/translator","Origin":host})
+              g=s.get(host+"/translator",timeout=25)
+              m=re.search(r"params_AbusePreventionHelper\s*=\s*\[([^\]]+)\]", g.text)
+              if not m: return "no-params len=%d" % len(g.text)
+              p=[x.strip().strip('"') for x in m.group(1).split(",")]
+              ig=re.search(r'IG:"([^"]+)"',g.text); iid=re.search(r'data-iid="([^"]+)"',g.text)
+              r=s.post("%s/ttranslatev3?isVertical=1&&IG=%s&IID=%s" % (host, ig.group(1) if ig else "", iid.group(1) if iid else ""),
+                       data={"fromLang":"auto-detect","to":"zh-Hans","text":"market update","token":p[1],"key":p[0]},timeout=25)
+              return "%s %s" % (r.status_code, r.text[:110])
+          def edge():
+              r=requests.get("https://edge.microsoft.com/translate/auth",headers=UA,timeout=20)
+              if r.status_code!=200: return "auth %s %s" % (r.status_code, r.text[:60])
+              jwt=r.text.strip()
+              rr=requests.post("https://api-edge.cognitive.microsofttranslator.com/translate",
+                  params={"api-version":"3.0","to":"zh-Hans"},
+                  headers={**UA,"Authorization":"Bearer "+jwt,"Content-Type":"application/json"},
+                  json=[{"Text":"market update"}],timeout=20)
+              return "%s %s" % (rr.status_code, rr.text[:110])
+          def gtx_retry():
+              last=""
+              for i in range(3):
+                  r=requests.get("https://translate.googleapis.com/translate_a/single",
+                      params={"client":"gtx","sl":"auto","tl":"zh-CN","dt":"t","q":"market update"},headers=UA,timeout=15)
+                  last="%s %s" % (r.status_code, r.text[:80])
+                  if r.status_code==200 and r.text.strip().startswith("[["): return last
+              return last
+          for n,f in [("bing-cn POST",lambda:bing_post("https://cn.bing.com")),
+                      ("bing-www POST",lambda:bing_post("https://www.bing.com")),
+                      ("edge-msft",edge),("google-3try",gtx_retry)]:
+              try: show(n,f())
+              except Exception as e: show(n,"FAIL "+str(e)[:100])
           PY
