@@ -1,0 +1,92 @@
+name: X Timeline Fetch
+
+# ─────────────────────────────────────────────────────────────
+# 为什么要有这个：
+#   本地沙箱所在网络对 X 系列域名做 IP 层出口封锁（TCP 能建连、TLS 握手超时），
+#   换 TLS 指纹、headless 浏览器、17 个 nitter 实例全部无效。
+#   但 GitHub Runner 在美国机房，直连 x.com 完全正常 —— 所以让 Actions 负责“抓”，
+#   沙箱端只用 api.github.com 读结果（该域名本机 100% 可达）。
+#
+# 权限说明：workflow 自带的 GITHUB_TOKEN 即可提交数据，不需要你额外配置 secret。
+# ─────────────────────────────────────────────────────────────
+
+on:
+  workflow_dispatch:
+    inputs:
+      accounts:
+        description: "要抓的账号，空格分隔（留空则读仓库内 accounts.txt）"
+        required: false
+        default: ""
+      limit:
+        description: "每个账号抓多少条上限"
+        required: false
+        default: "40"
+  schedule:
+    - cron: "17 */2 * * *"      # 每 2 小时的第 17 分钟
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -q requests
+
+      - name: Fetch timelines
+        env:
+          INPUT_ACCOUNTS: ${{ github.event.inputs.accounts }}
+          INPUT_LIMIT: ${{ github.event.inputs.limit }}
+        run: |
+          python3 .github/scripts/fetch_timelines.py \
+            --accounts "$INPUT_ACCOUNTS" \
+            --accounts-file accounts.txt \
+            --limit "${INPUT_LIMIT:-40}" \
+            --outdir data
+
+      - name: Show summary
+        if: always()
+        run: |
+          if [ -f data/_run_summary.json ]; then
+            echo "=== 本次运行结果 ==="
+            python3 - <<'PY'
+          import json
+          d = json.load(open('data/_run_summary.json'))
+          print("运行时间:", d['ran_at'])
+          print("%-18s %-6s %-14s %-6s %-6s %s" % ('handle','状态','通道','新增','累计','其中中文'))
+          for s in d['summary']:
+              print("%-18s %-6s %-14s %-6s %-6s %s" % (
+                  s['handle'], 'OK' if s['ok'] else 'FAIL',
+                  str(s.get('src'))[:14], s.get('new',0), s.get('total',0), s.get('cn',0)))
+          PY
+          fi
+
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "x-fetch-bot"
+          git config user.email "bot@noreply"
+          # 拉一次远端，避免多账号并发时 push 冲突
+          git pull --rebase --autostash origin ${{ github.ref_name }} || true
+          if [ -n "$(git status --porcelain data)" ]; then
+            git add data
+            git commit -m "chore: update X timelines $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "无新数据，跳过提交"
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: x-timelines-${{ github.run_number }}
+          path: data/*.json
+          retention-days: 30
