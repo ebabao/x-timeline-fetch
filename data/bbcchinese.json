@@ -1,5 +1,22 @@
 [
  {
+  "id": "2116766696455229594",
+  "time": "Sun Nov 01 05:38:02 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "全球最大的加密货币交易所币安（Binance）遭遇一宗涉及63亿美元的黑客攻击，被认为是史上规模最大的同类事件。BBC网络安全记者乔·泰迪（Joe Tidy）解释这宗黑客攻击事件的更多详情。",
+  "reply": 1,
+  "like": 3,
+  "rt": 0,
+  "view": 963,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/ext_tw_video/2116766620152471552/pu/vid/avc1/720x1280/1M9Tfn0Yhe77VRUq.mp4?tag=12"
+  ],
+  "url": "https://x.com/bbcchinese/status/2116766696455229594",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2116749493991338198",
   "time": "Sun Nov 01 04:29:41 +0000 2026",
   "user": "bbcchinese",
