@@ -21,8 +21,17 @@ on:
         description: "每个账号抓多少条上限"
         required: false
         default: "40"
+      chain:
+        description: "跑完后自动排下一轮（on/off）"
+        required: false
+        default: "off"
   schedule:
     - cron: "7,37 * * * *"      # 每小时 2 次（:07 / :37），schedule 偶发跳过也能兜住
+
+# 同一时刻只允许一条流水线；链条是串行的，堆积只会互相打架
+concurrency:
+  group: x-fetch
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -30,7 +39,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -102,3 +111,24 @@ jobs:
             data/*.json
             docs/index.html
           retention-days: 30
+
+      # ── 为什么要有这一段 ─────────────────────────────────────
+      # GitHub 的 schedule 对本仓库实测已完全失效：改成每 30 分钟后，
+      # 4 小时内 8 次机会一次都没触发（status 全绿、workflow active）。
+      # 所以不再指望它 —— 本轮跑完自己睡 25 分钟，再用 PAT 触发下一轮，
+      # 形成一条自维持的链。PAT 存在 repo secret GH_PAT。
+      - name: Chain next run
+        if: github.event.inputs.chain == 'on'
+        env:
+          PAT: ${{ secrets.GH_PAT }}
+        run: |
+          echo "本轮完成，25 分钟后自动触发下一轮"
+          sleep 1500
+          code=$(curl -s -o /tmp/resp.txt -w "%{http_code}" -X POST \
+            -H "Authorization: Bearer $PAT" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/x_fetch.yml/dispatches" \
+            -d '{"ref":"main","inputs":{"chain":"on"}}')
+          echo "dispatch HTTP $code"
+          [ "$code" = "204" ] || cat /tmp/resp.txt
