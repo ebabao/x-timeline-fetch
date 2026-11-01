@@ -1,5 +1,20 @@
 [
  {
+  "id": "2116961421875618202",
+  "time": "Sun Nov 01 18:31:48 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "转：\n\n起飞了，Grok Bot 这次真的完整顶替 Siri 了！\n\n喊一声“Hey Siri, Grok Bot”，直接进 Grok Bot 语音对话，后面全是它在跟你聊，不用再听 Siri 答非所问。\n\n上次评论区诟病的屏幕上一直挂着橙色小点，这次也没有了，既省电又方便\n\n我按照作者方法真机录了实操视频，做法是超级简单\n\n设置只要 4 步：\n\n1. 打开“快捷指令”→ 右上角 + → 添加操作 → 搜 Grok Bot → 选 Start a Voice Chat with Bot\n2. 把这条快捷指令改名叫“Grok Bot”\n3. 在快捷指令详情里打开“锁定时允许运行”\n4. 对着手机喊：Hey Siri, Grok Bot\n\n设置完，你的 iPhone 就多了一个真正能聊的语音助手",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 152,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2116961421875618202",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2116948771007541654",
   "time": "Sun Nov 01 17:41:32 +0000 2026",
   "user": "cnfinancewatch",
