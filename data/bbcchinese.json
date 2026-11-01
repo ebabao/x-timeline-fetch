@@ -1,5 +1,22 @@
 [
  {
+  "id": "2116839990076277000",
+  "time": "Sun Nov 01 10:29:17 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "数千年来，人类一直流传着鬼故事。我们为什么会认为自己“见鬼”？又是什么让我们觉得自己看见了超自然现象？ https://bbc.in/4f03LBJ",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1214,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/ext_tw_video/2116839858400276480/pu/vid/avc1/720x1280/HvtUnLEtIQJt09VN.mp4?tag=12"
+  ],
+  "url": "https://x.com/bbcchinese/status/2116839990076277000",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2116766696455229594",
   "time": "Sun Nov 01 05:38:02 +0000 2026",
   "user": "bbcchinese",
