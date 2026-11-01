@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2116962169204142477",
+  "time": "Sun Nov 01 18:34:47 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "France opens ‘attempted murder’ probe over petrol bomb attacks on security forces\nhttps://www.scmp.com/news/world/europe/article/3372907/france-opens-attempted-murder-probe-over-petrol-bomb-attacks-security-forces",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1171,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2116962169204142477",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2116961925989114069",
+  "time": "Sun Nov 01 18:33:49 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Longest truce of Ukraine war, in Kherson region, set to end\nhttps://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 1087,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2116961925989114069",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2116908018814108107",
   "time": "Sun Nov 01 14:59:36 +0000 2026",
   "user": "SCMPNews",

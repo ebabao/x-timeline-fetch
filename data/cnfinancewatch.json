@@ -1,5 +1,37 @@
 [
  {
+  "id": "2116964274023370815",
+  "time": "Sun Nov 01 18:43:08 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "☕ 国内的 Personal Agent 生态终于来了，瑞幸、麦当劳、滴滴都能接进 Grok Bot，上手前先看这几点\n\n之前 AI 对我来说更像一个工具，帮我写写东西、查查资料，生活里的事还得自己来\n\n现在它是真的能替我办事了：点咖啡、领外卖券、叫车，连跑腿都能交给它\n\n最近一看才发现，瑞幸、美团、麦当劳、滴滴都已经把官方 MCP 和 Skill 放出来了，装进 Grok Bot 就能用\n\n我把这 4 个整理了一下，顺便记了接的时候要注意什么\n\n1、瑞幸咖啡｜MCP + Skill + CLI\n\n这个是我觉得最实用的\n\n直接跟 AI 说想喝什么，它会帮你查附近门店、选商品、匹配优惠，最后停在确认付款这一步\n\n比如每天早上让它帮你点好那杯冰美式，你点个确认，到店直接取就行\n\nhttp://open01.luckincoffeecdn.com\n\n2、美团｜官方 Skill\n\n目前开放的是红包助手和跑腿\n\n可以让 AI 帮你领外卖券、查红包，还能叫骑手取快递、送东西、帮买\n\n想让它直接帮你点外卖，现在还做不到\n\nhttp://clawhub.ai/meituan-tech/s…\n\n3、麦当劳｜官方 MCP\n\n查菜单、领优惠、麦乐送、到店自取、查订单，连积分换券都支持\n\n要先自己申请一个 MCP Token，配好就能用\n\n套餐选项比较多，我建议下单前让它先把内容报一遍\n\nhttp://open.mcd.cn/mcp\n\n4、滴滴出行｜MCP + Skill\n\n这个也挺有意思，可以让 AI 规划路线、估打车费、查司机和订单\n\n普通版会跳转滴滴叫车，Pro 版能直接创建和取消订单\n\n起点、终点、车型最好一次说清楚，别让它猜\n\nhttp://mcp.didichuxing.com/claw\n\n只想先试一个的话，我会先接瑞幸或滴滴，步骤少，很快就能看到效果\n\n也提醒一句：官方开放了，不代表装上就能用，大多还要申请 key 或扫码授权；涉及付钱的那一步，最好还是自己点确认\n\n等哪天早上醒来，冰美式已经下好单、车也叫好了，那才算真的好用\n\n转……",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 437,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2116964274023370815",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2116962618208637415",
+  "time": "Sun Nov 01 18:36:34 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "MAG7 的自由现金流预计将到 2030 年爆炸式增长：",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 508,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HWDbV_yWgAAwr-u.jpg?name=orig"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2116962618208637415",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2116961421875618202",
   "time": "Sun Nov 01 18:31:48 +0000 2026",
   "user": "cnfinancewatch",
