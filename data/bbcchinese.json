@@ -1,5 +1,37 @@
 [
  {
+  "id": "2117245753932276197",
+  "time": "Mon Nov 02 13:21:38 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "对美国支持以色列以及加沙局势的忧虑，如今正推动争议双方的选民投票，成为美国中期选举最激烈选战中的重要因素。 https://bbc.in/3Uz2VF4",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1172,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/ext_tw_video/2117245672529297409/pu/vid/avc1/608x1080/heqhpXy_bFguj_VC.mp4?tag=12"
+  ],
+  "url": "https://x.com/bbcchinese/status/2117245753932276197",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117241423372181977",
+  "time": "Mon Nov 02 13:04:26 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "民调一直预测民主党将取得大胜，但由于选民最后一刻的决定以及抽样抽样问题，最终结果无法保证。https://bbc.in/4eHJEbs",
+  "reply": 4,
+  "like": 4,
+  "rt": 0,
+  "view": 4712,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2117241423372181977",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2117179910053588993",
   "time": "Mon Nov 02 09:00:00 +0000 2026",
   "user": "bbcchinese",
