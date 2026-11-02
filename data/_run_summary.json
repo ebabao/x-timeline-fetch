@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-02T20:07:15Z",
+ "ran_at": "2026-11-02T20:33:29Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -59,7 +59,7 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 130,
    "cn": 0,
    "cn_new": 0
@@ -69,7 +69,7 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 6,
-   "total": 431,
+   "total": 437,
    "cn": 1,
    "cn_new": 0
   },
