@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-02T01:10:31Z",
+ "ran_at": "2026-11-02T01:36:27Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 144,
-   "cn": 134,
-   "cn_new": 3
+   "new": 5,
+   "total": 149,
+   "cn": 138,
+   "cn_new": 4
   },
   {
    "handle": "dmjk001",
@@ -23,19 +23,19 @@
    "handle": "baoshu88",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 60,
-   "cn": 60,
-   "cn_new": 0
+   "new": 1,
+   "total": 61,
+   "cn": 61,
+   "cn_new": 1
   },
   {
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 64,
-   "cn": 60,
-   "cn_new": 0
+   "new": 2,
+   "total": 66,
+   "cn": 62,
+   "cn_new": 2
   },
   {
    "handle": "CrushTheShorts",
@@ -69,7 +69,7 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 4,
-   "total": 207,
+   "total": 211,
    "cn": 1,
    "cn_new": 0
   },
