@@ -1,5 +1,114 @@
 [
  {
+  "id": "2117206367182242094",
+  "time": "Mon Nov 02 10:45:08 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "IDBI Bank employees started a two-day nationwide strike on Monday to protest against the planned privatization of the lender, calling on the government to scrap the sale to Fairfax https://www.bloomberg.com/news/articles/2026-11-02/india-s-idbi-bank-employees-strike-over-fairfax-acquisition?taid=6ae869b4ec3fc2000115df56&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 7170,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2117206367182242094",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117205107230089270",
+  "time": "Mon Nov 02 10:40:07 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Inflation is top of mind for Corporate America this earnings season https://www.bloomberg.com/news/articles/2026-11-02/inflation-talk-returns-to-earnings-calls-in-echo-of-2022-shock?taid=6ae86887ec3fc2000115df4c&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 9168,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2117205107230089270",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117205091040002441",
+  "time": "Mon Nov 02 10:40:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "What's next for Europe with Christine Lagarde on the way out of the ECB's top job?\n\n@ZSchneeweiss, @highisland and @suzannelynch1 will take your questions in a Bloomberg Live Q&A hosted by @flacqua https://bloom.bg/4iB86fV",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 8147,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HWHSz6YX0AATuXm.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2117205091040002441",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117204094070784050",
+  "time": "Mon Nov 02 10:36:06 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "One pharma company's best chance at breaking into the $120 billion obesity drug market started in a basement in Iceland. https://bloom.bg/4ijJjhy\n\n📷: Heiða Helgadóttir/Bloomberg",
+  "reply": 1,
+  "like": 1,
+  "rt": 1,
+  "view": 10917,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HWHR53_X0AABERR.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2117204094070784050",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117203840793563344",
+  "time": "Mon Nov 02 10:35:06 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Taiwan criticized China for breaching protocol in its invitation to an upcoming APEC meeting https://www.bloomberg.com/news/articles/2026-11-02/taiwan-says-china-sought-to-diminish-its-status-with-emailed-apec-invitation?taid=6ae86759c52de30001da15cf&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 3,
+  "rt": 1,
+  "view": 10144,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2117203840793563344",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117202615788261517",
+  "time": "Mon Nov 02 10:30:13 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "China’s young investors have turned a stock market rout into Halloween jokes. https://www.bloomberg.com/news/articles/2026-11-02/china-s-gen-z-dons-spooky-stock-market-costumes-for-halloween?taid=6ae866351b8d71000194650c&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 8,
+  "rt": 4,
+  "view": 11329,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2117202615788261517",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117201323644887425",
+  "time": "Mon Nov 02 10:25:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Hyperscaler valuations look attractive after the recent AI unwind, according to Gerry Fowler at UBS https://www.bloomberg.com/news/articles/2026-11-02/ubs-s-fowler-says-market-is-underpricing-the-length-of-ai-cycle?taid=6ae865011b8d7100019464fc&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 5,
+  "rt": 0,
+  "view": 13717,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2117201323644887425",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2117200070940459255",
   "time": "Mon Nov 02 10:20:07 +0000 2026",
   "user": "business",
@@ -684,6 +793,23 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2117135902426210544",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2117135868813050039",
+  "time": "Mon Nov 02 06:05:00 +0000 2026",
+  "user": "ZSchneeweiss",
+  "name": "Zoe Schneeweiss",
+  "text": "Who will replace Lagarde as ECB president and what does it mean for European markets and politics? Looking forward to discussing the issue on a Live Q&A on Nov. 2 at 2 p.m. CET with @flacqua, @highisland & @suzannelynch1 https://www.bloomberg.com/sessions/2026-11-02/live-q-amp-a-what-lagarde-s-exit-means-for-the-ecb-and-europe via @business",
+  "reply": 0,
+  "like": 5,
+  "rt": 2,
+  "view": 4280,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HWB0ZKkWIAEMPaS.jpg?name=orig"
+  ],
+  "url": "https://x.com/ZSchneeweiss/status/2117135868813050039",
   "src": "fxtwitter-v2"
  },
  {
