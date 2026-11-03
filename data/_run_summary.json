@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-03T03:13:18Z",
+ "ran_at": "2026-11-03T03:40:21Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,19 +32,19 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 80,
    "cn": 76,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 25,
-   "cn": 20,
-   "cn_new": 0
+   "new": 1,
+   "total": 26,
+   "cn": 21,
+   "cn_new": 1
   },
   {
    "handle": "SCMPChinese",
@@ -68,7 +68,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 3,
    "total": 500,
    "cn": 2,
    "cn_new": 0
@@ -78,14 +78,14 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 80,
+   "total": 81,
    "cn": 0,
    "cn_new": 0
   },
   {
    "handle": "nytchinese",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 70,
    "cn": 70,
@@ -95,19 +95,19 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 81,
    "cn": 81,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 136,
-   "cn": 136,
-   "cn_new": 0
+   "new": 1,
+   "total": 137,
+   "cn": 137,
+   "cn_new": 1
   }
  ]
 }
