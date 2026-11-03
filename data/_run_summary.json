@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-03T22:00:23Z",
+ "ran_at": "2026-11-03T22:26:47Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -60,7 +60,7 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 166,
+   "total": 167,
    "cn": 0,
    "cn_new": 0
   },
