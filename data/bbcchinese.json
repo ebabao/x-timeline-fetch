@@ -1,5 +1,22 @@
 [
  {
+  "id": "2117604563670987183",
+  "time": "Tue Nov 03 13:07:25 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "美国中期选举到来，它将决定国会控制权归属，进而影响华盛顿未来两年的权力格局。\n\n那么，在今年的中期选举中，美国选民最关心哪些问题？",
+  "reply": 3,
+  "like": 2,
+  "rt": 1,
+  "view": 3357,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2117603389446189056/vid/avc1/1080x1920/gnW7RYp-n5QdVECE.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2117604563670987183",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2117587125667520525",
   "time": "Tue Nov 03 11:58:08 +0000 2026",
   "user": "bbcchinese",
