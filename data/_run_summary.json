@@ -1,23 +1,23 @@
 {
- "ran_at": "2026-11-04T14:26:46Z",
+ "ran_at": "2026-11-04T20:56:30Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 13,
-   "total": 256,
-   "cn": 245,
-   "cn_new": 13
+   "new": 11,
+   "total": 267,
+   "cn": 256,
+   "cn_new": 11
   },
   {
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 83,
-   "cn": 71,
-   "cn_new": 3
+   "new": 2,
+   "total": 85,
+   "cn": 73,
+   "cn_new": 2
   },
   {
    "handle": "baoshu88",
@@ -31,20 +31,20 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "guest-gql",
-   "new": 0,
-   "total": 111,
-   "cn": 106,
-   "cn_new": 0
+   "src": "fxtwitter-v2",
+   "new": 5,
+   "total": 116,
+   "cn": 111,
+   "cn_new": 5
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
-   "total": 44,
-   "cn": 36,
-   "cn_new": 2
+   "new": 1,
+   "total": 45,
+   "cn": 37,
+   "cn_new": 1
   },
   {
    "handle": "SCMPChinese",
@@ -59,8 +59,8 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 13,
-   "total": 208,
+   "new": 7,
+   "total": 215,
    "cn": 0,
    "cn_new": 0
   },
@@ -77,8 +77,8 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
-   "total": 103,
+   "new": 1,
+   "total": 104,
    "cn": 0,
    "cn_new": 0
   },
@@ -86,28 +86,28 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 83,
    "cn": 83,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 0,
    "total": 102,
    "cn": 102,
-   "cn_new": 3
+   "cn_new": 0
   },
   {
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 11,
-   "total": 174,
-   "cn": 174,
-   "cn_new": 11
+   "new": 16,
+   "total": 190,
+   "cn": 190,
+   "cn_new": 16
   }
  ]
 }
