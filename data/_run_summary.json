@@ -1,23 +1,23 @@
 {
- "ran_at": "2026-11-04T09:21:35Z",
+ "ran_at": "2026-11-04T14:26:46Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 243,
-   "cn": 232,
-   "cn_new": 0
+   "new": 13,
+   "total": 256,
+   "cn": 245,
+   "cn_new": 13
   },
   {
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 80,
-   "cn": 68,
-   "cn_new": 0
+   "new": 3,
+   "total": 83,
+   "cn": 71,
+   "cn_new": 3
   },
   {
    "handle": "baoshu88",
@@ -31,20 +31,20 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 1,
+   "src": "guest-gql",
+   "new": 0,
    "total": 111,
    "cn": 106,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 42,
-   "cn": 34,
-   "cn_new": 0
+   "new": 2,
+   "total": 44,
+   "cn": 36,
+   "cn_new": 2
   },
   {
    "handle": "SCMPChinese",
@@ -59,8 +59,8 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 195,
+   "new": 13,
+   "total": 208,
    "cn": 0,
    "cn_new": 0
   },
@@ -68,7 +68,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 20,
    "total": 500,
    "cn": 1,
    "cn_new": 0
@@ -77,8 +77,8 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 101,
+   "new": 2,
+   "total": 103,
    "cn": 0,
    "cn_new": 0
   },
@@ -87,27 +87,27 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 82,
-   "cn": 82,
+   "total": 83,
+   "cn": 83,
    "cn_new": 1
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 99,
-   "cn": 99,
-   "cn_new": 1
+   "new": 3,
+   "total": 102,
+   "cn": 102,
+   "cn_new": 3
   },
   {
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 163,
-   "cn": 163,
-   "cn_new": 0
+   "new": 11,
+   "total": 174,
+   "cn": 174,
+   "cn_new": 11
   }
  ]
 }
