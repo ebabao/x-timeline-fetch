@@ -112,17 +112,32 @@ jobs:
             docs/index.html
           retention-days: 30
 
-      # ── 为什么要有这一段 ─────────────────────────────────────
-      # GitHub 的 schedule 对本仓库实测已完全失效：改成每 30 分钟后，
-      # 4 小时内 8 次机会一次都没触发（status 全绿、workflow active）。
-      # 所以不再指望它 —— 本轮跑完自己睡 25 分钟，再用 PAT 触发下一轮，
-      # 形成一条自维持的链。PAT 存在 repo secret GH_PAT。
+      # ── 数据部分到此结束 ─────────────────────────────────────
+      # 续链逻辑移到下方独立的 chain job。原因见 #205：
+      # 那次 Commit data 失败 → fetch job 判 failure → 末尾 chain step 被跳过
+      # → 自调度链一次性永久停摆，只剩 GitHub 严重漏跑的 schedule 兜底。
+
+  # ── 续链（与抓取解耦）────────────────────────────────────────
+  # 1) always()：抓取/提交失败也照样排下一轮，链不会因单次故障断掉；
+  # 2) PAT 而非 GITHUB_TOKEN：绕开 GitHub 对递归 workflow 的拦截；
+  # 3) 独立 job：不受 fetch 结果影响，也不会被 fetch 的失败状态吞掉。
+  chain:
+    needs: fetch
+    if: always() && github.event.inputs.chain == 'on'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
       - name: Chain next run
-        if: github.event.inputs.chain == 'on'
         env:
           PAT: ${{ secrets.GH_PAT }}
+          FETCH_RESULT: ${{ needs.fetch.result }}
         run: |
-          echo "本轮完成，25 分钟后自动触发下一轮"
+          echo "上一轮抓取结果: ${FETCH_RESULT}（无论成败都续链）"
+          if [ -z "$PAT" ]; then
+            echo "::error::缺少 secret GH_PAT，无法续链"
+            exit 1
+          fi
+          echo "25 分钟后自动触发下一轮"
           sleep 1500
           code=$(curl -s -o /tmp/resp.txt -w "%{http_code}" -X POST \
             -H "Authorization: Bearer $PAT" \
