@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-09T17:34:21Z",
+ "ran_at": "2026-11-09T18:00:28Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -59,8 +59,8 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 347,
+   "new": 1,
+   "total": 348,
    "cn": 0,
    "cn_new": 0
   },
@@ -68,7 +68,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 8,
+   "new": 7,
    "total": 500,
    "cn": 0,
    "cn_new": 0
@@ -104,10 +104,10 @@
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 0,
    "total": 327,
    "cn": 323,
-   "cn_new": 3
+   "cn_new": 0
   }
  ]
 }
