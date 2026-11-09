@@ -1,5 +1,114 @@
 [
  {
+  "id": "2119924272416129083",
+  "time": "Mon Nov 09 22:45:07 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Here’s what you need to know to start your day: Morning Briefing Asia https://www.bloomberg.com/news/newsletters/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling-mw9sd6be?taid=6af24cf322159d00016575c1&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 6720,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2119924272416129083",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2119923027353784693",
+  "time": "Mon Nov 09 22:40:10 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Get up to speed on what's moving global markets https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates?taid=6af24bca22159d00016575b2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 8957,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2119923027353784693",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2119921773932138866",
+  "time": "Mon Nov 09 22:35:11 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The AI economy runs on Nvidia GPUs. Can it survive the explosive revelation of an affair between CEO Jensen Huang and an alleged Chinese spy? @sarahfrier  joins @sarahsholder  on the Big Take podcast to explain. Listen to the full episode at https://bit.ly/4rPgAEc.",
+  "reply": 3,
+  "like": 4,
+  "rt": 2,
+  "view": 10589,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2119918576396095488/vid/avc1/1080x1920/I5kJkd5XsfUgu4py.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2119921773932138866",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2119921740377690374",
+  "time": "Mon Nov 09 22:35:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "President Trump said the FBI is looking into Nvidia CEO Jensen Huang’s affair with a woman who is reportedly suspected to have been a Chinese intelligence officer https://www.bloomberg.com/news/articles/2026-11-09/trump-says-fbi-investigating-huang-affair-called-embattled-ceo?taid=6af24a978a00c900015827c8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 4,
+  "rt": 1,
+  "view": 8608,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2119921740377690374",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2119920517121523923",
+  "time": "Mon Nov 09 22:30:12 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Nvidia’s general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling?taid=6af24974d0eea10001e9a655&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 3,
+  "view": 10577,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2119920517121523923",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2119919308067209378",
+  "time": "Mon Nov 09 22:25:23 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Superpowers, secrets and the spy that got caught — how the US got inside China’s elusive intelligence agency. Explore Bloomberg’s series, The Sixth Bureau.\n\nListen, watch and read: https://bloom.bg/4f1jGjl",
+  "reply": 0,
+  "like": 2,
+  "rt": 2,
+  "view": 11907,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HWt3YFRXcAArHjp.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2119919308067209378",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2119919219701629257",
+  "time": "Mon Nov 09 22:25:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy prompted bipartisan demands on Capitol Hill for more information as lawmakers rushed to assess the potential national security fallout from the scandal. https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal?taid=6af2483ec6e52100017b38d3&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 1,
+  "rt": 4,
+  "view": 10571,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2119919219701629257",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2119917975557792106",
   "time": "Mon Nov 09 22:20:06 +0000 2026",
   "user": "business",
@@ -7530,119 +7639,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/daveyalba/status/2118368611681337712",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118367757028786489",
-  "time": "Thu Nov 05 15:40:05 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Hertz said its third quarter profit missed estimates on higher operating costs https://www.bloomberg.com/news/articles/2026-11-05/hertz-misses-estimates-as-inflation-maintenance-hit-profits?taid=6aeca3556a9a850001377a85&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 5,
-  "like": 6,
-  "rt": 0,
-  "view": 11966,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2118367757028786489",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118367359060578305",
-  "time": "Thu Nov 05 15:38:30 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "We’re pleased to work with @DubaiDET as Host Partner of #BloombergInvest Dubai.\n\nDriving economic growth and positioning the emirate as a premier global investment hub, DET plays a pivotal role in accelerating Dubai’s dynamic business ecosystem.\n\nJoin us as Bloomberg convenes global investors and industry leaders shaping the future of regional growth.\n\nLearn more here:\nhttps://bloom.bg/4cEGZyi",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 4101,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HWVgHc6XMAAjqAx.jpg?name=orig"
-  ],
-  "url": "https://x.com/BloombergLive/status/2118367359060578305",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118366491586236574",
-  "time": "Thu Nov 05 15:35:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "US labor productivity accelerated in the third quarter at the fastest pace in a year as employers strive to ease the burden of higher costs https://www.bloomberg.com/news/articles/2026-11-05/us-labor-productivity-increases-at-fastest-pace-in-a-year?taid=6aeca22793ecc90001e9fbcf&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 4,
-  "like": 5,
-  "rt": 0,
-  "view": 13695,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2118366491586236574",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118365282955575372",
-  "time": "Thu Nov 05 15:30:15 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Penlink’s Webloc tool provides police with “billions of location data points” which can show the movements of people on a near real-time basis. https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/?taid=6aeca107ca024800011a3a45&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 4,
-  "rt": 2,
-  "view": 13332,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2118365282955575372",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118365223052550371",
-  "time": "Thu Nov 05 15:30:01 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "ICYMI: Founder & CEO of @Particle6P @ElineHQ sat down with @opinion’s @parmy to discuss the public’s reaction to AI actress @TillyNorwoodX  #BloombergTech\n\n\"People forgot that there was a lot of humans behind it.  It was a character creation and there's human creativity in this work.\"\n\nWatch the full session here ⏯️ \nhttps://bloom.bg/4iY6GgO",
-  "reply": 1,
-  "like": 3,
-  "rt": 1,
-  "view": 4272,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2118357394799448064/vid/avc1/1920x1080/L1Yt9VFYpQ-dzjPd.mp4?tag=16"
-  ],
-  "url": "https://x.com/BloombergLive/status/2118365223052550371",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118365223031628069",
-  "time": "Thu Nov 05 15:30:01 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "ICYMI: What happens when an interviewer and a founder sit down with an AI actress for a live conversation? \n\n@Particle6P Founder & CEO @ElineHQ joins @opinion’s @parmy to explain the tech powering @TillyNorwoodX:\n\n“Here we created her brain and there’s a triple API—basically a video model, an LLM behind it, and her voice, so she can come to life and have a chit chat with us.”\n\nWatch the full session here ⏯️ \nhttps://bloom.bg/4iY6GgO",
-  "reply": 1,
-  "like": 4,
-  "rt": 1,
-  "view": 4466,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2118356890992234497/vid/avc1/1920x1080/CGxWNAtXmoLa_tQl.mp4?tag=16"
-  ],
-  "url": "https://x.com/BloombergLive/status/2118365223031628069",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118365222725406904",
-  "time": "Thu Nov 05 15:30:01 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "ICYMI: Founder & CEO of @Particle6P @ElineHQ sat down with @opinion’s @parmy to discuss the vision behind @TillyNorwoodX #BloombergTech\n\n\"Make a piece of art that shows what's happening and what's possible.\"\n\nWatch the full session here ⏯️ \nhttps://bloom.bg/4iY6GgO",
-  "reply": 1,
-  "like": 3,
-  "rt": 1,
-  "view": 4582,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2118356890233040896/vid/avc1/1920x1080/RLaYMdeBJfe9UV8s.mp4?tag=16"
-  ],
-  "url": "https://x.com/BloombergLive/status/2118365222725406904",
   "src": "fxtwitter-v2"
  }
 ]
