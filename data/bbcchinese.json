@@ -1,5 +1,22 @@
 [
  {
+  "id": "2120393207645376998",
+  "time": "Wed Nov 11 05:48:30 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "在美国奥勒冈州，监视器拍下电动自行车电池突然爆炸并引发火灾的瞬间。火势迅速蔓延，最终导致住宅被焚毁。\n\n据当地媒体报导，屋内六人全数成功逃生，但一只猫在火灾中丧生。",
+  "reply": 1,
+  "like": 2,
+  "rt": 1,
+  "view": 3032,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2120393151487844353/vid/avc1/608x1080/GH2hQkumLThxAxMO.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2120393207645376998",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2120367558289154144",
   "time": "Wed Nov 11 04:06:35 +0000 2026",
   "user": "bbcchinese",
