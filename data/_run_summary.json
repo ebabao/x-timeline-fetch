@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-11T03:21:41Z",
+ "ran_at": "2026-11-11T03:48:49Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 191,
    "cn": 185,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
@@ -59,7 +59,7 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 386,
    "cn": 0,
    "cn_new": 0
@@ -78,7 +78,7 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 169,
+   "total": 170,
    "cn": 0,
    "cn_new": 0
   },
