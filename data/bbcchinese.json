@@ -1,5 +1,86 @@
 [
  {
+  "id": "2120895055682531757",
+  "time": "Thu Nov 12 15:02:40 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "财务长科莱特·克雷斯将暂时接替黄仁勋，但还有几个人被认为是可能的正式接班人。",
+  "reply": 8,
+  "like": 27,
+  "rt": 1,
+  "view": 32364,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2120895055682531757",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2120884678781788359",
+  "time": "Thu Nov 12 14:21:26 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "英伟达（辉达）董事会宣布，该公司首席执行官黄仁勋已经辞职。\n\n董事会表示，科莱特·克雷斯（Colette Kress）已同意出任临时首席执行官。她此前一直担任英伟达执行副总裁兼首席财务官。\n\n阅读报导：https://bbc.in/4khNmwh",
+  "reply": 64,
+  "like": 275,
+  "rt": 40,
+  "view": 70167,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HW7lPUTbcAAfur_.jpg?name=orig"
+  ],
+  "url": "https://x.com/bbcchinese/status/2120884678781788359",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2120879076051390787",
+  "time": "Thu Nov 12 13:59:10 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "【最新消息】英伟达（Nvidia）董事会宣布，黄仁勋已辞去他在该公司的首席执行官职务。",
+  "reply": 231,
+  "like": 1111,
+  "rt": 122,
+  "view": 270203,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HW7gRU0aQAAiBGa.jpg?name=orig"
+  ],
+  "url": "https://x.com/bbcchinese/status/2120879076051390787",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2120872584237773195",
+  "time": "Thu Nov 12 13:33:22 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "英国议会前研究员克里斯·卡什（Chris Cash）接受BBC采访，谈及自己被指控为中国从事间谍活动一事，并提供了数千则与此案密切相关的讯息纪录。\n\n2023年，卡什与他的朋友克里斯·贝里（Chris Berry）因涉嫌为中国从事间谍活动而被捕，但去年此案突然被撤诉，两人也获判无罪。",
+  "reply": 4,
+  "like": 21,
+  "rt": 2,
+  "view": 23139,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2120871264671944704/vid/avc1/720x1280/Apchd5B-S0ZiPQBk.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2120872584237773195",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2120852522889892023",
+  "time": "Thu Nov 12 12:13:39 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "中美之间的博弈可能会对能源成本产生重大影响，但谁会最终获胜？https://bbc.in/4exBGli",
+  "reply": 6,
+  "like": 7,
+  "rt": 2,
+  "view": 18183,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2120852522889892023",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2120831457870369021",
   "time": "Thu Nov 12 10:49:57 +0000 2026",
   "user": "bbcchinese",
