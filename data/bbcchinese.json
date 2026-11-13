@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121144411124105592",
+  "time": "Fri Nov 13 07:33:31 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "微软系统大规模中断，包括Teams、Outlook、Copilot在内的服务都出现“连线问题”，也影响OpenAI、Anthropic等AI服务连线。\n\n据报全球数以万计用户受影响，范围涵盖美国、日本、香港、台湾、新加坡等。监测网站Downdetector数据显示，这次微软服务中断在大约一小时内波及74个国家。\n\n微软在X平台表示，这次中断的原因是多部伺服器“意外无法使用”，令其余系统承受压力；公司正在抢修并已有“正面成果”，但警告部分已恢复的服务“可能再次失去回应”。\n\n阅读报导：https://bbc.in/4BUDTkF",
+  "reply": 2,
+  "like": 8,
+  "rt": 4,
+  "view": 3856,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HW_RmNmaAAAGyv3.jpg?name=orig"
+  ],
+  "url": "https://x.com/bbcchinese/status/2121144411124105592",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121141075104637157",
   "time": "Fri Nov 13 07:20:15 +0000 2026",
   "user": "bbcchinese",
