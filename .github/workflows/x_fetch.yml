@@ -120,10 +120,14 @@ jobs:
   # ── 续链（与抓取解耦）────────────────────────────────────────
   # 1) always()：抓取/提交失败也照样排下一轮，链不会因单次故障断掉；
   # 2) PAT 而非 GITHUB_TOKEN：绕开 GitHub 对递归 workflow 的拦截；
-  # 3) 独立 job：不受 fetch 结果影响，也不会被 fetch 的失败状态吞掉。
+  # 3) 独立 job：不受 fetch 结果影响，也不会被 fetch 的失败状态吞掉；
+  # 4) schedule 也续链：cron(:07/:37) 触发时 inputs.chain 为空，旧条件会让
+  #    chain job 直接 skip → 链一断就只剩漏跑严重的 schedule 兜底（2026-11-05/
+  #    11-09 两次长停摆即此因）。加了 event_name=='schedule' 后，只要仓库还
+  #    活着，链条最迟 30 分钟内必被 schedule 重新拉回自维持状态。
   chain:
     needs: fetch
-    if: always() && github.event.inputs.chain == 'on'
+    if: always() && (github.event.inputs.chain == 'on' || github.event_name == 'schedule')
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
