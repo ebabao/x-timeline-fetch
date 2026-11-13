@@ -1,5 +1,52 @@
 [
  {
+  "id": "2121117231782437116",
+  "time": "Fri Nov 13 05:45:31 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "黄仁勋黯然辞职后，英伟达能重回正轨吗？\n\n科技巨头英伟达董事会表示，执行长黄仁勋已辞去职务，财务长科莱特·克雷斯则获任命为临时执行长。",
+  "reply": 6,
+  "like": 12,
+  "rt": 3,
+  "view": 6663,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121116504825683968/vid/avc1/1080x1920/HkFgzsfsOi2qGaRd.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2121117231782437116",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121087760157069598",
+  "time": "Fri Nov 13 03:48:24 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "微软系统大规模中断，包括Teams、Outlook、Copilot在内的服务都出现“连线问题”，也影响OpenAI、Anthropic等AI服务连线。\nhttps://bbc.in/48QDkLr",
+  "reply": 5,
+  "like": 25,
+  "rt": 2,
+  "view": 14005,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2121087760157069598",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121071219164242094",
+  "time": "Fri Nov 13 02:42:40 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "从失禁到长期疼痛，数以百万计的女性在分娩数十年后仍然饱受后遗症困扰。https://bbc.in/48PmSuR",
+  "reply": 6,
+  "like": 16,
+  "rt": 0,
+  "view": 14374,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2121071219164242094",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121038859719078315",
   "time": "Fri Nov 13 00:34:05 +0000 2026",
   "user": "bbcchinese",
