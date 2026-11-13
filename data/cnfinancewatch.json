@@ -1,5 +1,35 @@
 [
  {
+  "id": "2120987549389017596",
+  "time": "Thu Nov 12 21:10:12 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "黄仁勋刚刚宣布辞去英伟达CEO，即刻生效。\n\n：黄仁勋身边还是有高人；辞职是最快的止血方案。公司、个人都可以快速止血。\n\n：我当年处理过一家我投资的公司的类似事件。当时我明确提出创始人辞职方案，最后董事会尽管不舍，但是接受了我的方案。立即稳住了局面。",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 3621,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2120987549389017596",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2120986053272334658",
+  "time": "Thu Nov 12 21:04:15 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "看来我的观点是对的！\n\n黄仁勋已经被免职。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 2505,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2120986053272334658",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2120816371676443044",
   "time": "Thu Nov 12 09:50:00 +0000 2026",
   "user": "cnfinancewatch",
@@ -7639,36 +7669,6 @@
    "https://pbs.twimg.com/media/HV6lxhraUAAU-on.jpg?name=orig"
   ],
   "url": "https://x.com/cnfinancewatch/status/2116311152741548352",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116310322747462061",
-  "time": "Fri Oct 30 23:24:34 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "要感谢我们的量化系统，数周前发出卖出QQQ持有BIL的提示，让我们避开了大跌。\n\n回想起来，最早是韩国股市崩盘，之后美股也有人开始讨论AI交易拥挤度问题，但主观上很少有人能在这个阶段真正敢于看空QQQ，看空AI，采取清仓策略。\n\n这个量化系统的数据提示，我们在订阅区也跟学员分享的。",
-  "reply": 4,
-  "like": 11,
-  "rt": 0,
-  "view": 11048,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2116310322747462061",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116305131562266632",
-  "time": "Fri Oct 30 23:03:57 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "美国军工股订单与预增速览（2026 Q3财报季，截至10月底）\n\n宏观：特朗普/五角大楼FY2027国防预算约1.5万亿美元（基础约1.15万亿+约3500亿 reconciliation），目标是补伊朗冲突弹药库存、加速Golden Dome导弹防御、无人机/自主系统与工业扩产。政治阻力/CR风险仍在，但军工巨头backlog和订单创纪录，实际需求强劲。\n\n1/ $LMT：Q3末backlog创纪录2920亿美元，book-to-bill 4x；MFC backlog约1425亿，含PAC-3 MSE多年期约525亿（潜在最高586亿）。2026销售指引上调至800-820亿，EPS 30.35-30.75。F-35 Lot20+谈判是执行风险。\n\n2/ $NOC：backlog创纪录1096亿，Q3净订单164亿，b2b 1.5x；classified约46亿、Sentinel约20亿、Virginia推进约14亿、F-35相关约13亿、E-2约10亿；约35% backlog预计12个月内转化。销售指引43.75-44.25B，EPS上调，2027有加速预期。\n\n3/ $RTX：backlog创纪录3400亿（国防1640/商业1760），Q3新awards超810亿（国防近590亿）；Raytheon销售+14%至约80亿，Patriot/SM/Tomahawk驱动。2026 adj EPS上调至7.65-7.75，销售970-975亿。\n\n4/ $GD：backlog创纪录2203亿，estimated contract value 2707亿；Q3订单988亿，整体b2b 6.8x、国防8.5x。Columbia-class 5艘约295亿、Virginia Block VI 9艘约421亿。2026 EPS 17.20-17.30，收入565-568亿。\n\n5/ $LHX：backlog创纪录532亿，Q3订单193亿，b2b 3.2x（Missile Solutions 11.8x）；THAAD推进约63亿、PAC-3 MSE约47亿、VAMPIRE C-UAS超5亿、NGJ-LB约8.76亿。2026收入235-237亿，GAAP EPS 12.25-12.35，FCF约30亿。\n\n6/ $AVAV：FY27 Q1 funded backlog约14.6-15亿（+37%），bookings约6.83亿，b2b约1.4x；Switchblade/Puma/JUMP20/c-UAS。FY27收入指引21.25-22.25亿，结果偏后半年。\n\n7/ $KTOS：总backlog 20.84亿（funded 15.72亿），Q2 b2b 1.1x、LTM 1.3x；无人系统/高超音速/Spartan J85/Valkyrie，pipeline约150亿。FY26收入17.5-18.1亿。\n\n8/ $PLTR：RPO约49亿；Maven Smart System为program of record，Army TITAN约1.27亿，NGC2/Enterprise潜在最高约100亿。国防数字化+自主系统软件层。\n\n9/ $ONDS：pro forma backlog约7.57亿；6/30后订单超2.7亿（8月下旬-10月初超1.65亿）；ULTRA/IonStrike/ESAD/c-UAS。2026收入目标上调至5.25-5.50亿。\n\n10/ $RCAT：Army SRR program（Black Widow/Teal），扩展USV（B-18/B-39开放订单，B-26全速率生产）；2026收入目标1.50-1.80亿，依赖下半年放量。\n\nETF：ITA 规模最大，重仓GE/RTX/BA/LMT/GD；PPA 覆盖广；XAR 更均衡，含KTOS/AVAV；SHLD 偏科技/AI，含PLTR。\n\n总结：弹药+导弹防御是最大订单引擎；无人机/自主系统与软件占比上升；潜艇/大型平台稳健。多数公司上调指引，backlog提供多年可见度；风险在产能、供应链、F-35谈判、预算最终落地。数据以公司披露/IR为准，不构成投资建议。",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 3206,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2116305131562266632",
   "src": "fxtwitter-v2"
  }
 ]
