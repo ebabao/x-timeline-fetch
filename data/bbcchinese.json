@@ -1,5 +1,37 @@
 [
  {
+  "id": "2121224823120572726",
+  "time": "Fri Nov 13 12:53:02 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "台湾在过去七年间，几乎每年都有大型选举、罢免或公投。有学者形容台湾政治人物常处于“选举模式”，在面对不同议题时往往急于回应。https://bbc.in/4iFNAfs",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 651,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2121224823120572726",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121213446977184037",
+  "time": "Fri Nov 13 12:07:50 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "他是全球科技界最具影响力的人物之一，一手将英伟达（辉达）推上全球市值最高企业的宝座，成为AI革命的核心推手。\n\n黄仁勋曾凭着独特魅力与商业眼光，在科技界似乎“呼风唤雨”。那么，黄仁勋的突然离场意味着什么？",
+  "reply": 5,
+  "like": 10,
+  "rt": 1,
+  "view": 6525,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121211049353609216/vid/avc1/1080x1920/n2bUyWgEzYaWUk_A.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2121213446977184037",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121198648541560914",
   "time": "Fri Nov 13 11:09:02 +0000 2026",
   "user": "bbcchinese",
