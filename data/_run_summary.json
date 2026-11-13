@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-13T21:22:01Z",
+ "ran_at": "2026-11-13T21:48:08Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
-   "src": "guest-gql",
-   "new": 40,
+   "src": "fxtwitter-v2",
+   "new": 0,
    "total": 500,
    "cn": 496,
-   "cn_new": 34
+   "cn_new": 0
   },
   {
    "handle": "dmjk001",
@@ -68,7 +68,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 8,
+   "new": 5,
    "total": 500,
    "cn": 1,
    "cn_new": 0
