@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121551228937105813",
+  "time": "Sat Nov 14 10:30:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Eurovision has come to Asia. From K-pop to Vietnamese folk, its new lineup shows how music can cross borders without losing its local identity. https://www.bloomberg.com/news/articles/2026-11-13/eurovision-asia-brings-k-pop-and-national-pride-to-bangkok?taid=6af8382bc6e5210001708817&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 9506,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121551228937105813",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121542414456279212",
   "time": "Sat Nov 14 09:55:02 +0000 2026",
   "user": "business",
@@ -7604,21 +7619,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120545849507762333",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120544601182277879",
-  "time": "Wed Nov 11 15:50:05 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Turkey’s largest city will need about $100 billion to finance the green transition, a challenge as the municipality is focused on more pressing risks, according to Istanbul’s acting mayor. https://www.bloomberg.com/news/articles/2026-11-11/turkey-s-biggest-city-faces-100-billion-green-transition-bill?taid=6af48eadc6e52100014d8dc7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 6,
-  "rt": 1,
-  "view": 13863,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120544601182277879",
   "src": "fxtwitter-v2"
  }
 ]
