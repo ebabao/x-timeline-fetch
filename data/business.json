@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121556260285751585",
+  "time": "Sat Nov 14 10:50:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "What happened to the global economy this week — in charts https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike?taid=6af83cdb718669000140a801&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 5,
+  "rt": 0,
+  "view": 12099,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121556260285751585",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121551228937105813",
   "time": "Sat Nov 14 10:30:04 +0000 2026",
   "user": "business",
@@ -7604,21 +7619,6 @@
    "https://pbs.twimg.com/media/HW2nGtsWQAAweUl.jpg?name=orig"
   ],
   "url": "https://x.com/BloombergLive/status/2120547101079679258",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120545849507762333",
-  "time": "Wed Nov 11 15:55:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "At least 120,000 tons of French wheat was booked for China last week, according to people familiar with the matter, signaling that a major buyer is snapping up the grain after a slump in global prices. https://www.bloomberg.com/news/articles/2026-11-11/china-books-120-000-tons-of-french-wheat-as-global-prices-slump?taid=6af48fd622159d00010a0e12&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 3,
-  "rt": 1,
-  "view": 12681,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120545849507762333",
   "src": "fxtwitter-v2"
  }
 ]
