@@ -1,5 +1,50 @@
 [
  {
+  "id": "2121591492376408503",
+  "time": "Sat Nov 14 13:10:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "A federal judge in Chicago says the US attorney's office has serious credibility problems, and @barbmcquade says her doubts could spread nationwide (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-14/chicago-s-broadview-six-case-shows-how-the-doj-is-losing-public-trust?taid=6af85dab718669000140a904&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 4,
+  "rt": 0,
+  "view": 10618,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121591492376408503",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121590233841926476",
+  "time": "Sat Nov 14 13:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Democrats and Republicans aren’t yet ready to address the threat posed by tribalism, says @Clive_Crook (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-14/the-real-message-of-the-midterms-know-thy-enemy?taid=6af85c7f191e680001edcbf6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 12475,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121590233841926476",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121589049102086460",
+  "time": "Sat Nov 14 13:00:21 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "SpaceX on Saturday will attempt to land its Starship spacecraft for the first time, an engineering feat that would help fulfill Elon Musk’s pledge to make the massive rocket fully reusable https://www.bloomberg.com/news/articles/2026-11-14/spacex-to-attempt-first-full-recovery-of-new-starship-rocket?taid=6af85b658a00c90001226dc7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 15,
+  "rt": 0,
+  "view": 12880,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121589049102086460",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121583949235311009",
   "time": "Sat Nov 14 12:40:05 +0000 2026",
   "user": "business",
@@ -7565,53 +7610,6 @@
    "https://video.twimg.com/amplify_video/2120556053557288960/vid/avc1/1080x1920/muStCoCfe98zCIeq.mp4?tag=16"
   ],
   "url": "https://x.com/business/status/2120556142459802029",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120555922212769989",
-  "time": "Wed Nov 11 16:35:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "A board member for the largest public pension plan in the US has raised concerns about its AI investments, saying the growing backlash against data centers can hit asset values and returns. https://www.bloomberg.com/news/articles/2026-11-11/calpers-board-member-says-ai-now-poses-a-stranded-asset-risk?taid=6af4993822159d00010a0e9d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 3,
-  "rt": 0,
-  "view": 6966,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120555922212769989",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120554678408683586",
-  "time": "Wed Nov 11 16:30:07 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Kivanc Zaimler, chief executive officer of Sabanci, joined Bloomberg Green at COP31 to speak about Turkey’s electrification goals https://www.bloomberg.com/news/articles/2026-11-11/sabanci-s-zaimler-says-cop31-electrification-goal-within-reach?taid=6af4980fd0eea1000165a932&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 0,
-  "rt": 2,
-  "view": 9012,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120554678408683586",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120554117206528227",
-  "time": "Wed Nov 11 16:27:54 +0000 2026",
-  "user": "BBGNewEconomy",
-  "name": "Bloomberg New Economy",
-  "text": "The risks facing businesses are changing, and becoming increasingly interconnected.\n\n@OliverWyman Forum CEO John Romeo explained why leaders need to be proactive, flexible and adaptable to navigate what comes next at backstage at #BloombergNewEconomy in Delhi.",
-  "reply": 0,
-  "like": 0,
-  "rt": 2,
-  "view": 1298,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120553935077273600/vid/avc1/1080x1920/WTjc87PCnzICTpNi.mp4?tag=29"
-  ],
-  "url": "https://x.com/BBGNewEconomy/status/2120554117206528227",
   "src": "fxtwitter-v2"
  }
 ]
