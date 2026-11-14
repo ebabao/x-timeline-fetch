@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121445577468563494",
+  "time": "Sat Nov 14 03:30:14 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The ground stop from the Federal Aviation Administration, called around 4 p.m. ET, left passengers across the country stranded on tarmacs and stuck in terminals awaiting news of when — or if — their flights would take off https://www.bloomberg.com/news/articles/2026-11-14/faa-flight-ground-stop-leaves-passengers-in-airport-limbo-across-us?taid=6af7d5c68a00c90001226af5&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 3,
+  "rt": 1,
+  "view": 8500,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121445577468563494",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121439235529937247",
   "time": "Sat Nov 14 03:05:02 +0000 2026",
   "user": "business",
@@ -7605,21 +7620,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120521949457588496",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120520690579186098",
-  "time": "Wed Nov 11 14:15:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "US mortgage rates declined for a fourth straight week, boosting home-purchase applications by the most since mid-April https://www.bloomberg.com/news/articles/2026-11-11/us-mortgage-rates-fall-for-fourth-week-lifting-home-purchases?taid=6af4786822159d00010a0d24&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 7,
-  "rt": 2,
-  "view": 10175,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120520690579186098",
   "src": "fxtwitter-v2"
  }
 ]
