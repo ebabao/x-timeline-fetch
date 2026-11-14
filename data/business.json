@@ -1,5 +1,37 @@
 [
  {
+  "id": "2121672029392781481",
+  "time": "Sat Nov 14 18:30:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "What if your bank knew you were at risk of dementia before you did? Researchers are turning years of financial data into a potential early-warning system. https://www.bloomberg.com/news/features/2026-11-13/how-financial-data-can-reveal-early-signs-of-dementia?taid=6af8a8ad191e680001edcde8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 3,
+  "rt": 0,
+  "view": 8168,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121672029392781481",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121669668913979876",
+  "time": "Sat Nov 14 18:20:42 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The head of the FAA said airlines should expect to return to normal flight schedules by Sunday evening following the longest US stoppage in 25 years. George Ferguson, Senior Aviation Analyst for Bloomberg Intelligence, explains why this weekend’s meltdown would have been far worse two weeks from now.",
+  "reply": 1,
+  "like": 8,
+  "rt": 1,
+  "view": 13807,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121669536671793152/vid/avc1/1920x1080/lbF_a3YhpoTSYASb.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2121669668913979876",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121665729044877334",
   "time": "Sat Nov 14 18:05:03 +0000 2026",
   "user": "business",
@@ -7572,36 +7604,6 @@
    "https://pbs.twimg.com/media/HW3NQYrXYAAxOg8.jpg?name=orig"
   ],
   "url": "https://x.com/climate/status/2120576682889183546",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120576045606728167",
-  "time": "Wed Nov 11 17:55:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The accelerating deployment of clean energy and green technology across the developing world is a bright spot in the campaign to tackle greenhouse gas emissions, according to Al Gore. https://www.bloomberg.com/news/articles/2026-11-11/rise-of-clean-tech-makes-2026-a-climate-turning-point-gore-says?taid=6af4abf622159d00010a0f80&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 8269,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120576045606728167",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120574794135470544",
-  "time": "Wed Nov 11 17:50:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The looming retirement of the Federal Reserve’s longest-serving policymaker has set off a debate within the US central bank over the rules governing term limits for regional Fed leaders, according to people familiar with the discussions. https://www.bloomberg.com/news/articles/2026-11-11/retirement-rules-spark-exit-date-debate-for-ny-fed-s-williams?taid=6af4aacb22159d00010a0f77&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 2,
-  "view": 9458,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120574794135470544",
   "src": "fxtwitter-v2"
  }
 ]
