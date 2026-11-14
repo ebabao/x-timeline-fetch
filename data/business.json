@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121453135017193969",
+  "time": "Sat Nov 14 04:00:16 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Transportation Secretary Sean Duffy called on Congress to authorize $50 billion in emergency funding to overhaul the US air traffic control system after a technical issue spawned the longest nationwide grounding in more than two decades https://www.bloomberg.com/news/articles/2026-11-14/duffy-calls-for-emergency-air-traffic-upgrade-funds-after-outage?taid=6af7dcd08a00c90001226b1f&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 10,
+  "like": 21,
+  "rt": 7,
+  "view": 15789,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121453135017193969",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121445577468563494",
   "time": "Sat Nov 14 03:30:14 +0000 2026",
   "user": "business",
@@ -7605,21 +7620,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120523199565680970",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120521949457588496",
-  "time": "Wed Nov 11 14:20:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Options traders are positioning for a further rebound in the euro against sterling after a historically sharp selloff, betting the single currency has priced in too much risk around France https://www.bloomberg.com/news/articles/2026-11-11/euro-pound-options-turn-bullish-as-traders-bet-on-bigger-rebound?taid=6af4799422159d00010a0d2b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 7584,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120521949457588496",
   "src": "fxtwitter-v2"
  }
 ]
