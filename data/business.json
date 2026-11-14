@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121599039992959010",
+  "time": "Sat Nov 14 13:40:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "You know what might be really super for Skydance? Making movies that can stand on their own, not as part of a cinematic universe (via @opinion)  https://www.bloomberg.com/opinion/newsletters/2026-11-14/skydance-s-dc-studios-shakeup-could-release-it-from-superhero-slump?taid=6af864b38a00c90001226de6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 6733,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121599039992959010",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121596525050466565",
+  "time": "Sat Nov 14 13:30:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "New York had punk in the ’70s. Seattle had grunge in the ’90s. Now London’s jazz scene is having a moment. https://www.bloomberg.com/news/articles/2026-11-13/london-s-jazz-revival-is-energizing-the-uk-s-live-music-scene?taid=6af8625b8a00c90001226ddc&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 6,
+  "rt": 0,
+  "view": 12760,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121596525050466565",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121591492376408503",
   "time": "Sat Nov 14 13:10:03 +0000 2026",
   "user": "business",
@@ -7578,38 +7608,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120558432121987348",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120557178108981338",
-  "time": "Wed Nov 11 16:40:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The New World screwworm has made a comeback in the US after months of relatively muted cases, thanks in large part to milder temperatures and humidity https://www.bloomberg.com/news/articles/2026-11-11/sudden-screwworm-resurgence-finds-catalyst-in-ideal-fly-weather?taid=6af49a6322159d00010a0ea4&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 3,
-  "rt": 1,
-  "view": 12828,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120557178108981338",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120556142459802029",
-  "time": "Wed Nov 11 16:35:57 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "With little gas in storage and prices surging, Europe is holding its breath for a mild winter.\n\nNicole Sy explains https://bloom.bg/4iBN95J",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 5863,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120556053557288960/vid/avc1/1080x1920/muStCoCfe98zCIeq.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2120556142459802029",
   "src": "fxtwitter-v2"
  }
 ]
