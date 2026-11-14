@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121641830009753944",
+  "time": "Sat Nov 14 16:30:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Crypto once promised decentralization and an escape from government control. But across Latin America, its value is increasingly access to dollars. Read more: https://bloom.bg/4zi2XiY\n\n📷: Camilo Freedman/Bloomberg",
+  "reply": 4,
+  "like": 7,
+  "rt": 3,
+  "view": 12851,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXGWADDWoAAq48D.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2121641830009753944",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121636796131926395",
   "time": "Sat Nov 14 16:10:04 +0000 2026",
   "user": "business",
@@ -7585,21 +7602,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120571023011520860",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120570510681522242",
-  "time": "Wed Nov 11 17:33:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Struggling fast-food chains have figured out that the strange salve for strapped consumers is ridiculously sweet kaleidoscopic drinks. https://www.bloomberg.com/news/articles/2026-11-11/starbucks-taco-bell-and-mcdonald-s-are-battling-over-colorful-drinks?taid=6af4a6ce22159d00010a0f51&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 3,
-  "rt": 0,
-  "view": 13318,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120570510681522242",
   "src": "fxtwitter-v2"
  }
 ]
