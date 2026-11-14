@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121636796131926395",
+  "time": "Sat Nov 14 16:10:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Once artificial intelligence’s leading hype-man, Jensen Huang is now the face of an AI-driven meme craze https://www.bloomberg.com/news/articles/2026-11-14/ai-tools-huang-championed-now-star-in-memes-of-his-downfall?taid=6af887dc718669000140aa48&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 8,
+  "rt": 2,
+  "view": 12258,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121636796131926395",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121635532966891848",
+  "time": "Sat Nov 14 16:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Supply shocks have driven up the cost of manufacturing and distribution in the paper and packaging sector. Read more in The Brink. https://www.bloomberg.com/news/newsletters/2026-11-14/paper-makers-are-starting-to-crumple-as-rising-costs-bite?taid=6af886afd0eea100019aef7e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 6,
+  "rt": 2,
+  "view": 14070,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121635532966891848",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121631758026252486",
   "time": "Sat Nov 14 15:50:03 +0000 2026",
   "user": "business",
@@ -7570,38 +7600,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120570510681522242",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120569836304523342",
-  "time": "Wed Nov 11 17:30:21 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "It’s been a big month so far for American politics and the tech industry. Democrats deliver a sweeping win across the country, calling continued AI development into question. Nvidia launches an investigation into CEO Jensen Huang’s affair with an alleged Chinese spy. There are plenty of things to make investors jittery, yet we’re seeing a tech rally as markets await the upcoming Anthropic IPO.\n\nBloomberg’s Michael Ball joins @TheStalwart  and @tracyalloway  on the Odd Lots podcast to unpack why the tech trade is showing resilience despite macro jitters. Listen at http://bit.ly/3PsKJKY or watch at http://Bloomberg.com/video.",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 13716,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120566841705680896/vid/avc1/1080x1920/QJYoYh9LDO0hV3YB.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2120569836304523342",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120569789324173626",
-  "time": "Wed Nov 11 17:30:10 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Nvidia says the companies building data centers need to do so in ways that appeal to local communities. https://www.bloomberg.com/news/articles/2026-11-11/nvidia-says-data-centers-should-be-an-asset-to-communities?taid=6af4a622191e680001d3d706&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": null,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120569789324173626",
   "src": "fxtwitter-v2"
  }
 ]
