@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121424135188344982",
+  "time": "Sat Nov 14 02:05:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "This year’s winner of the Bloomberg Green Docs competition takes you to Bolivia, where a team of locals is restoring a moribund lake by hand. Watch it here ⬇️ https://www.bloomberg.com/news/articles/2026-11-13/winning-bloomberg-green-doc-features-bolivian-woman-restoring-lake?taid=6af7c1ce22159d00012a24a3&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 3,
+  "rt": 1,
+  "view": 11261,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121424135188344982",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121420360465686779",
+  "time": "Sat Nov 14 01:50:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The US has lost its long-standing status as having eradicated measles after transmission of the disease has continued through the past year and broken case records, the Wall Street Journal reported, citing unidentified sources https://www.bloomberg.com/news/articles/2026-11-14/us-loses-measles-elimination-status-after-cases-surge-wsj-says?taid=6af7be4a22159d00012a2471&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 4,
+  "like": 7,
+  "rt": 1,
+  "view": 13238,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121420360465686779",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121419112035287408",
   "time": "Sat Nov 14 01:45:05 +0000 2026",
   "user": "business",
@@ -7592,38 +7622,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120516913138671801",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120516901503644039",
-  "time": "Wed Nov 11 14:00:01 +0000 2026",
-  "user": "BBGNewEconomy",
-  "name": "Bloomberg New Economy",
-  "text": "The organizations best positioned to navigate the COVID-19 pandemic were those that planned ahead, built resilient systems and invested in trusted relationships.\n\nNow, as AI, geopolitical fragmentation, energy constraints, demographic shifts and severe weather reshape the global economy, resilience is becoming a competitive imperative.\n\nCo-chaired with @MarshGlobal, the #BloombergNewEconomy Competitive Resilience Coalition is helping leaders anticipate disruption, identify opportunity and sustain growth through profound change.  \n\nLearn More:\nhttps://bloom.bg/3ULa7yb",
-  "reply": 1,
-  "like": 9,
-  "rt": 2,
-  "view": 5040,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120320321949499392/vid/avc1/1280x720/Ao_ujWO2hQcSVJOV.mp4?tag=16"
-  ],
-  "url": "https://x.com/BBGNewEconomy/status/2120516901503644039",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120515649495617699",
-  "time": "Wed Nov 11 13:55:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "As Andy Burnham heads to the COP31 climate talks in Turkey, the fate of Rosebank oil field has become a test of the UK prime minister's approach to global warming https://www.bloomberg.com/news/articles/2026-11-11/cop31-climate-summit-rosebank-oil-field-becomes-a-test-for-andy-burnham?taid=6af473b622159d00010a0cc5&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 7720,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120515649495617699",
   "src": "fxtwitter-v2"
  }
 ]
