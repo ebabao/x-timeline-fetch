@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121509775875739753",
+  "time": "Sat Nov 14 07:45:20 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Microsoft says access to its flagship software is fully restored after an outage that paralyzed systems around the world https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages?taid=6af8119022159d00013f61ea&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 4,
+  "like": 7,
+  "rt": 0,
+  "view": 12848,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121509775875739753",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121507183359668239",
+  "time": "Sat Nov 14 07:35:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "AirTrunk has filed detailed plans for two hyperscale data center campuses in southern India that could involve about 1.03 trillion rupees ($11 billion) of investment https://www.bloomberg.com/news/articles/2026-11-14/blackstone-s-airtrunk-advances-11-billion-india-data-center-bet?taid=6af80f26718669000140a712&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 4,
+  "like": 9,
+  "rt": 0,
+  "view": 14295,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121507183359668239",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121500896341176320",
   "time": "Sat Nov 14 07:10:03 +0000 2026",
   "user": "business",
@@ -7589,36 +7619,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120534546932170903",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120533268072112345",
-  "time": "Wed Nov 11 15:05:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Aliko Dangote paused a planned listing of his cement company in London, while its refinery IPO beats the funding target https://www.bloomberg.com/news/newsletters/2026-11-11/next-africa-dangote-refinery-ipo-cement-listing-put-markets-to-the-test?taid=6af4841f22159d00010a0daa&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 6,
-  "rt": 2,
-  "view": 12254,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120533268072112345",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120532074197033385",
-  "time": "Wed Nov 11 15:00:18 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Helsing, a German dronemaker, released a platform that uses AI to help military units process data from the field more quickly, creating a new European challenger to US-based Palantir https://www.bloomberg.com/news/articles/2026-11-11/helsing-unveils-ai-military-software-to-challenge-palantir?taid=6af48302d0eea10001e9b8b9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 6,
-  "rt": 1,
-  "view": 11561,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120532074197033385",
   "src": "fxtwitter-v2"
  }
 ]
