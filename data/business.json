@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121492333828907086",
+  "time": "Sat Nov 14 06:36:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Powered by Bloomberg’s global newsroom of more than 3,000 journalists and analysts, the new India homepage delivers actionable local insights and global context audiences need to navigate markets with confidence.\n\nVisit and subscribe on https://www.bloomberg.com/india",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 9529,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXEOCSYXsAAR7BU.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2121492333828907086",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121483294625681747",
   "time": "Sat Nov 14 06:00:07 +0000 2026",
   "user": "business",
@@ -7605,21 +7622,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120529488433885201",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120528235339436060",
-  "time": "Wed Nov 11 14:45:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Young victims are trying to hold xAI legally accountable after their normal photos were ripped from personal social media feeds and school websites and turned into unthinkable images. https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/?taid=6af47f6f22159d00010a0d58&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 3,
-  "rt": 2,
-  "view": 9255,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120528235339436060",
   "src": "fxtwitter-v2"
  }
 ]
