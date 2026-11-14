@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121679594528928036",
+  "time": "Sat Nov 14 19:00:08 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The downfall of former Nvidia CEO Jensen Huang went from an affair to possible espionage. Now the DOJ is investigating the woman whom China denies is a spy. @davidgura and @EenaRuffini spoke with former CIA counterintelligence analyst Peter Mattis about how executives might fall into this trap.",
+  "reply": 2,
+  "like": 7,
+  "rt": 0,
+  "view": 13963,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121673050160615424/vid/avc1/1920x1080/SA92JYiTynJPUkht.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2121679594528928036",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121675793533170062",
   "time": "Sat Nov 14 18:45:02 +0000 2026",
   "user": "business",
@@ -7587,23 +7604,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120577387121287624",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120577295949677059",
-  "time": "Wed Nov 11 18:00:00 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "TOMORROW: How are geopolitical risk and shifting global alliances reshaping where capital moves?\n\nAt #BloombergInvest Dubai, @PIMCO Managing Director & President Christian Stracke joins @BloombergTV’s @AbeerAO1 for a conversation on risk, capital and the new wealth landscape.\n\nLive at 9:50 AM GST ⏯️\nhttps://bloom.bg/4ixI5zh",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 4703,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HW3ASKnXgAEa7eZ.jpg?name=orig"
-  ],
-  "url": "https://x.com/BloombergLive/status/2120577295949677059",
   "src": "fxtwitter-v2"
  }
 ]
