@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121713551978983767",
+  "time": "Sat Nov 14 21:15:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "UK data in the coming days may show a stabilizing jobs market and inflation at a one-year high, piling pressure on the BOE to raise interest rates again https://www.bloomberg.com/news/articles/2026-11-14/boe-s-case-to-raise-rates-again-may-strengthen-on-uk-price-data?taid=6af8cf58718669000140ac53&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 2,
+  "rt": 2,
+  "view": 15352,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121713551978983767",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121704744808759442",
   "time": "Sat Nov 14 20:40:05 +0000 2026",
   "user": "business",
@@ -7589,23 +7604,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120584896087237009",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120584781888881002",
-  "time": "Wed Nov 11 18:29:45 +0000 2026",
-  "user": "BBGenEspanol",
-  "name": "Bloomberg en Español",
-  "text": "Los continuos apagones, especialmente en los estados andinos, están alterando la vida cotidiana y alimentando las protestas en Venezuela, abriendo un nuevo frente para el gobierno de Delcy Rodríguez. https://bloom.bg/4izeYeZ",
-  "reply": 0,
-  "like": 1,
-  "rt": 3,
-  "view": 1820,
-  "lang": "es",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120584667715764224/vid/avc1/1080x1904/BdCCxgc4VZXllJwR.mp4?tag=16"
-  ],
-  "url": "https://x.com/BBGenEspanol/status/2120584781888881002",
   "src": "fxtwitter-v2"
  }
 ]
