@@ -1,5 +1,37 @@
 [
  {
+  "id": "2121522282832990208",
+  "time": "Sat Nov 14 08:35:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "China and the US held the first meeting of a new council by video on Friday under their economic and trade consultation mechanism https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council?taid=6af81d36d0eea100019aec6e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 13,
+  "rt": 3,
+  "view": 14242,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121522282832990208",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121521027448488240",
+  "time": "Sat Nov 14 08:30:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "David Cameron says Britain needs to stop blaming Brexit for its problems. The former prime minister talks political legacy, migration and his personal mission to help cure Alzheimer’s in this weekend’s interview with Mishal Husain here: http://bloom.bg/4C1PkXI \n\n📷: Jose Sarmento Matos/Bloomberg",
+  "reply": 2,
+  "like": 15,
+  "rt": 6,
+  "view": 12899,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXEoIYeXQAAELg5.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2121521027448488240",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121514734956560815",
   "time": "Sat Nov 14 08:05:03 +0000 2026",
   "user": "business",
@@ -7589,36 +7621,6 @@
    "https://pbs.twimg.com/media/HW2gPNcW4AENXdq.jpg?name=orig"
   ],
   "url": "https://x.com/BloombergLive/status/2120539546731331820",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120538299454390637",
-  "time": "Wed Nov 11 15:25:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Tata Power expects to soon sign agreements with four Indian states allowing it to charge cost reflective prices for electricity from its 4-gigawatt plant in Gujarat, reflecting higher coal costs, CEO Praveer Sinha said Wednesday https://www.bloomberg.com/news/articles/2026-11-11/tata-power-eyes-more-state-pacts-to-boost-mundra-tariffs?taid=6af488ce22159d00010a0dc8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 13931,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120538299454390637",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120537059534221751",
-  "time": "Wed Nov 11 15:20:07 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Analysts are cutting their forecasts for S&P 500 profits next year even as a blowout third-quarter earnings season winds down, with concerns over AI spending and the fallout from the US midterm elections clouding the outlook https://www.bloomberg.com/news/articles/2026-11-11/ai-malaise-midterms-cloud-2027-profits-after-blowout-quarter?taid=6af487a722159d00010a0dc3&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 3,
-  "like": 6,
-  "rt": 2,
-  "view": 14061,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120537059534221751",
   "src": "fxtwitter-v2"
  }
 ]
