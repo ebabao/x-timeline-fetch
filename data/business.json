@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121430426367426645",
+  "time": "Sat Nov 14 02:30:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Eurovision has come to Asia. From K-pop to Vietnamese folk, its new lineup shows how music can cross borders without losing its local identity. https://www.bloomberg.com/news/articles/2026-11-13/eurovision-asia-brings-k-pop-and-national-pride-to-bangkok?taid=6af7c7aa22159d00012a24c6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 3,
+  "rt": 0,
+  "view": 10220,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121430426367426645",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121426668308849054",
+  "time": "Sat Nov 14 02:15:06 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Senate Democrats have asked SpaceX Chief Executive Officer Elon Musk to “preserve all documents, communications and electronically stored information” related to the company’s Starlink and Starshield systems in Ukraine” https://www.bloomberg.com/news/articles/2026-11-14/democrats-ask-musk-to-preserve-documents-on-starlink-in-ukraine?taid=6af7c42a22159d00012a24b6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 6,
+  "like": 19,
+  "rt": 7,
+  "view": 15730,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121426668308849054",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121424135188344982",
   "time": "Sat Nov 14 02:05:02 +0000 2026",
   "user": "business",
@@ -7592,36 +7622,6 @@
    "https://video.twimg.com/amplify_video/2120518686045810688/vid/avc1/1080x1920/tup48Q7DraaOEQAf.mp4?tag=16"
   ],
   "url": "https://x.com/business/status/2120518778534441002",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120518166845571477",
-  "time": "Wed Nov 11 14:05:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "For economics graduates studying whether AI will elevate or eliminate jobs, the threat hits home https://www.bloomberg.com/news/newsletters/2026-11-11/top-economists-clash-over-ai-threat-to-junior-research-jobs?taid=6af4760e22159d00010a0d0e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 7,
-  "rt": 1,
-  "view": 13174,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120518166845571477",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120516913138671801",
-  "time": "Wed Nov 11 14:00:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Volkswagen is scrapping a major advanced-manufacturing project at its sprawling headquarter as falling profits force Europe’s biggest carmaker to rethink investment across its German factories https://www.bloomberg.com/news/articles/2026-11-11/vw-scraps-advanced-factory-plan-in-blow-to-made-in-germany?taid=6af474e322159d00010a0cc8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 4,
-  "like": 9,
-  "rt": 1,
-  "view": 12700,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120516913138671801",
   "src": "fxtwitter-v2"
  }
 ]
