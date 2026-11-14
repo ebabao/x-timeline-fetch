@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121439235529937247",
+  "time": "Sat Nov 14 03:05:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Afterpay co-founder Nick Molnar said he will leave the company and its US parent, Block, at the end of the year https://www.bloomberg.com/news/articles/2026-11-14/afterpay-co-founder-molnar-to-leave-dorsey-s-block-at-year-end?taid=6af7cfde718669000140a57a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 7577,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121439235529937247",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121438034671394964",
+  "time": "Sat Nov 14 03:00:16 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months?taid=6af7cec0718669000140a56e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 9777,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121438034671394964",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121430426367426645",
   "time": "Sat Nov 14 02:30:02 +0000 2026",
   "user": "business",
@@ -7590,38 +7620,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120520690579186098",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120519428664144262",
-  "time": "Wed Nov 11 14:10:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Germany’s military banned Chinese-made drones and prohibited certain vehicles from bases after a counterintelligence assessment showed that data was potentially being collected and disseminated, people familiar with the matter said https://www.bloomberg.com/news/articles/2026-11-11/german-army-bans-chinese-drones-and-cars-from-military-bases?taid=6af4773b7186690001443cf1&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 6,
-  "rt": 1,
-  "view": 11938,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120519428664144262",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120518778534441002",
-  "time": "Wed Nov 11 14:07:28 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "“Artificial intelligence is a phenomenal technology revolution, it’s absolutely not a bubble.”\n\nAI pioneer Kai-Fu Lee discusses whether trillion-dollar AI valuations can be justified with Francine Lacqua  https://bloom.bg/4iL5Jr0",
-  "reply": 2,
-  "like": 13,
-  "rt": 1,
-  "view": 13644,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120518686045810688/vid/avc1/1080x1920/tup48Q7DraaOEQAf.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2120518778534441002",
   "src": "fxtwitter-v2"
  }
 ]
