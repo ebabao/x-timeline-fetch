@@ -1,5 +1,50 @@
 [
  {
+  "id": "2121576391611170907",
+  "time": "Sat Nov 14 12:10:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Gen Zers in New York and LA are flocking to Chinese beverage chains including Mixue, Luckin and Heytea. Will the rest of America follow? https://www.bloomberg.com/news/articles/2026-11-14/mixue-luckin-heytea-win-over-chinamaxxing-american-teens?taid=6af84f9b718669000140a89a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 4,
+  "rt": 1,
+  "view": 13552,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121576391611170907",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121575131445108847",
+  "time": "Sat Nov 14 12:05:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Foreign CEOs reveal what surprises them most about doing business in China https://www.bloomberg.com/news/articles/2026-11-14/what-surprises-us-european-ceos-most-about-doing-business-in-china?taid=6af84e6e718669000140a898&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 7,
+  "rt": 0,
+  "view": 14202,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121575131445108847",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121573894981144769",
+  "time": "Sat Nov 14 12:00:08 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "ChatGPT is becoming the third wheel in relationships: It’s endlessly supportive, never argumentative and available 24/7. https://www.bloomberg.com/news/articles/2026-11-13/chatgpt-is-becoming-a-third-wheel-in-relationships?taid=6af84d48c6e52100017088a9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 7,
+  "like": 6,
+  "rt": 2,
+  "view": 13362,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121573894981144769",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121571359830478999",
   "time": "Sat Nov 14 11:50:03 +0000 2026",
   "user": "business",
@@ -7567,55 +7612,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120549620254195889",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120548524794269770",
-  "time": "Wed Nov 11 16:05:40 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The UK’s economic problems “have nothing to do with Brexit,” former Prime Minister David Cameron tells Mishal Husain.\n\nRead more at https://www.bloomberg.com/news/articles/2026-11-11/david-cameron-warns-andy-burnham-not-to-seek-to-rejoin-eu-decade-after-brexit or watch The Mishal Husain Show at https://bloomberg.com/video",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 9796,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120548405566926849/vid/avc1/1080x1920/r6_SFaz7iAvcYrP-.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2120548524794269770",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120548365947543581",
-  "time": "Wed Nov 11 16:05:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "STG Metals, a trading business funded by partners of Squarepoint Capital, is in talks to secure tin supplies from the Democratic Republic of Congo as it seeks to expand in the market for the commodity used in military electronics. https://www.bloomberg.com/news/articles/2026-11-11/metals-trader-backed-by-quants-in-talks-to-secure-congo-tin-deal?taid=6af4922e22159d00010a0e5a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 8081,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120548365947543581",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120547837385576921",
-  "time": "Wed Nov 11 16:02:56 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "🎧 LIVE NOW: How safe is your money in crypto?\n\nBloomberg journalists break down Bitcoin’s latest slump, hacks, stablecoins and the biggest risks facing investors, and take your questions.\n\nJoin the Live Q&A conversation: https://bloom.bg/3Uwxlbj",
-  "reply": 3,
-  "like": 4,
-  "rt": 1,
-  "view": 15950,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HW2zBWxXcAAp0Xv.jpg?name=orig"
-  ],
-  "url": "https://x.com/business/status/2120547837385576921",
   "src": "fxtwitter-v2"
  }
 ]
