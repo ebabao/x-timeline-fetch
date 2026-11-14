@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121651890811220318",
+  "time": "Sat Nov 14 17:10:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The Trump administration’s cuts to roughly 80,000 US troops across Europe will be lower than the continent’s leaders have feared, according to people familiar with the matter. https://www.bloomberg.com/news/articles/2026-11-14/pentagon-eyes-smaller-troop-cuts-across-europe-in-reversal?taid=6af895ebc6e5210001708acf&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 9267,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121651890811220318",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121641830009753944",
   "time": "Sat Nov 14 16:30:05 +0000 2026",
   "user": "business",
@@ -7587,21 +7602,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120572300789518542",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120571023011520860",
-  "time": "Wed Nov 11 17:35:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Today in Bloomberg Deals: Clearlake co-founder talks AI and sports bets, Unilever-McCormick faces in-depth UK probe and Anthropic investors shop IPO shares early. https://www.bloomberg.com/news/newsletters/2026-11-11/clearlake-co-founder-jose-feliciano-hunts-for-deals-in-ai-s-middle-ground?taid=6af4a748c6e52100014d8ee6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 3,
-  "rt": 1,
-  "view": 12968,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120571023011520860",
   "src": "fxtwitter-v2"
  }
 ]
