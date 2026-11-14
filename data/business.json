@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121675793533170062",
+  "time": "Sat Nov 14 18:45:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Volodymyr Zelenskyy said US negotiators suggested Ukraine give up the Donbas region in exchange for NATO membership. “Ukraine has been looking for a wide array of security guarantees in a potential post-war environment, says Bloomberg Economics Defense Lead @becca_wasser. “(Zelenskyy) has said it is not his decision to make alone… and he would have to put that vote to the Ukrainian people.”",
+  "reply": 12,
+  "like": 12,
+  "rt": 6,
+  "view": 14313,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121672097386610688/vid/avc1/1920x1080/49uX6x1ps6582go-.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2121675793533170062",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121672029392781481",
   "time": "Sat Nov 14 18:30:05 +0000 2026",
   "user": "business",
@@ -7587,23 +7604,6 @@
    "https://pbs.twimg.com/media/HW3ASKnXgAEa7eZ.jpg?name=orig"
   ],
   "url": "https://x.com/BloombergLive/status/2120577295949677059",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120576682889183546",
-  "time": "Wed Nov 11 17:57:34 +0000 2026",
-  "user": "climate",
-  "name": "Bloomberg Green",
-  "text": "World leaders speaking at #COP31 share a worrisome problem: the consequences of a warming world are outpacing the scientific models.\n\nHere’s a look at what happened today at the climate conference. Read more: https://bloom.bg/4iA1iAr",
-  "reply": 1,
-  "like": 2,
-  "rt": 4,
-  "view": 4774,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HW3NQYrXYAAxOg8.jpg?name=orig"
-  ],
-  "url": "https://x.com/climate/status/2120576682889183546",
   "src": "fxtwitter-v2"
  }
 ]
