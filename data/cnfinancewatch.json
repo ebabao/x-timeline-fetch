@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121413831700427259",
+  "time": "Sat Nov 14 01:24:06 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "国产算力全景图",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 827,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXDGoYGbEAAjNNX.jpg?name=orig"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2121413831700427259",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121398084005744812",
   "time": "Sat Nov 14 00:21:31 +0000 2026",
   "user": "cnfinancewatch",
@@ -7661,23 +7678,6 @@
    "https://pbs.twimg.com/media/HWDC9uIaIAASe2V.png?name=orig"
   ],
   "url": "https://x.com/cnfinancewatch/status/2116906394742116839",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116905894248374451",
-  "time": "Sun Nov 01 14:51:10 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "看到了新一轮924行情的预兆了吗？",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 772,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HWDCm2fbgAAAIep.jpg?name=orig"
-  ],
-  "url": "https://x.com/cnfinancewatch/status/2116905894248374451",
   "src": "fxtwitter-v2"
  }
 ]
