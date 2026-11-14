@@ -1,5 +1,19 @@
 [
  {
+  "id": "2121571359830478999",
+  "time": "Sat Nov 14 11:50:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "More grief for white collar workers in developed economies may be on the way as services dwarf manufactured exports in the global economy: New Economy https://t.co/xSsraNRiH0",
+  "reply": 3,
+  "like": 6,
+  "rt": 0,
+  "view": null,
+  "lang": "en",
+  "url": "https://x.com/business/status/2121571359830478999",
+  "src": "guest-gql"
+ },
+ {
   "id": "2121563811584843973",
   "time": "Sat Nov 14 11:20:04 +0000 2026",
   "user": "business",
@@ -7602,21 +7616,6 @@
    "https://pbs.twimg.com/media/HW2zBWxXcAAp0Xv.jpg?name=orig"
   ],
   "url": "https://x.com/business/status/2120547837385576921",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120547111838056884",
-  "time": "Wed Nov 11 16:00:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Kenya said it won’t serve as a quarantine hub for travelers heading to other countries, an apparent reversal of plans to host a facility for US citizens exposed to the Ebola virus. https://www.bloomberg.com/news/articles/2026-11-11/kenya-refuses-to-serve-as-ebola-quarantine-hub-for-travelers?taid=6af491037186690001d19f37&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 9614,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120547111838056884",
   "src": "fxtwitter-v2"
  }
 ]
