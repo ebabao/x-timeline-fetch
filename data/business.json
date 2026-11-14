@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121499633591501245",
+  "time": "Sat Nov 14 07:05:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Germany Has an Edge in a Lower Oil Price World: Taking Stock https://www.bloomberg.com/news/articles/2026-11-13/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock?taid=6af8081e718669000140a6f6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 7620,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121499633591501245",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121498395432878294",
+  "time": "Sat Nov 14 07:00:07 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Six weeks ago Andy Burnham suggested Britain “could go all the way” and rejoin the European Union. This week he downplayed his own idea: “No one’s talking about rejoining.” https://www.bloomberg.com/news/articles/2026-11-14/burnham-tries-to-hush-down-his-own-talk-of-rejoining-the-eu?taid=6af806f7718669000140a6eb&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 5,
+  "rt": 0,
+  "view": 9649,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121498395432878294",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121492333828907086",
   "time": "Sat Nov 14 06:36:02 +0000 2026",
   "user": "business",
@@ -7592,36 +7622,6 @@
    "https://pbs.twimg.com/media/HW2knwWXsAAfsEe.jpg?name=orig"
   ],
   "url": "https://x.com/BloombergLive/status/2120532005649543358",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120530748687917289",
-  "time": "Wed Nov 11 14:55:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Iberdrola is exploring the sale of its solar assets in Germany as part of a pivot to more strategic markets, according to people with knowledge of the matter. https://www.bloomberg.com/news/articles/2026-11-11/iberdrola-said-to-explore-sale-of-german-solar-assets?taid=6af481c622159d00010a0d69&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 6,
-  "rt": 1,
-  "view": 14461,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120530748687917289",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120529488433885201",
-  "time": "Wed Nov 11 14:50:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Democratic Republic of Congo President Felix Tshisekedi enacted a law that will help facilitate changes to the constitution, a measure his opponents warn is aimed at enabling him to stay in power beyond his current mandate https://www.bloomberg.com/news/articles/2026-11-11/congo-president-enacts-law-that-lays-ground-to-extend-his-tenure?taid=6af4809a22159d00010a0d63&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 2,
-  "view": 5815,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120529488433885201",
   "src": "fxtwitter-v2"
  }
 ]
