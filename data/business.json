@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121514734956560815",
+  "time": "Sat Nov 14 08:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "A shift in nuclear diplomacy and industrial policy since Russia’s full-scale invasion of Ukraine is sparking a new wave of energy infrastructure investment in Europe’s east https://www.bloomberg.com/news/articles/2026-11-14/the-nuclear-investment-boom-in-eastern-europe-picks-up-pace?taid=6af8162f718669000140a744&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 10,
+  "rt": 3,
+  "view": 14292,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121514734956560815",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121513480553464170",
+  "time": "Sat Nov 14 08:00:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Thousands of Berlin’s dentists trusted a pension fund. The story of its downfall includes risky investments, a Ferrari and a luxury yacht. https://www.bloomberg.com/news/features/2026-11-13/how-berlin-s-dentist-pension-fund-vzb-lost-1-billion?taid=6af81503718669000140a72d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 4,
+  "like": 4,
+  "rt": 1,
+  "view": 13224,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121513480553464170",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121509775875739753",
   "time": "Sat Nov 14 07:45:20 +0000 2026",
   "user": "business",
@@ -7589,36 +7619,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120537059534221751",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120535797463925008",
-  "time": "Wed Nov 11 15:15:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The rout in Brazilian assets sparked by Luiz Inácio Lula da Silva’s re-election shows little sign of abating, with some of the nation’s biggest money managers saying a downturn that has already wiped out months of gains could get even worse https://www.bloomberg.com/news/articles/2026-11-11/funds-warn-brazil-126-billion-stock-market-rout-isn-t-over-yet?taid=6af4867ac6e52100014aea2b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 7898,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120535797463925008",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120534546932170903",
-  "time": "Wed Nov 11 15:10:08 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "US stock futures are rising Wednesday as better-than-expected results from Coreweave, anticipation of Anthropic’s IPO and a blockbuster quarter for OpenAI are reviving the AI trade https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation?taid=6af48550d0eea10001e9b8c8&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 8,
-  "rt": 2,
-  "view": 10023,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120534546932170903",
   "src": "fxtwitter-v2"
  }
 ]
