@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121742483356868982",
+  "time": "Sat Nov 14 23:10:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The White House won’t commit to complying with potential subpoenas from a Democratic-led Congress and believes company executives who’ve had contact with President Donald Trump may be covered by executive privilege https://www.bloomberg.com/news/articles/2026-11-14/trump-s-white-house-lawyer-on-subpoena-compliance-it-depends?taid=6af8ea4a718669000140ad41&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 4,
+  "rt": 1,
+  "view": 12698,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121742483356868982",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121737451420999762",
   "time": "Sat Nov 14 22:50:03 +0000 2026",
   "user": "business",
@@ -7589,21 +7604,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120588669035618713",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120588645417570748",
-  "time": "Wed Nov 11 18:45:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "A debate over the future of Codelco is heating up in Chile after Finance Minister Jorge Quiroz left the door open to private investment in the copper giant https://www.bloomberg.com/news/articles/2026-11-11/chile-copper-giant-s-woes-put-private-capital-taboo-in-spotlight?taid=6af4b7b222159d00010a101b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 7851,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120588645417570748",
   "src": "fxtwitter-v2"
  }
 ]
