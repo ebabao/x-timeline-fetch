@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121687132175581630",
+  "time": "Sat Nov 14 19:30:06 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "After selling their soda brand @drinkpoppi to Pepsico for nearly $2 billion, Allison and Stephen Ellsworth are back with a new drink: Jetty. The couple spoke with @davidgura and @LisaMateoTV about what made them decide to jump back into the beverage game after already becoming self-made millionaires.",
+  "reply": 3,
+  "like": 3,
+  "rt": 2,
+  "view": 14439,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121673947448053760/vid/avc1/1920x1080/GvI9dreSdh998hTG.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2121687132175581630",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121679594528928036",
   "time": "Sat Nov 14 19:00:08 +0000 2026",
   "user": "business",
@@ -7589,21 +7606,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120578565485789289",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120577387121287624",
-  "time": "Wed Nov 11 18:00:22 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "A majority group of creditors to JetBlue Airways Corp. have executed a cooperation agreement that would prevent the company from striking any side deals with lenders who signed onto the pact, according to people familiar with the matter. https://www.bloomberg.com/news/articles/2026-11-11/jetblue-lenders-form-groups-as-airline-downplays-financial-peril?taid=6af4ad3622159d00010a0fab&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 4,
-  "rt": 1,
-  "view": 12060,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120577387121287624",
   "src": "fxtwitter-v2"
  }
 ]
