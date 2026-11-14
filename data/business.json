@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121665729044877334",
+  "time": "Sat Nov 14 18:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Senator John Fetterman suggested he may reevaluate his role in the Democratic Party if Senator Chris Van Hollen were elected majority leader, citing his colleague’s criticism of Israel. https://www.bloomberg.com/news/articles/2026-11-14/fetterman-says-van-hollen-as-senate-leader-would-be-troubling?taid=6af8a2ce8a00c90001226f57&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 8041,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121665729044877334",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121659445562261844",
   "time": "Sat Nov 14 17:40:05 +0000 2026",
   "user": "business",
@@ -7587,21 +7602,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120574794135470544",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120573544547369077",
-  "time": "Wed Nov 11 17:45:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Marsh & McLennan Cos. is lobbying US regulators to allow banks to hold less capital against loans covered by credit risk insurance as they look for new ways to offload data center exposure. https://www.bloomberg.com/news/articles/2026-11-11/marsh-says-fed-should-ease-up-on-banks-that-insure-ai-loans?taid=6af4a9a1d0eea1000165a9fc&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 4,
-  "rt": 0,
-  "view": 11301,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120573544547369077",
   "src": "fxtwitter-v2"
  }
 ]
