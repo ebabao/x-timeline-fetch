@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121828046957060525",
+  "time": "Sun Nov 15 04:50:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Australia and the Philippines signed a new defense pact Sunday, boosting military cooperation as the US allies face a more assertive China in the Asia-Pacific region https://www.bloomberg.com/news/articles/2026-11-15/australia-philippines-upgrade-defense-ties-with-focus-on-china?taid=6af939fa22159d00013f69ba&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 8,
+  "rt": 0,
+  "view": 14758,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121828046957060525",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121812953091457236",
   "time": "Sun Nov 15 03:50:04 +0000 2026",
   "user": "business",
@@ -7586,21 +7601,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120597454429003811",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120596194380386751",
-  "time": "Wed Nov 11 19:15:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Canadian heavy crude has strengthened from the weakest in eight years as a surge in tanker rates subsides and oil prices drop https://www.bloomberg.com/news/articles/2026-11-11/canadian-heavy-crude-rebounds-amid-cheaper-tanker-costs?taid=6af4bebac6e52100014d9005&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 7624,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120596194380386751",
   "src": "fxtwitter-v2"
  }
 ]

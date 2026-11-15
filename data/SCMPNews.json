@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121832024038121684",
+  "time": "Sun Nov 15 05:05:50 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Fuiyoh! Uncle Roger comedian Nigel Ng’s journey from viral videos to cookbook https://www.scmp.com/lifestyle/food-drink/article/3374051/uncle-roger-comedian-nigel-ngs-journey-viral-videos-restaurants-and-cookbook?utm_medium=Social&utm_source=Twitter#Echobox=1794719148",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 778,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121832024038121684",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121825975595909429",
   "time": "Sun Nov 15 04:41:48 +0000 2026",
   "user": "SCMPNews",
@@ -7497,20 +7512,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1350467654465839106",
-  "src": "guest-gql"
- },
- {
-  "id": "1338874421591805957",
-  "time": "Tue Dec 15 15:51:51 +0000 2020",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "The top 15 K-pop albums of 2020: from BTS, Twice, NCT 127, Monsta X, Super M, Gfriend and many more https://t.co/DvGJQjeaUE",
-  "reply": 138,
-  "like": 4780,
-  "rt": 1398,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1338874421591805957",
   "src": "guest-gql"
  }
 ]
