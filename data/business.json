@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121897312771268904",
+  "time": "Sun Nov 15 09:25:16 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "South Korea’s top scorer in national tax accountant qualification exams confessed to using generative AI and electronic devices to cheat in the tests and has turned himself in to police. https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating?taid=6af97a7c191e680001edd219&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 3352,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121897312771268904",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121892219170730191",
   "time": "Sun Nov 15 09:05:02 +0000 2026",
   "user": "business",
@@ -7590,23 +7605,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120625125678555282",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120624869775745192",
-  "time": "Wed Nov 11 21:09:02 +0000 2026",
-  "user": "opinion",
-  "name": "Bloomberg Opinion",
-  "text": "What should Democrats' top priority be now that they control Congress? Fixing the job market, says @keds_economist. And they have the tool to get started 🎥",
-  "reply": 2,
-  "like": 4,
-  "rt": 2,
-  "view": 8763,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120624480124796928/vid/avc1/1080x1920/UznO8RBBstl3vHFQ.mp4?tag=29"
-  ],
-  "url": "https://x.com/opinion/status/2120624869775745192",
   "src": "fxtwitter-v2"
  }
 ]
