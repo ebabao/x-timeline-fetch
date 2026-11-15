@@ -1,5 +1,52 @@
 [
  {
+  "id": "2122061598911324194",
+  "time": "Sun Nov 15 20:18:05 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "据德国商务知情者网页报道：中国竞争对手正在迅速崛起，并对德国医疗技术行业构成威胁。 https://rfi.my/DDu9",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 321,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122061598911324194",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122061120592830691",
+  "time": "Sun Nov 15 20:16:11 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国及包括日本、澳大利亚、以色列和英国在内的盟友已同意制定一份联合清单，列出支撑 AI 的关键技术和供应链，这些技术和供应链需要更多保护，以帮助应对中国。https://rfi.my/DDu3",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 327,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122061120592830691",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122059478837432484",
+  "time": "Sun Nov 15 20:09:40 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "COP31 : 主会场成果甚微 人民峰会气氛热烈 www.​rfi.​fr/cn/%E7%94%9F%E6%80%81/20261115-cop31-%E4%B8%BB%E4%BC%9A%E5%9C%BA%E6%88%90%E6%9E%9C%E7%94%9A%E5%BE%AE-%E4%BA%BA%E6%B0%91%E5%B3%B0%E4%BC%9A%E6%B0%94%E6%B0%9B%E7%83%AD%E7%83%88",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 383,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXMR2e1bsAAg8Yu.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122059478837432484",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122056110719074328",
   "time": "Sun Nov 15 19:56:17 +0000 2026",
   "user": "RFI_Cn",
@@ -7845,48 +7892,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1602831883494391808",
-  "src": "guest-gql"
- },
- {
-  "id": "1598284539046264836",
-  "time": "Thu Dec 01 11:55:03 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "称声援白纸抗议 骇客组织攻击中国政府网站 https://t.co/ZEfp8O7PGa https://t.co/u9D8n1TJXL",
-  "reply": 154,
-  "like": 1789,
-  "rt": 276,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1598284539046264836",
-  "src": "guest-gql"
- },
- {
-  "id": "1597246732928417796",
-  "time": "Mon Nov 28 15:11:11 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "掩盖白纸革命 中国推特灌爆色情广告 https://t.co/5e1fifvJpb https://t.co/FOlrBf4Tp2",
-  "reply": 294,
-  "like": 1532,
-  "rt": 271,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1597246732928417796",
-  "src": "guest-gql"
- },
- {
-  "id": "1597196371182104579",
-  "time": "Mon Nov 28 11:51:04 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "加拿大公开指控中国是具有破坏性的全球大国 https://t.co/RZdDskWcfa https://t.co/Ac3fU3tFUq",
-  "reply": 655,
-  "like": 4839,
-  "rt": 651,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1597196371182104579",
   "src": "guest-gql"
  }
 ]

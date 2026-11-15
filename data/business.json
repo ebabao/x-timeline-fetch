@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122064616196804801",
+  "time": "Sun Nov 15 20:30:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "What if your bank knew you were at risk of dementia before you did? Researchers are turning years of financial data into a potential early-warning system. https://www.bloomberg.com/news/features/2026-11-13/how-financial-data-can-reveal-early-signs-of-dementia?taid=6afa164d718669000140b464&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 4,
+  "rt": 0,
+  "view": 8863,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122064616196804801",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122055795579769282",
   "time": "Sun Nov 15 19:55:02 +0000 2026",
   "user": "business",
@@ -7580,21 +7595,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120842805949898866",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120841571679555737",
-  "time": "Thu Nov 12 11:30:08 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Nvidia and the fate of Jensen Huang is all that matters in markets this morning. https://www.bloomberg.com/news/newsletters/2026-11-12/nvidia-punches-a-hole-in-bull-case-for-ai-stocks?taid=6af5a340191e680001acf872&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 3,
-  "like": 5,
-  "rt": 5,
-  "view": 12537,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120841571679555737",
   "src": "fxtwitter-v2"
  }
 ]
