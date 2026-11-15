@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121979408671993934",
+  "time": "Sun Nov 15 14:51:30 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "在媒体披露，英伟达前首席执行官黄仁勋曾与一名被指是中国情报资产的女子有过婚外情之后，美国国会的议员们正加紧采取行动，旨在阻止先进人工智能（AI）芯片流入中国。民主党和共和党要员均已表态支持一系列法案，这些法案旨在限制敏感芯片的海外销售，并赋予国会审查甚至否决此前已获特朗普政府批准的芯片销售交易的权力。https://rfi.my/DDsJ",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 147,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2121979408671993934",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121961381641756932",
   "time": "Sun Nov 15 13:39:52 +0000 2026",
   "user": "RFI_Cn",
@@ -7867,20 +7882,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1596680682415480834",
-  "src": "guest-gql"
- },
- {
-  "id": "1596670906419773440",
-  "time": "Sun Nov 27 01:03:03 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "习近平慰问所罗门地震不管新疆火灾遭批 https://t.co/PD8pEovr99 https://t.co/WqdYU8Ts2s",
-  "reply": 179,
-  "like": 2181,
-  "rt": 296,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1596670906419773440",
   "src": "guest-gql"
  }
 ]

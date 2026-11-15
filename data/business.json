@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121977784918487126",
+  "time": "Sun Nov 15 14:45:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Summit Therapeutics said US regulators declined to approve its lung cancer medicine, setting back its quest to challenge the standard of care with a drug first pioneered in China. https://www.bloomberg.com/news/articles/2026-11-15/us-fda-rejects-summit-s-china-originated-lung-cancer-drug?taid=6af9c56e22159d00013f6cd2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 4,
+  "rt": 2,
+  "view": 11489,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121977784918487126",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121976536395866294",
+  "time": "Sun Nov 15 14:40:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Estonian authorities said Russia’s spy agency GRU was behind a failed attempt to cause an explosion at facilities owned by the drone producer Threod Systems in the early hours of Saturday. https://www.bloomberg.com/news/articles/2026-11-15/estonia-says-russia-behind-failed-arson-attempt-on-drone-maker?taid=6af9c445c6e521000170937b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 7,
+  "rt": 0,
+  "view": 14566,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121976536395866294",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121961429217521776",
   "time": "Sun Nov 15 13:40:03 +0000 2026",
   "user": "business",
@@ -7573,36 +7603,6 @@
    "https://pbs.twimg.com/media/HW4-45yXIAA3fRb.jpg?name=orig"
   ],
   "url": "https://x.com/business/status/2120701623714398704",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120700616552882638",
-  "time": "Thu Nov 12 02:10:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The Indonesian rupiah fell to an all-time low as a stronger dollar and the risk of MSCI removing the nation’s stocks from its emerging-market indexes cast a pall over Asia’s worst-performing currency. https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks?taid=6af51ffac6e52100014d93e2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 5,
-  "like": 58,
-  "rt": 24,
-  "view": 19472,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120700616552882638",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120699363571662859",
-  "time": "Thu Nov 12 02:05:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Victor Wembanyama is indisputably brilliant at basketball. Whether he’s grown into an NBA villain or not is a more complicated question https://www.bloomberg.com/news/articles/2026-11-11/victor-wembanyama-and-why-we-crave-sports-villains?taid=6af51ecfc6e52100014d93dd&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 5,
-  "rt": 5,
-  "view": 18437,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120699363571662859",
   "src": "fxtwitter-v2"
  }
 ]

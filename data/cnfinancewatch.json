@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121977832381550735",
+  "time": "Sun Nov 15 14:45:14 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "都回关了！",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 525,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2121977832381550735",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121941570064916822",
   "time": "Sun Nov 15 12:21:08 +0000 2026",
   "user": "cnfinancewatch",
@@ -7659,21 +7674,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2117040287080161504",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117035525903462526",
-  "time": "Sun Nov 01 23:26:16 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "是的！无论多么看好未来，也应该听从技术信号。",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 938,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2117035525903462526",
   "src": "fxtwitter-v2"
  }
 ]
