@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122048992389583009",
+  "time": "Sun Nov 15 19:28:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "US’ Bessent says Nvidia must ‘go outside the company’ to find new CEO after Jensen Huang https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo?utm_medium=Social&utm_source=Twitter",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 1017,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122048992389583009",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122047133465596234",
+  "time": "Sun Nov 15 19:20:37 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Zelensky warns Starshield restrictions threaten Ukraine’s winter energy defences https://scmp.com/news/world/russia-central-asia/article/3374516/zelensky-says-starshield-restrictions-threaten-ukraines-energy-defences-ahead-winter?utm_medium=Social&utm_source=Twitter",
+  "reply": 1,
+  "like": 1,
+  "rt": 1,
+  "view": 1146,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122047133465596234",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122033641312383265",
   "time": "Sun Nov 15 18:27:00 +0000 2026",
   "user": "SCMPNews",
@@ -7502,34 +7532,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1561820511612682241",
-  "src": "guest-gql"
- },
- {
-  "id": "1540983385325289472",
-  "time": "Sun Jun 26 09:00:43 +0000 2022",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Jnr NTR’s Netflix hit RRR shows Telugu films are no longer in Bollywood’s shadow https://t.co/85n4Ja5mj2",
-  "reply": 70,
-  "like": 3399,
-  "rt": 1159,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1540983385325289472",
-  "src": "guest-gql"
- },
- {
-  "id": "1525706762451841024",
-  "time": "Sun May 15 05:16:53 +0000 2022",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Hundreds of rail enthusiasts flocked to the new Exhibition Centre Station in the early morning to take the first train to travel from Hong Kong Island to Kowloon. https://t.co/1xx7MXPgJf",
-  "reply": 113,
-  "like": 4322,
-  "rt": 453,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1525706762451841024",
   "src": "guest-gql"
  }
 ]

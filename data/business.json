@@ -1,5 +1,35 @@
 [
  {
+  "id": "2122049508179624265",
+  "time": "Sun Nov 15 19:30:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Eurovision has come to Asia. From K-pop to Vietnamese folk, its new lineup shows how music can cross borders without losing its local identity. https://www.bloomberg.com/news/articles/2026-11-13/eurovision-asia-brings-k-pop-and-national-pride-to-bangkok?taid=6afa083b718669000140b3f7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 11968,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122049508179624265",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122048247225000173",
+  "time": "Sun Nov 15 19:25:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Ousted Nvidia chief executive officer Jensen Huang is discussing a possible comeback to the company just days after the board of directors pushed him out, the Financial Times reported https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says?taid=6afa070e718669000140b3ee&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 15,
+  "like": 66,
+  "rt": 20,
+  "view": 16802,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122048247225000173",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122044481901846790",
   "time": "Sun Nov 15 19:10:04 +0000 2026",
   "user": "business",
@@ -7567,36 +7597,6 @@
    "https://video.twimg.com/amplify_video/2120820629498687488/vid/avc1/1920x1080/YzWC2AI53gzH86U4.mp4?tag=29"
   ],
   "url": "https://x.com/BloombergLive/status/2120840502631153892",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120840288490881168",
-  "time": "Thu Nov 12 11:25:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "For the incoming Democratic majority in Congress, running on affordability and the cost of living was an obvious choice https://www.bloomberg.com/news/articles/2026-11-12/democrats-affordability-vows-face-reality-test-in-new-congress?taid=6af5a20e22159d00010a187d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 2,
-  "rt": 0,
-  "view": 12891,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120840288490881168",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120839030182998290",
-  "time": "Thu Nov 12 11:20:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Sri Lanka’s President Anura Kumara Dissanayake has pledged measures to boost industrial output, exports and investment https://www.bloomberg.com/news/articles/2026-11-12/sri-lanka-budget-targets-growth-investment-after-debt-crisis?taid=6af5a0e27186690001d1a75b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 3,
-  "rt": 1,
-  "view": 13516,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120839030182998290",
   "src": "fxtwitter-v2"
  }
 ]
