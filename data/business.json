@@ -1,5 +1,84 @@
 [
  {
+  "id": "2121984722872025545",
+  "time": "Sun Nov 15 15:12:37 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "SpaceX successfully caught its Starship rocket as it returned to the Texas launch site from orbit, a novel engineering feat and major step toward Elon Musk’s goal of developing a fully reusable system https://bloom.bg/4AqEglA",
+  "reply": 2,
+  "like": 15,
+  "rt": 4,
+  "view": 11876,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121984654005710848/vid/avc1/1080x1920/-CXNy5poDheMGpGv.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2121984722872025545",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121984081172808104",
+  "time": "Sun Nov 15 15:10:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Nvidia voiced concerns to Taiwan officials about the prosecution of a manager for his alleged role in chip smuggling to China. https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case?taid=6af9cb4cc6e52100017093ce&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 12633,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121984081172808104",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121982818536272281",
+  "time": "Sun Nov 15 15:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Apple’s just-announced Siri AI integrations are the centerpiece of the company’s upcoming smart glasses push, @MarkGurman reports in this week’s Power On. https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?taid=6af9ca1f191e680001edd3fd&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 6,
+  "like": 5,
+  "rt": 4,
+  "view": 14698,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121982818536272281",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121981639618085070",
+  "time": "Sun Nov 15 15:00:22 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "ChatGPT is becoming the third wheel in relationships: It’s endlessly supportive, never argumentative and available 24/7. https://www.bloomberg.com/news/articles/2026-11-13/chatgpt-is-becoming-a-third-wheel-in-relationships?taid=6af9c906d0eea100019af9cc&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 6,
+  "like": 2,
+  "rt": 2,
+  "view": 14256,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121981639618085070",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121981556835180954",
+  "time": "Sun Nov 15 15:00:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "By coincidence, @EmilyChangTV interviewed Jensen Huang at the same hotel in London where he stayed when Nvidia went public 27 years go. The hotel offered him a butler to unpack his suitcases, but he declined. Reflecting on his extraordinary rise, Huang said he doesn’t have a “plan” or an “endgame” — words that take on different meaning now that he's resigned amid a firestorm of controversy http://bit.ly/4kPk8oz",
+  "reply": 5,
+  "like": 7,
+  "rt": 2,
+  "view": 13949,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2121936830593445889/vid/avc1/1080x1920/L42s-xdWb-3XJh2o.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2121981556835180954",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121977784918487126",
   "time": "Sun Nov 15 14:45:03 +0000 2026",
   "user": "business",
@@ -7526,83 +7605,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120706909275566095",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120705685440565704",
-  "time": "Thu Nov 12 02:30:10 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Ken Griffin’s hedge fund giant Citadel has accumulated a 4.5% stake in Japanese railway and real estate operator Hankyu Hanshin, according to a filing. https://www.bloomberg.com/news/articles/2026-11-12/citadel-builds-4-5-stake-in-japanese-rail-firm-hankyu-hanshin?taid=6af524b2c6e52100014d9404&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 5,
-  "like": 3,
-  "rt": 2,
-  "view": 15729,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120705685440565704",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120704395834687519",
-  "time": "Thu Nov 12 02:25:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Mexico’s crackdown on Asian imports is creating an opening to buy more US-made steel, a top economic official said, a shift that could help advance trade negotiations with the Trump administration. https://www.bloomberg.com/news/articles/2026-11-12/mexican-steel-imports-from-asia-fall-as-more-us-supplies-sought?taid=6af5237f22159d00010a1544&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 8,
-  "rt": 3,
-  "view": 16996,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120704395834687519",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120703139456126980",
-  "time": "Thu Nov 12 02:20:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Any financial aid given to struggling carriers such as AirAsia should be made available to other airlines to keep competition fair, the head of Malaysia Airlines said. https://www.bloomberg.com/news/articles/2026-11-12/malaysia-air-calls-for-level-playing-field-if-airasia-gets-aid?taid=6af52253d0eea1000165aeee&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 2,
-  "rt": 0,
-  "view": 16695,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120703139456126980",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120701892489601183",
-  "time": "Thu Nov 12 02:15:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Xi Jinping’s third summit of the year with Donald Trump is going off script before their meetings even get underway, as the spy allegations engulfing Nvidia’s Jensen Huang reopen old rifts. https://www.bloomberg.com/news/articles/2026-11-12/nvidia-fallout-puts-trade-truce-to-the-test-as-xi-welcomes-trump?taid=6af5212ad0eea1000165aee9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 9,
-  "rt": 1,
-  "view": 18223,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120701892489601183",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120701623714398704",
-  "time": "Thu Nov 12 02:14:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The suspected Chinese spy at the heart of a scandal that threatens to take down Nvidia CEO Jensen Huang has returned to her home country, people familiar with the matter said: https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing?taid=0f28163a-f5ef-4464-9855-416a1ff28e47&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter\n\n📷: TVBS/AP Photo",
-  "reply": 7,
-  "like": 21,
-  "rt": 10,
-  "view": 18877,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HW4-45yXIAA3fRb.jpg?name=orig"
-  ],
-  "url": "https://x.com/business/status/2120701623714398704",
   "src": "fxtwitter-v2"
  }
 ]
