@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122055795579769282",
+  "time": "Sun Nov 15 19:55:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Diamondback Energy is nearing a deal to acquire a portfolio of oil and gas assets in the Permian Basin of Texas from Double Eagle for about $5 billion, the Financial Times reported Sunday https://www.bloomberg.com/news/articles/2026-11-15/diamondback-nears-5-billion-double-eagle-assets-deal-ft-says?taid=6afa0e16718669000140b425&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 2,
+  "rt": 1,
+  "view": 13876,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122055795579769282",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122049508179624265",
   "time": "Sun Nov 15 19:30:03 +0000 2026",
   "user": "business",
@@ -7580,23 +7595,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120841571679555737",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120840502631153892",
-  "time": "Thu Nov 12 11:25:53 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "“What’s been happening regionally here in the commitment to AI and the AI infrastructure is super compelling and super important.”\n\nGlobal Chief Operating Officer at @blackstone Private Wealth Farhad Karim speaks with @BloombergTV’s @AbeerAO1 to discuss how AI investment and infrastructure are rapidly expanding across the region. #BloombergInvest\n\nWatch here ⏯️ \nhttps://bloom.bg/3WzRaz3",
-  "reply": 1,
-  "like": 2,
-  "rt": 3,
-  "view": 3947,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120820629498687488/vid/avc1/1920x1080/YzWC2AI53gzH86U4.mp4?tag=29"
-  ],
-  "url": "https://x.com/BloombergLive/status/2120840502631153892",
   "src": "fxtwitter-v2"
  }
 ]
