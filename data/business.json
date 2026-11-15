@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121773948639608994",
+  "time": "Sun Nov 15 01:15:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Australia’s auction clearance rate fell to its lowest in more than six years as the central bank’s interest-rate increases damp demand https://www.bloomberg.com/news/articles/2026-11-15/australia-auction-clearances-slump-to-six-year-low-as-rates-rise?taid=6af90798718669000140adfb&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 7,
+  "like": 10,
+  "rt": 1,
+  "view": 15165,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121773948639608994",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121765138575290522",
   "time": "Sun Nov 15 00:40:04 +0000 2026",
   "user": "business",
@@ -7589,21 +7604,6 @@
    "https://pbs.twimg.com/media/HW3BM2tXgAAPSKC.jpg?name=orig"
   ],
   "url": "https://x.com/BloombergLive/status/2120592396538839332",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120591148922155346",
-  "time": "Wed Nov 11 18:55:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "California’s newly elected insurance commissioner is promising sweeping changes to the state’s $3 trillion home and auto insurance market as climate-fueled wildfires drive up costs and private insurers flee. https://www.bloomberg.com/news/articles/2026-11-11/california-s-kim-says-insurance-should-fund-wildfire-safety-not-super-bowl-ads?taid=6af4ba07c6e52100014d8fb1&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 1,
-  "rt": 0,
-  "view": 14133,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120591148922155346",
   "src": "fxtwitter-v2"
  }
 ]
