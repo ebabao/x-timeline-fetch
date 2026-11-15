@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122064091745317027",
+  "time": "Sun Nov 15 20:28:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1282,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122064091745317027",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122048992389583009",
   "time": "Sun Nov 15 19:28:00 +0000 2026",
   "user": "SCMPNews",
@@ -7518,20 +7533,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1731621871077208184",
-  "src": "guest-gql"
- },
- {
-  "id": "1561820511612682241",
-  "time": "Mon Aug 22 21:00:01 +0000 2022",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Imran Khan has been charged with breaking anti-terrorism laws, leaving dozens of supporters gathered outside his home to prevent his arrest. https://t.co/pnFdY1R64x",
-  "reply": 543,
-  "like": 17583,
-  "rt": 9021,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1561820511612682241",
   "src": "guest-gql"
  }
 ]
