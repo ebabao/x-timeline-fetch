@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121803626746159417",
+  "time": "Sun Nov 15 03:13:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Top tax accountant exam scorer in South Korea admits to using AI to cheat https://www.scmp.com/news/asia/east-asia/article/3374467/top-tax-accountant-exam-scorer-south-korea-admits-using-ai-cheat?utm_medium=Social&utm_source=Twitter#Echobox=1794712378",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 1011,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121803626746159417",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121788603713847590",
   "time": "Sun Nov 15 02:13:18 +0000 2026",
   "user": "SCMPNews",
@@ -7493,20 +7508,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1309917185784066049",
-  "src": "guest-gql"
- },
- {
-  "id": "1302265128369500160",
-  "time": "Sat Sep 05 15:19:36 +0000 2020",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Renjun of NCT Dream, Chinese K-pop star who is passionate, focused and goal-driven https://t.co/v2aRVW9FTe",
-  "reply": 141,
-  "like": 9824,
-  "rt": 3632,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1302265128369500160",
   "src": "guest-gql"
  }
 ]

@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121801622326050892",
+  "time": "Sun Nov 15 03:05:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Bank of Thailand Chairman Somchai Sujjapongse criticized the central bank’s slow progress on regulatory reform and called for action to reverse a prolonged contraction in lending to smaller businesses https://www.bloomberg.com/news/articles/2026-11-15/thai-central-bank-chairman-rebukes-slow-reform-sme-credit-slump?taid=6af9215ed0eea100019af4b7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 3,
+  "rt": 1,
+  "view": 14471,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121801622326050892",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121786521271370107",
   "time": "Sun Nov 15 02:05:02 +0000 2026",
   "user": "business",
@@ -7587,21 +7602,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120593663713558543",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120592438070849898",
-  "time": "Wed Nov 11 19:00:10 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Polymarket has laid off staff and severed ties with a number of contractors as part of a broader effort to recover from several stumbles that have left it lagging its main rival https://www.bloomberg.com/news/articles/2026-11-11/polymarket-cuts-workforce-after-stumbles-prompt-reorganization?taid=6af4bb3ad0eea1000165aab6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 10356,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120592438070849898",
   "src": "fxtwitter-v2"
  }
 ]
