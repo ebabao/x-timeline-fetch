@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121941048880447986",
+  "time": "Sun Nov 15 12:19:04 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "周日（11月15日），东南亚各国领导人齐聚马尼拉，开启东盟的年度峰会。为期三天的会议将围绕一系列议题展开，美国总统特朗普也将出席相关会议。中国方面，多方消息显示，会派出国务院总理李强代表出席峰会。不过，李强将于周一与东盟领导人举行会晤，并会在特朗普周二抵达之前就离开。https://rfi.my/DDr4",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 859,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2121941048880447986",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121940835637788759",
+  "time": "Sun Nov 15 12:18:13 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "周日，效忠于沙特支持的、获国际社会承认的也门政府的武装力量表示，他们正从一处俯瞰战略要地曼德海峡的区域撤出，该区域预计将由亲伊朗的胡塞武装控制。https://rfi.my/DDqz",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 820,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2121940835637788759",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121933259034476589",
   "time": "Sun Nov 15 11:48:07 +0000 2026",
   "user": "RFI_Cn",
@@ -7847,34 +7877,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1585392849566466048",
-  "src": "guest-gql"
- },
- {
-  "id": "1581727944405561344",
-  "time": "Sun Oct 16 19:25:03 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "在法华人庆祝习近平“登基” https://t.co/MII2BOkDQe https://t.co/vHahDF4fSk",
-  "reply": 316,
-  "like": 1573,
-  "rt": 146,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1581727944405561344",
-  "src": "guest-gql"
- },
- {
-  "id": "1581041553518514177",
-  "time": "Fri Oct 14 21:57:35 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "喜迎20大：巴黎街头现标语横幅，呼吁习近平下台 https://t.co/0GJL32Elq1 https://t.co/xU3AAjHgx6",
-  "reply": 457,
-  "like": 2827,
-  "rt": 331,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1581041553518514177",
   "src": "guest-gql"
  }
 ]
