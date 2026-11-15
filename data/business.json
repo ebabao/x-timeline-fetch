@@ -1,5 +1,50 @@
 [
  {
+  "id": "2121991635441475616",
+  "time": "Sun Nov 15 15:40:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Hundreds of thousands of Czechs protested in Prague against the plan of Prime Minister Andrej Babis’s government to overhaul the financing of public broadcasters. https://www.bloomberg.com/news/articles/2026-11-15/czechs-protest-against-new-funding-plan-for-public-broadcasters?taid=6af9d25522159d00013f6d40&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 7,
+  "rt": 2,
+  "view": 10521,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121991635441475616",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121987847229989279",
+  "time": "Sun Nov 15 15:25:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Treasury Secretary Scott Bessent said that Nvidia needs a “dramatic shakeup” in leadership after the ouster of chief executive Jensen Huang https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster?taid=6af9cecdd0eea100019af9f1&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 4,
+  "rt": 1,
+  "view": 18394,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121987847229989279",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121986602146648548",
+  "time": "Sun Nov 15 15:20:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "US oil producers, led by the Permian, are on track to boost output by 378,000 barrels per day by the end of the year, up 2.8% from 12 months earlier, according to data and research firm Enverus. https://www.bloomberg.com/news/articles/2026-11-15/permian-basin-drives-us-oil-growth-with-slow-and-steady-playbook?taid=6af9cda5d0eea100019af9ea&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 7,
+  "rt": 1,
+  "view": 16577,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121986602146648548",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121984722872025545",
   "time": "Sun Nov 15 15:12:37 +0000 2026",
   "user": "business",
@@ -7558,53 +7603,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120709435450429711",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120708369497338239",
-  "time": "Thu Nov 12 02:40:50 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Nvidia is working with an outside firm to identify potential CEO candidates to replace Jensen Huang, who admitted to having an affair with a woman that US officials reportedly believe to be a Chinese spy: https://www.bloomberg.com/news/live-blog/2026-11-11/nvidia-turmoil-board-to-weigh-ceo-jensen-huang-future-over-alleged-affairs",
-  "reply": 7,
-  "like": 22,
-  "rt": 7,
-  "view": 18583,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120704523681378304/vid/avc1/1080x1920/8WVDBV1S1ilymP4B.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2120708369497338239",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120708179055059350",
-  "time": "Thu Nov 12 02:40:05 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "A simmering battle over global airlines’ access to India’s commercial capital has become a test case for the rising clout of its tycoons, writes @andymukherjee70 (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-12/mumbai-airport-becomes-a-test-case-for-india-s-adani?taid=6af5270522159d00010a156d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 6,
-  "rt": 0,
-  "view": 13971,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120708179055059350",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120706909275566095",
-  "time": "Thu Nov 12 02:35:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "In today’s Markets Daily India, we look at India’s return to the world’s top five stock markets, and why large-cap funds are winning favor with investors. https://www.bloomberg.com/news/newsletters/2026-11-12/india-reclaims-spot-among-world-s-five-biggest-stock-markets-as-rally-extends?taid=6af525d6c6e52100014d940c&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 6,
-  "rt": 0,
-  "view": 15558,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120706909275566095",
   "src": "fxtwitter-v2"
  }
 ]
