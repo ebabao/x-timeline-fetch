@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121952620096970794",
+  "time": "Sun Nov 15 13:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Confused sensors, clipped drones and software recalibrations: A drone defense test in the Arizona desert highlights the Pentagon's race to catch up. https://www.bloomberg.com/news/features/2026-11-15/us-military-tests-new-counter-drone-weapons-in-race-to-catch-up?taid=6af9adff8a00c90001227461&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 5906,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121952620096970794",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121946326346633603",
+  "time": "Sun Nov 15 12:40:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "A dearth of new sales of emerging-market government bonds is creating a supply shortage that’s lifting prices before an expected rebound in issuance early next year. https://www.bloomberg.com/news/articles/2026-11-15/bond-drought-in-emerging-markets-lifts-prices-as-sales-slump-41?taid=6af9a82222159d00013f6bfe&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 11,
+  "rt": 4,
+  "view": 18227,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121946326346633603",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121943816575795559",
   "time": "Sun Nov 15 12:30:04 +0000 2026",
   "user": "business",
@@ -7575,38 +7605,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120638962108666034",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120638749528736096",
-  "time": "Wed Nov 11 22:04:12 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "“Donald Trump is clearly hiding something.”\n\nHouse Democrats said Wednesday they wouldn’t be intimidated or deterred by threats from President Trump’s top lawyer over expected investigations in the next Congress https://bloom.bg/4iJf5TX",
-  "reply": 2,
-  "like": 9,
-  "rt": 2,
-  "view": 9507,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120638523841683457/vid/avc1/1080x1920/8EEg59bgFk1yM3aE.mp4?tag=29"
-  ],
-  "url": "https://x.com/business/status/2120638749528736096",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120637719667679411",
-  "time": "Wed Nov 11 22:00:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The next Bank of Canada governor may need more than economic expertise. In a world of supply shocks and stubborn inflation, they may also need to be comfortable being unpopular. Read more in the Canada Daily newsletter. https://www.bloomberg.com/news/newsletters/2026-11-11/mark-carney-s-bank-of-canada-governor-pick-must-fight-inflation-public-anger?taid=6af4e56622159d00010a1238&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 9682,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120637719667679411",
   "src": "fxtwitter-v2"
  }
 ]
