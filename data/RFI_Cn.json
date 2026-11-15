@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121917109748031802",
+  "time": "Sun Nov 15 10:43:56 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "巴林周日表示，该国拦截并摧毁了来自伊朗的数次空中袭击。德黑兰方面则声称已打击位于巴林境内的一处美军基地。据了解，这是自9月以来，巴林防空系统首次执行此类拦截任务。在此之前，巴林当局曾两次发出潜在威胁预警，敦促居民寻求掩护。https://rfi.my/DDqD",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 427,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2121917109748031802",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121910745633841624",
   "time": "Sun Nov 15 10:18:39 +0000 2026",
   "user": "RFI_Cn",
@@ -7858,20 +7873,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1580495080007536640",
-  "src": "guest-gql"
- },
- {
-  "id": "1578684267022151680",
-  "time": "Sat Oct 08 09:50:34 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "乌克兰宣布承认北方四岛为日本领土:尊重日本的主权和领土完整 https://t.co/ttaQitxufM https://t.co/zhvhKHJlRh",
-  "reply": 174,
-  "like": 1971,
-  "rt": 239,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1578684267022151680",
   "src": "guest-gql"
  }
 ]

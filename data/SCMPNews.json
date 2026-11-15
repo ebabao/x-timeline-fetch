@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121917152206721481",
+  "time": "Sun Nov 15 10:44:07 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Megaspeed rejects claims over supply chain, distances itself from Alice Huang https://www.scmp.com/tech/article/3374493/megaspeed-rejects-claims-over-supply-chain-distances-itself-alice-huang?utm_medium=Social&utm_source=Twitter#Echobox=1794739444",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 975,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121917152206721481",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121887149612028263",
   "time": "Sun Nov 15 08:44:53 +0000 2026",
   "user": "SCMPNews",
@@ -7504,20 +7519,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1416414231164035076",
-  "src": "guest-gql"
- },
- {
-  "id": "1413058115864457221",
-  "time": "Thu Jul 08 08:51:22 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "This black bird has exclusively been attacking men –never women– on this Chinese campus for more than five years. https://t.co/9Bup5j2Ml7",
-  "reply": 83,
-  "like": 9961,
-  "rt": 1830,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1413058115864457221",
   "src": "guest-gql"
  }
 ]

@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121918643332112741",
+  "time": "Sun Nov 15 10:50:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Wingtech Technology said it opposes a Dutch court’s latest interim order in the dispute over Nexperia and plans to appeal, arguing the ruling lacks a factual basis and contains fundamental legal flaws. https://www.bloomberg.com/news/articles/2026-11-15/wingtech-to-challenge-dutch-court-s-nexperia-interim-order?taid=6af98e5a718669000140b080&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 2,
+  "rt": 1,
+  "view": 9020,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121918643332112741",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121917390686495041",
+  "time": "Sun Nov 15 10:45:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Firmus plans a $3 billion private fundraising effort that will include new equity and debt issuance, as well as locking in pre-payments from customers including its backer Nvidia and Meta Platforms, the Australian Financial Review said. https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says?taid=6af98d2f8a00c900012273a6&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 5,
+  "rt": 0,
+  "view": 11033,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121917390686495041",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121907321840222370",
   "time": "Sun Nov 15 10:05:03 +0000 2026",
   "user": "business",
@@ -7575,36 +7605,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120631410805371334",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120630189163954316",
-  "time": "Wed Nov 11 21:30:11 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Brazilian fuel distributors are being offered Russian diesel after plans to deliver some cargoes to the largest US petroleum hub foundered on domestic political opposition to doing business with Moscow. https://www.bloomberg.com/news/articles/2026-11-11/russian-fuel-exporters-court-brazilian-diesel-buyers-after-new-jersey-snub?taid=6af4de63191e680001d3d956&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 2,
-  "view": 14204,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120630189163954316",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120628895233855700",
-  "time": "Wed Nov 11 21:25:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Anthropic's long-awaited IPO will give investors a crucial look at the health of the artificial intelligence trade, and Wall Street hopes it will spur the next leg of the AI-fueled stock market rally that’s going on four years https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade?taid=6af4dd2e22159d00010a11e4&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 3,
-  "like": 18,
-  "rt": 2,
-  "view": 20019,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120628895233855700",
   "src": "fxtwitter-v2"
  }
 ]
