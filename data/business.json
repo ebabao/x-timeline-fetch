@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121907321840222370",
+  "time": "Sun Nov 15 10:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Chinese game developer Yoozoo said one of its units has received a $214 million order for flash-memory components. https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order?taid=6af983cfd0eea100019af75a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 6,
+  "like": 7,
+  "rt": 2,
+  "view": 14967,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121907321840222370",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121906083375550831",
   "time": "Sun Nov 15 10:00:08 +0000 2026",
   "user": "business",
@@ -7590,21 +7605,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120628895233855700",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120627639073292721",
-  "time": "Wed Nov 11 21:20:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Trump’s final two years in office will make or break his foreign policy legacy. How Democrats coming into Congress will try to unwind it. https://www.bloomberg.com/news/articles/2026-11-11/trump-and-congressional-democrats-face-clashes-on-tariffs-iran-israel-ukraine?taid=6af4dc0322159d00010a11d9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 7,
-  "rt": 2,
-  "view": 14437,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120627639073292721",
   "src": "fxtwitter-v2"
  }
 ]
