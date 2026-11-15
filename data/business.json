@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121906083375550831",
+  "time": "Sun Nov 15 10:00:08 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "New York had punk in the ’70s. Seattle had grunge in the ’90s. Now London’s jazz scene is having a moment. https://www.bloomberg.com/news/articles/2026-11-13/london-s-jazz-revival-is-energizing-the-uk-s-live-music-scene?taid=6af982a7c6e521000170916a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 6205,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121906083375550831",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121899770432160238",
+  "time": "Sun Nov 15 09:35:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Peter Magyar’s quest to “heal” Hungary by opening communist-era files is tougher than he thought https://www.bloomberg.com/news/articles/2026-11-15/hungary-opens-pandora-s-box-with-publication-of-communist-files?taid=6af97cc6191e680001edd220&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 13,
+  "rt": 2,
+  "view": 16017,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121899770432160238",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121897312771268904",
   "time": "Sun Nov 15 09:25:16 +0000 2026",
   "user": "business",
@@ -7575,36 +7605,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120627639073292721",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120626396460429820",
-  "time": "Wed Nov 11 21:15:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "US Treasury Secretary Scott Bessent, who is spearheading efforts to economically isolate Iran, was moved into temporary military housing after threats from the Islamic Republic https://www.bloomberg.com/news/articles/2026-11-11/bessent-moved-to-military-housing-following-iranian-threats?taid=6af4dada7186690001d1a267&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 9,
-  "rt": 1,
-  "view": 16118,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120626396460429820",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120625125678555282",
-  "time": "Wed Nov 11 21:10:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Younger Chinese shoppers are less likely to blindly splurge on a label, as individuality, practicality and perceived value increasingly shape purchasing decisions https://www.bloomberg.com/news/articles/2026-11-11/coach-ralph-lauren-defy-china-retail-slump-as-badge-of-new-cool?taid=6af4d9ab22159d00010a11c4&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 6,
-  "rt": 0,
-  "view": 16222,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120625125678555282",
   "src": "fxtwitter-v2"
  }
 ]
