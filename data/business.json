@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122103614717993117",
+  "time": "Sun Nov 15 23:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Shenzhen, home to some of China’s biggest tech giants, serves as a power symbol of the country’s rise and the limits of US efforts to hold it back. https://www.bloomberg.com/news/features/2026-11-15/futuristic-shenzhen-shows-trump-the-difficulty-of-stopping-xi-jinping-s-china?taid=6afa3a9f718669000140b5b2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 3,
+  "rt": 3,
+  "view": 11158,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122103614717993117",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122098600456937685",
   "time": "Sun Nov 15 22:45:07 +0000 2026",
   "user": "business",
@@ -7580,23 +7595,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120964883214713301",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120963599875059770",
-  "time": "Thu Nov 12 19:35:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Confidential settlement figures, reported for the first time, provide a rare glimpse into what the biggest social media companies are willing to pay to avoid high-profile trials with teen users. Read more here: https://bloom.bg/4jbg7JQ\n\n📷: Jill Connelly/Getty Images",
-  "reply": 3,
-  "like": 10,
-  "rt": 3,
-  "view": 12485,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HW8tJ6BWgAEjzvM.jpg?name=orig"
-  ],
-  "url": "https://x.com/business/status/2120963599875059770",
   "src": "fxtwitter-v2"
  }
 ]
