@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121932162274386289",
+  "time": "Sun Nov 15 11:43:45 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Chinese mountain birds lost nearly half their genetic diversity in just 50 years https://www.scmp.com/news/china/science/article/3374287/evolutionary-threat-chinese-mountain-birds-lost-nearly-half-genetic-diversity-50-years?utm_medium=Social&utm_source=Twitter#Echobox=1794740003-1",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 712,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121932162274386289",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121921022207185024",
   "time": "Sun Nov 15 10:59:29 +0000 2026",
   "user": "SCMPNews",
@@ -7507,20 +7522,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1446279086884671495",
-  "src": "guest-gql"
- },
- {
-  "id": "1438671497237835784",
-  "time": "Fri Sep 17 01:09:48 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Duterte spokesman who mocked the UN now hopes they’ll give him a job https://t.co/f68xHUQbrd",
-  "reply": 264,
-  "like": 15401,
-  "rt": 3303,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1438671497237835784",
   "src": "guest-gql"
  }
 ]

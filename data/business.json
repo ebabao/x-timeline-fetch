@@ -1,5 +1,37 @@
 [
  {
+  "id": "2121928721653231657",
+  "time": "Sun Nov 15 11:30:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "New York had punk in the ’70s. Seattle had grunge in the ’90s. Now London’s jazz scene is having a moment. New clubs, packed festivals and musicians mixing jazz with grime, reggae and Afrobeat are fueling a renaissance in the city’s live music scene. Read more: http://bloom.bg/4AyG783\n\n📷: Dave Benett/Getty Images",
+  "reply": 2,
+  "like": 10,
+  "rt": 0,
+  "view": 12741,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXKa7W8WsAEm74Y.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2121928721653231657",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121927451764818279",
+  "time": "Sun Nov 15 11:25:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "A group of Labour MPs is attempting to block approval for drilling at the Rosebank oil field, presenting UK Prime Minister Andy Burnham with the first major rebellion of his premiership, according to the Sunday Times. https://www.bloomberg.com/news/articles/2026-11-15/burnham-faces-labour-rebellion-over-rosebank-sunday-times-says?taid=6af9968e718669000140b0b9&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 9,
+  "rt": 5,
+  "view": 14400,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121927451764818279",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121918643332112741",
   "time": "Sun Nov 15 10:50:02 +0000 2026",
   "user": "business",
@@ -7575,36 +7607,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120633937693229466",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120632676688232691",
-  "time": "Wed Nov 11 21:40:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "For months, ADI PredictStreet looked like it was the latest in a string of businesses tied to Abu Dhabi’s royal family to embrace the Trump family’s cryptocurrency project World Liberty Financial. https://www.bloomberg.com/news/articles/2026-11-11/trump-stablecoin-scrubbed-from-uae-linked-prediction-market-site?taid=6af4e0b422159d00010a1212&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 13119,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120632676688232691",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120631410805371334",
-  "time": "Wed Nov 11 21:35:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Some Democrats don’t give their Senate leader credit for their party’s electoral success. https://www.bloomberg.com/news/newsletters/2026-11-11/schumer-faces-progressive-push-for-bolder-agenda-after-midterm-rout?taid=6af4df8622159d00010a120c&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 7,
-  "rt": 0,
-  "view": 15035,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120631410805371334",
   "src": "fxtwitter-v2"
  }
 ]
