@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121865798159343862",
+  "time": "Sun Nov 15 07:20:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The UK economy is defying gravity. Despite an energy shock and more than £80 billion of tax rises since Labour took power in 2024, the private sector is booming and households are holding up; but the government can claim little credit. https://www.bloomberg.com/news/articles/2026-11-15/firms-drive-uk-growth-spurt-with-little-help-from-government?taid=6af95d23718669000140afa7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 7543,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121865798159343862",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121862022111375547",
+  "time": "Sun Nov 15 07:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Donald Trump's comments on Taiwan suggest a willingness to sell out the island if the price is right. That would be a historic blunder, writes Max Hastings (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-15/american-support-for-taiwan-looks-alarmingly-fragile?taid=6af9599ed0eea100019af656&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 8,
+  "rt": 2,
+  "view": 13413,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121862022111375547",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121855226067943753",
   "time": "Sun Nov 15 06:38:02 +0000 2026",
   "user": "business",
@@ -7573,36 +7603,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120605001659683224",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120603738977055162",
-  "time": "Wed Nov 11 19:45:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Jim Jordan represents the hollowing out of the GOP in the Trump era, writes @niamalikah (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-11/jim-jordan-will-lead-house-republicans-deeper-into-the-ditch?taid=6af4c5c0c6e52100014d9044&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 4989,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120603738977055162",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120602495307206964",
-  "time": "Wed Nov 11 19:40:08 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Andy Burnham pledged to outline his 10-year plan for Britain’s future before Christmas, after suggesting just last week that his blueprint might slip to next year. https://www.bloomberg.com/news/articles/2026-11-11/burnham-says-his-10-year-plan-will-now-arrive-before-year-end?taid=6af4c49822159d00010a10b3&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 2,
-  "rt": 0,
-  "view": 8793,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120602495307206964",
   "src": "fxtwitter-v2"
  }
 ]

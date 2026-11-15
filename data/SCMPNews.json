@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121859659858317799",
+  "time": "Sun Nov 15 06:55:39 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "700 swimmers left stranded after strong currents force early end to Victoria Harbour Race https://www.scmp.com/news/hong-kong/society/article/3374475/700-swimmers-left-stranded-after-strong-currents-force-early-end-victoria-harbour-race?utm_medium=Social&utm_source=Twitter#Echobox=1794725737",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1539,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121859659858317799",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121849373722067321",
   "time": "Sun Nov 15 06:14:47 +0000 2026",
   "user": "SCMPNews",
@@ -7500,20 +7515,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1369128308215013376",
-  "src": "guest-gql"
- },
- {
-  "id": "1360619952949051393",
-  "time": "Sat Feb 13 16:00:50 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Golden Child are all grown up, and latest EP ‘[Yes.]’ reflects the K-pop group’s new sound and maturity https://t.co/yqZt00Kh1X",
-  "reply": 13,
-  "like": 3300,
-  "rt": 1067,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1360619952949051393",
   "src": "guest-gql"
  }
 ]
