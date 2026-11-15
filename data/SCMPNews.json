@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121816069513912331",
+  "time": "Sun Nov 15 04:02:27 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Digital nomads are flocking to Asia. South Korea wants in https://www.scmp.com/week-asia/lifestyle-culture/article/3374378/digital-nomads-are-flocking-asia-south-korea-wants?utm_medium=Social&utm_source=Twitter#Echobox=1794715344-1",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1231,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121816069513912331",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121803626746159417",
   "time": "Sun Nov 15 03:13:00 +0000 2026",
   "user": "SCMPNews",
@@ -7494,20 +7509,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1316202314177417216",
-  "src": "guest-gql"
- },
- {
-  "id": "1309917185784066049",
-  "time": "Sat Sep 26 18:06:08 +0000 2020",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Jaemin of NCT: talented and a rising star, K-pop idol and actor keeps his feet on the ground with charity work and care for others https://t.co/l7oMQhvg4C",
-  "reply": 149,
-  "like": 9653,
-  "rt": 3927,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1309917185784066049",
   "src": "guest-gql"
  }
 ]

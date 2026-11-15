@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121812953091457236",
+  "time": "Sun Nov 15 03:50:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "A Copa Airlines plane and a UPS aircraft collided while taxiing at Miami International Airport, according to air traffic controller communications https://www.bloomberg.com/news/articles/2026-11-15/copa-ups-planes-collide-on-miami-airport-tarmac-while-taxiing?taid=6af92beb8a00c90001227263&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 5,
+  "like": 8,
+  "rt": 7,
+  "view": 16651,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121812953091457236",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121801622326050892",
   "time": "Sun Nov 15 03:05:02 +0000 2026",
   "user": "business",
@@ -7587,21 +7602,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120594926106706109",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120593663713558543",
-  "time": "Wed Nov 11 19:05:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "At least 11 workers at NSA and Cyber Command have taken their own lives in last year or so. https://www.bloomberg.com/news/newsletters/2026-11-11/us-military-congress-focus-on-toll-of-cyber-jobs-following-suicides?taid=6af4bc5e22159d00010a1069&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 5,
-  "rt": 6,
-  "view": 12102,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120593663713558543",
   "src": "fxtwitter-v2"
  }
 ]
