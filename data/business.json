@@ -1,5 +1,35 @@
 [
  {
+  "id": "2122098600456937685",
+  "time": "Sun Nov 15 22:45:07 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Vietnam’s retail investors are dumping equities and buying high-yielding notes from banks to capture interest rates nearing 10%, as locals and foreigners fall out of favor with the poor-performing stock market https://www.bloomberg.com/news/articles/2026-11-15/retail-crowd-dump-vietnam-stocks-for-near-10-bank-deposit-rates?taid=6afa35f3191e680001edd6fa&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 5,
+  "rt": 1,
+  "view": 6968,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122098600456937685",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122093544009506928",
+  "time": "Sun Nov 15 22:25:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Get up to speed on what's moving global markets https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates?taid=6afa313e718669000140b554&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 8,
+  "rt": 0,
+  "view": 14539,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122093544009506928",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122091034708471952",
   "time": "Sun Nov 15 22:15:03 +0000 2026",
   "user": "business",
@@ -7567,38 +7597,6 @@
    "https://pbs.twimg.com/media/HW8tJ6BWgAEjzvM.jpg?name=orig"
   ],
   "url": "https://x.com/business/status/2120963599875059770",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120962413432279081",
-  "time": "Thu Nov 12 19:30:19 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Alan Milburn’s welfare reforms next week will be greeted by sound and fury. But he’ll find Labour MPs just one of his problems — what AI is doing to the labor market brings new challenges for NEETs. Get the Readout with @allegrastratton https://www.bloomberg.com/news/newsletters/2026-11-12/can-labour-s-welfare-guru-tame-ai?taid=6af613cb7186690001d1abb1&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 2,
-  "like": 1,
-  "rt": 0,
-  "view": 10662,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120962413432279081",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120962362001838181",
-  "time": "Thu Nov 12 19:30:07 +0000 2026",
-  "user": "opinion",
-  "name": "Bloomberg Opinion",
-  "text": "Jensen Huang had more influence over American AI policy than any other Silicon Valley executive.\n\n@DaveLeeBBG explains the risks to the sector without Nvidia’s leather-jacketed champion 🎥",
-  "reply": 3,
-  "like": 4,
-  "rt": 3,
-  "view": 7441,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120962191562100736/vid/avc1/1080x1920/fHJpQJdcPVCAW2Lu.mp4?tag=29"
-  ],
-  "url": "https://x.com/opinion/status/2120962362001838181",
   "src": "fxtwitter-v2"
  }
 ]

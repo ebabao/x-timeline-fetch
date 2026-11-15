@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122094542539436368",
+  "time": "Sun Nov 15 22:29:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Indonesia’s Prabowo apologises to Singapore, Malaysia over transboundary haze https://www.scmp.com/news/asia/southeast-asia/article/3374510/indonesias-prabowo-apologises-singapore-malaysia-over-transboundary-haze?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 1052,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122094542539436368",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122094376151142799",
+  "time": "Sun Nov 15 22:28:20 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Mexican journalist who reported on missing persons found dead in Acapulco\nhttps://www.scmp.com/news/world/americas/article/3374520/mexican-journalist-who-reported-missing-persons-found-dead-acapulco?utm_medium=Social&utm_source=Twitter#Echobox=1794781700-1",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 961,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122094376151142799",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122079946428326035",
   "time": "Sun Nov 15 21:31:00 +0000 2026",
   "user": "SCMPNews",
@@ -7507,34 +7537,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1836725675387994298",
-  "src": "guest-gql"
- },
- {
-  "id": "1832684381078491470",
-  "time": "Sun Sep 08 07:36:20 +0000 2024",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "From ‘New Hope’ to ‘Mulyono’: is Joko Widodo’s legacy in jeopardy?\nhttps://t.co/LGg6lj3s5v",
-  "reply": 160,
-  "like": 5032,
-  "rt": 2027,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1832684381078491470",
-  "src": "guest-gql"
- },
- {
-  "id": "1826548979925959004",
-  "time": "Thu Aug 22 09:16:27 +0000 2024",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Indonesians protest against changes to election law, threat to democracy https://t.co/U2xQmh9kLX",
-  "reply": 384,
-  "like": 23159,
-  "rt": 13335,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1826548979925959004",
   "src": "guest-gql"
  }
 ]
