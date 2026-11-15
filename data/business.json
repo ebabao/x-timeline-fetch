@@ -1,5 +1,52 @@
 [
  {
+  "id": "2122091034708471952",
+  "time": "Sun Nov 15 22:15:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Read today's Australia Briefing for your daily dose of the best of Bloomberg from Down Under and around the world https://www.bloomberg.com/news/newsletters/2026-11-15/apec-home-auction-clearances-firmus-australia-briefing?taid=6afa2ee7718669000140b543&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 9646,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122091034708471952",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122088520667803931",
+  "time": "Sun Nov 15 22:05:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Diamondback is in talks to acquire closely held oil driller Double Eagle V for about $5 billion, further expanding its position in the Permian Basin, the world’s most productive shale region, according to a person familiar with the matter https://www.bloomberg.com/news/articles/2026-11-15/diamondback-in-talks-to-buy-double-eagle-for-about-5-billion?taid=6afa2c90718669000140b530&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 4,
+  "like": 6,
+  "rt": 0,
+  "view": 13478,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122088520667803931",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122087254621302803",
+  "time": "Sun Nov 15 22:00:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Anthropic wants to raise $90.4 billion in its IPO, which would be the biggest ever. Wall Street wants proof that all that spending on AI will pay off. https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom?taid=6afa1f0513aa3b0001841390&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 8,
+  "like": 24,
+  "rt": 7,
+  "view": 13356,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXMrHNHXUAAn0pq.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2122087254621302803",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122083491084951951",
   "time": "Sun Nov 15 21:45:05 +0000 2026",
   "user": "business",
@@ -7552,51 +7599,6 @@
    "https://video.twimg.com/amplify_video/2120962191562100736/vid/avc1/1080x1920/fHJpQJdcPVCAW2Lu.mp4?tag=29"
   ],
   "url": "https://x.com/opinion/status/2120962362001838181",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120961086098669769",
-  "time": "Thu Nov 12 19:25:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Democrats promised quick action next year to ban members of Congress from trading individual stocks as they seek to deliver on campaign promises to clean up corruption in Washington https://www.bloomberg.com/news/articles/2026-11-12/congressional-stock-trading-ban-makes-democrats-priority-list?taid=6af6128fd0eea1000165b6c7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 4,
-  "like": 9,
-  "rt": 2,
-  "view": 14421,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120961086098669769",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120959848854544501",
-  "time": "Thu Nov 12 19:20:08 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The US Centers for Disease Control and Prevention is promoting the measles vaccine as the country is on the precipice of losing its global status for eliminating the disease, Director Erica Schwartz said Thursday https://www.bloomberg.com/news/articles/2026-11-12/cdc-director-backs-vaccine-as-measles-deaths-mount-across-us?taid=6af61168c6e52100014d9c58&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 8,
-  "rt": 3,
-  "view": 14684,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120959848854544501",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120958582602526841",
-  "time": "Thu Nov 12 19:15:06 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "‘Dark Day’: Silicon Valley Mourns Nvidia’s Decision to Oust CEO https://www.bloomberg.com/news/articles/2026-11-12/-dark-day-silicon-valley-mourns-nvidia-s-decision-to-oust-ceo?taid=6af6103a7186690001d1ab88&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 6,
-  "like": 13,
-  "rt": 3,
-  "view": 15347,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120958582602526841",
   "src": "fxtwitter-v2"
  }
 ]

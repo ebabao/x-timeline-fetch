@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122079946428326035",
+  "time": "Sun Nov 15 21:31:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Pope Leo visits high Andes, testing recovery from lung cancer surgery https://www.scmp.com/news/world/americas/article/3374515/pope-leo-visits-high-andes-testing-recovery-lung-cancer-surgery?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1492,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122079946428326035",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122077765306286550",
   "time": "Sun Nov 15 21:22:20 +0000 2026",
   "user": "SCMPNews",
@@ -7520,20 +7535,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1826548979925959004",
-  "src": "guest-gql"
- },
- {
-  "id": "1742878549823132070",
-  "time": "Thu Jan 04 12:00:02 +0000 2024",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "The Korean alphabet, Hangul, is being used by villagers in the southeastern Indonesian city of Baubau to preserve their own indigenous dialect, Cia-Cia. https://t.co/J5ZizRlnVs",
-  "reply": 17,
-  "like": 2723,
-  "rt": 524,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1742878549823132070",
   "src": "guest-gql"
  }
 ]
