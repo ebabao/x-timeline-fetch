@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122016416501297369",
+  "time": "Sun Nov 15 17:18:33 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国财政部长贝森特周日在受访时表示，在黄仁勋宣布辞职后，英伟达在寻找新任首席执行官时，应当从公司外部进行物色。https://rfi.my/DDtL",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 359,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122016416501297369",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122002602401415446",
   "time": "Sun Nov 15 16:23:39 +0000 2026",
   "user": "RFI_Cn",
@@ -7869,20 +7884,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1596994548471058434",
-  "src": "guest-gql"
- },
- {
-  "id": "1596892008253358082",
-  "time": "Sun Nov 27 15:41:38 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "白纸成为中国多地民众表达不满的象征 https://t.co/XthyxOmVoJ https://t.co/J0CbmBm2gf",
-  "reply": 155,
-  "like": 1217,
-  "rt": 233,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1596892008253358082",
   "src": "guest-gql"
  }
 ]

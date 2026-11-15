@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122019324764328412",
+  "time": "Sun Nov 15 17:30:06 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Thousands of Berlin’s dentists trusted a pension fund. The story of its downfall includes risky investments, a Ferrari and a luxury yacht. https://www.bloomberg.com/news/features/2026-11-13/how-berlin-s-dentist-pension-fund-vzb-lost-1-billion?taid=6af9ec1b718669000140b336&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 4188,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122019324764328412",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122011817455014184",
   "time": "Sun Nov 15 17:00:17 +0000 2026",
   "user": "business",
@@ -7586,21 +7601,6 @@
    "https://video.twimg.com/amplify_video/2120819028289601536/vid/avc1/1920x1080/k_0smYXbzM8VK14o.mp4?tag=29"
   ],
   "url": "https://x.com/BloombergLive/status/2120829695440601144",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120828967078727973",
-  "time": "Thu Nov 12 10:40:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Norwest’s new $4 billion fund will avoid 'shiny objects' https://www.bloomberg.com/news/articles/2026-11-12/norwest-s-new-4-billion-fund-will-avoid-shiny-objects?taid=6af59783191e680001acf808&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 4,
-  "like": 10,
-  "rt": 1,
-  "view": 16181,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120828967078727973",
   "src": "fxtwitter-v2"
  }
 ]
