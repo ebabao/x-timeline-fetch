@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122109641920499961",
+  "time": "Sun Nov 15 23:29:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "5,000 people linked to HKMU may have had personal data leaked in cyber breach https://www.scmp.com/news/hong-kong/education/article/3374511/5000-people-linked-hkmu-may-have-had-personal-data-leaked-cyber-breach?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 978,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122109641920499961",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122094542539436368",
   "time": "Sun Nov 15 22:29:00 +0000 2026",
   "user": "SCMPNews",
@@ -7523,20 +7538,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1902685455923007510",
-  "src": "guest-gql"
- },
- {
-  "id": "1836725675387994298",
-  "time": "Thu Sep 19 11:15:00 +0000 2024",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "“If this is not terrorism, I don’t know what is,” says the Post’s managing editor of content, Yonden Lhatoo, about the carnage in Lebanon caused by exploding pagers and walkie-talkies. https://t.co/cwA7te1imn",
-  "reply": 121,
-  "like": 2568,
-  "rt": 1016,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1836725675387994298",
   "src": "guest-gql"
  }
 ]
