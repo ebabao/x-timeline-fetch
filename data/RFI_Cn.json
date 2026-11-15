@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121958567431307389",
+  "time": "Sun Nov 15 13:28:41 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "新加坡云计算公司Megaspeed周日向美国消费者新闻与商业频道表示，黄乐已于2025年8月从公司离职，并称Megaspeed已针对有关其业务及供应链的媒体报道启动了内部调查。https://rfi.my/DDrm",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 263,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2121958567431307389",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121941048880447986",
   "time": "Sun Nov 15 12:19:04 +0000 2026",
   "user": "RFI_Cn",
@@ -7863,20 +7878,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1587557611708502016",
-  "src": "guest-gql"
- },
- {
-  "id": "1585392849566466048",
-  "time": "Wed Oct 26 22:08:05 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "120年之后，中国又回到皇帝时期，这对许多中国人的自尊心是一个巨大的侮辱，好像这一百年就是白活的。https://t.co/vXAg4Nr5iu via @RFI_Cn https://t.co/YlPrauMXJg",
-  "reply": 476,
-  "like": 1488,
-  "rt": 261,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1585392849566466048",
   "src": "guest-gql"
  }
 ]
