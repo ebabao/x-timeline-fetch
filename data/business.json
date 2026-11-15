@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122024339432263880",
+  "time": "Sun Nov 15 17:50:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "United Launch Alliance launched its Vulcan rocket for the first time in nine months, a long-awaited return for a vehicle plagued by delays and technical mishaps https://www.bloomberg.com/news/articles/2026-11-15/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload?taid=6af9f0ca718669000140b355&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 7,
+  "rt": 1,
+  "view": 11020,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122024339432263880",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122019324764328412",
   "time": "Sun Nov 15 17:30:06 +0000 2026",
   "user": "business",
@@ -7584,23 +7599,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120830226183717293",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120829695440601144",
-  "time": "Thu Nov 12 10:42:57 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "“I think we have to show investors the positive side of this, which is there is opportunity in every crisis.”\n\nMinister of Investment for the United Arab Emirates H.E. Mohamed Hassan Alsuwaidi speaks with @BloombergTV's @GuyJohnsonTV on maintaining investor appeal and finding growth opportunities during periods of economic uncertainty.  #BloombergInvest\n\nWatch here ⏯️ \nhttps://bloom.bg/3WzRaz3",
-  "reply": 0,
-  "like": 1,
-  "rt": 2,
-  "view": 4431,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120819028289601536/vid/avc1/1920x1080/k_0smYXbzM8VK14o.mp4?tag=29"
-  ],
-  "url": "https://x.com/BloombergLive/status/2120829695440601144",
   "src": "fxtwitter-v2"
  }
 ]

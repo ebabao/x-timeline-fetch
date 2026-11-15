@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122017065313902824",
+  "time": "Sun Nov 15 17:21:08 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "US, China seek common ground on military crisis pact as Washington weighs terms: sources  https://www.scmp.com/news/china/military/article/3374503/us-china-seek-common-ground-military-crisis-pact-washington-weighs-terms-sources?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 1506,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122017065313902824",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122002706403311734",
   "time": "Sun Nov 15 16:24:04 +0000 2026",
   "user": "SCMPNews",
@@ -7514,20 +7529,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1504448870784372742",
-  "src": "guest-gql"
- },
- {
-  "id": "1477187845240475650",
-  "time": "Sat Jan 01 08:00:01 +0000 2022",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "In his New Year’s message, Yonden Lhatoo demands Western governments free WikiLeaks founder Julian Assange before preaching press freedom to everyone else. https://t.co/dVN4NTO7KC",
-  "reply": 354,
-  "like": 4965,
-  "rt": 2224,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1477187845240475650",
   "src": "guest-gql"
  }
 ]
