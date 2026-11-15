@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121849373722067321",
+  "time": "Sun Nov 15 06:14:47 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "What a Beijing cafe dispute reveals about China’s struggling bookshops https://www.scmp.com/news/china/politics/article/3374469/what-beijing-cafe-dispute-reveals-about-chinas-struggling-bookshops?utm_medium=Social&utm_source=Twitter#Echobox=1794723283",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 1116,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121849373722067321",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121834699446190428",
   "time": "Sun Nov 15 05:16:28 +0000 2026",
   "user": "SCMPNews",
@@ -7499,20 +7514,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1360619952949051393",
-  "src": "guest-gql"
- },
- {
-  "id": "1352885026065539072",
-  "time": "Sat Jan 23 07:45:00 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "To raise awareness about epidemics, Taiwan’s CDC has reimagined diseases as anime characters — including #Covid19 drawn as a multi-armed hacker. https://t.co/kWLHFjvKXI",
-  "reply": 122,
-  "like": 3923,
-  "rt": 1260,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1352885026065539072",
   "src": "guest-gql"
  }
 ]
