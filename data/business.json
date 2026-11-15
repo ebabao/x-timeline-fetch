@@ -1,5 +1,37 @@
 [
  {
+  "id": "2122028117325668748",
+  "time": "Sun Nov 15 18:05:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Prabowo has consolidated his authority over Indonesia, says @Moss_Eco, but at considerable cost (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-15/infighting-is-the-last-thing-indonesia-s-economy-needs?taid=6af9f44f191e680001edd53b&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 6,
+  "rt": 1,
+  "view": 15251,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122028117325668748",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122026890433073443",
+  "time": "Sun Nov 15 18:00:10 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "“They called it the oil weapon for a reason… and it was a question of when do you wield it,” author and journalist Philip Delves Broughton tells @davidgura and @EenaRuffini. His new book “Embargo: How the 1973 Oil Crisis Changed the World” looks how the Arab oil embargo 50 years ago helped define the modern world.",
+  "reply": 2,
+  "like": 3,
+  "rt": 0,
+  "view": 13472,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122012822456438785/vid/avc1/1920x1080/cOV81JETDZq2xs7w.mp4?tag=16"
+  ],
+  "url": "https://x.com/business/status/2122026890433073443",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122024339432263880",
   "time": "Sun Nov 15 17:50:02 +0000 2026",
   "user": "business",
@@ -7567,38 +7599,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120831481161343019",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120831189577576909",
-  "time": "Thu Nov 12 10:48:53 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "“It’s about creating more autonomous and smarter solutions—which requires robotics and technology to drive it.”\n\nMinister of Investment for the United Arab Emirates H.E. Mohamed Hassan Alsuwaidi joins @BloombergTV's @GuyJohnsonTV to spotlight the high-growth sectors gaining momentum across the UAE economy.#BloombergInvest\n\nWatch here ⏯️ \nhttps://bloom.bg/3WzRaz3",
-  "reply": 0,
-  "like": 3,
-  "rt": 1,
-  "view": 4282,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120819377444356096/vid/avc1/1920x1080/nx-CczanZMusFyGp.mp4?tag=29"
-  ],
-  "url": "https://x.com/BloombergLive/status/2120831189577576909",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120830226183717293",
-  "time": "Thu Nov 12 10:45:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Investors should stay exposed to the AI boom said Julien Lafargue at Barclays Private Bank https://www.bloomberg.com/news/articles/2026-11-12/barclays-lafargue-says-nvidia-turmoil-doesn-t-derail-ai-trade?taid=6af598afd0eea1000165b17c&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 7,
-  "like": 6,
-  "rt": 2,
-  "view": 16653,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120830226183717293",
   "src": "fxtwitter-v2"
  }
 ]
