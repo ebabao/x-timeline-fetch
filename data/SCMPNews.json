@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121869618130117060",
+  "time": "Sun Nov 15 07:35:14 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Hong Kong taxi driver arrested after 2 Britons hit by cab in Wan Chai https://www.scmp.com/news/hong-kong/law-and-crime/article/3374476/hong-kong-taxi-driver-arrested-after-2-britons-hit-cab-wan-chai?utm_medium=Social&utm_source=Twitter#Echobox=1794728111",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 1098,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121869618130117060",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121859659858317799",
   "time": "Sun Nov 15 06:55:39 +0000 2026",
   "user": "SCMPNews",
@@ -7501,20 +7516,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1385958232536010752",
-  "src": "guest-gql"
- },
- {
-  "id": "1369128308215013376",
-  "time": "Tue Mar 09 03:30:00 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "With more than 1.4 million subscribers, Rosidah’s cooking videos have made her one of Hong Kong’s biggest YouTube stars https://t.co/JjnU6Vwzgw",
-  "reply": 54,
-  "like": 2875,
-  "rt": 979,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1369128308215013376",
   "src": "guest-gql"
  }
 ]
