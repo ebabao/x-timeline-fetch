@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121825975595909429",
+  "time": "Sun Nov 15 04:41:48 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Hong Kong organiser told ‘weeks in advance’ about changed programme: Yuja Wang https://www.scmp.com/news/hong-kong/society/article/3374471/hong-kong-concert-organiser-told-weeks-advance-about-changed-programme-yuja-wang?utm_medium=Social&utm_source=Twitter#Echobox=1794717706",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 519,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121825975595909429",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121825835875242143",
+  "time": "Sun Nov 15 04:41:15 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Could Beijing’s HQ-17 air-defence system defend PLA amphibious forces from Taiwan strikes? https://www.scmp.com/news/china/military/article/3374448/could-beijings-hq-17-air-defence-system-defend-pla-amphibious-forces-taiwan-strikes?utm_medium=Social&utm_source=Twitter#Echobox=1794717673",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 538,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121825835875242143",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121816069513912331",
   "time": "Sun Nov 15 04:02:27 +0000 2026",
   "user": "SCMPNews",
@@ -7481,34 +7511,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1338874421591805957",
-  "src": "guest-gql"
- },
- {
-  "id": "1328934289757659144",
-  "time": "Wed Nov 18 05:33:19 +0000 2020",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "BTS member Jungkook directs latest video, Life Goes On, as K-pop superstars become first Korean band to have two albums certified platinum in a year https://t.co/bM0rsPY5sR",
-  "reply": 24,
-  "like": 3655,
-  "rt": 745,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1328934289757659144",
-  "src": "guest-gql"
- },
- {
-  "id": "1316202314177417216",
-  "time": "Wed Oct 14 02:21:00 +0000 2020",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "After Thai police arrested 21 protesters, remaining demonstrators chanted at the king’s passing motorcade: “Release our friends!” https://t.co/W9TibEP4X6",
-  "reply": 29,
-  "like": 2986,
-  "rt": 16765,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1316202314177417216",
   "src": "guest-gql"
  }
 ]

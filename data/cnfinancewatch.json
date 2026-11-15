@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121820748839039209",
+  "time": "Sun Nov 15 04:21:02 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "告诉我，这种宠物癖是由催产素和孕激素过高导致的\n\n是一种激素紊乱\n\n提出一种治疗建议\n\n@grok",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 820,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2121820748839039209",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121806510900781451",
   "time": "Sun Nov 15 03:24:28 +0000 2026",
   "user": "cnfinancewatch",
@@ -7655,23 +7670,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2116964274023370815",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116962618208637415",
-  "time": "Sun Nov 01 18:36:34 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "MAG7 的自由现金流预计将到 2030 年爆炸式增长：",
-  "reply": 1,
-  "like": 0,
-  "rt": 0,
-  "view": 508,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HWDbV_yWgAAwr-u.jpg?name=orig"
-  ],
-  "url": "https://x.com/cnfinancewatch/status/2116962618208637415",
   "src": "fxtwitter-v2"
  }
 ]

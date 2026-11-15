@@ -505,6 +505,20 @@
   "src": "fxtwitter-v2"
  },
  {
+  "id": "2121623607310991781",
+  "time": "Sat Nov 14 15:17:40 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "RT @MerrynSW: Adam Smith’s four canons of taxation: a good tax is fair, clear, simple and cheap to collect. It is rare to find many that me…",
+  "reply": 0,
+  "like": 0,
+  "rt": 60,
+  "view": null,
+  "lang": "en",
+  "url": "https://x.com/business/status/2121623607310991781",
+  "src": "guest-gql"
+ },
+ {
   "id": "2121622953007702443",
   "time": "Sat Nov 14 15:15:04 +0000 2026",
   "user": "business",
@@ -7587,21 +7601,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120596194380386751",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120594926106706109",
-  "time": "Wed Nov 11 19:10:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The effort to circle the wagons around Jeffries has not only strengthened his hand ahead of the leadership vote but also dragged a quieter party anxiety into the open https://www.bloomberg.com/news/articles/2026-11-11/dsa-saying-you-re-next-to-jeffries-infuriates-black-democrats?taid=6af4bd8b22159d00010a106e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 3,
-  "rt": 0,
-  "view": 9969,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120594926106706109",
   "src": "fxtwitter-v2"
  }
 ]
