@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121786521271370107",
+  "time": "Sun Nov 15 02:05:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "An alliance of Malaysia’s two largest ethnic-Malay parties swept the country’s latest regional vote, dealing Prime Minister Anwar Ibrahim’s coalition its third straight electoral setback this year https://www.bloomberg.com/news/articles/2026-11-15/anwar-s-coalition-suffers-third-straight-regional-poll-defeat?taid=6af9134ed0eea100019af440&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 4,
+  "like": 7,
+  "rt": 2,
+  "view": 16969,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121786521271370107",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121773948639608994",
   "time": "Sun Nov 15 01:15:04 +0000 2026",
   "user": "business",
@@ -7587,23 +7602,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120592438070849898",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120592396538839332",
-  "time": "Wed Nov 11 19:00:00 +0000 2026",
-  "user": "BloombergLive",
-  "name": "Bloomberg Live",
-  "text": "TOMORROW: What will drive Dubai’s next chapter of economic growth?\n\nAt #BloombergInvest Dubai, H.E. Hadi Badri, CEO of Dubai Economic Development Corporation at @DubaiDET, joins @BBGMedia's Jacob Greaves for a conversation on Dubai’s next chapter of growth.\n\nLive 11/12 at 10:15 AM GST ⏯️\nhttps://bloom.bg/4ixI5zh",
-  "reply": 0,
-  "like": 1,
-  "rt": 2,
-  "view": 4712,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HW3BM2tXgAAPSKC.jpg?name=orig"
-  ],
-  "url": "https://x.com/BloombergLive/status/2120592396538839332",
   "src": "fxtwitter-v2"
  }
 ]
