@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2121921022207185024",
+  "time": "Sun Nov 15 10:59:29 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "China’s upgraded VT-4B tank gets fourth-gen Type 100 tech ahead of Zhuhai show https://www.scmp.com/news/china/military/article/3374478/chinas-upgraded-vt-4b-export-tank-gets-fourth-gen-type-100-tech-ahead-zhuhai-show?utm_medium=Social&utm_source=Twitter#Echobox=1794740367",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1162,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121921022207185024",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121919931696435283",
+  "time": "Sun Nov 15 10:55:09 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Chinese TCM doctor defies secrecy, has 100 prescriptions carved on tombstone https://www.scmp.com/news/people-culture/trending-china/article/3374492/china-tcm-doctor-defies-medical-secrecy-carving-100-private-prescriptions-her-tombstone?utm_medium=Social&utm_source=Twitter#Echobox=1794740107-1",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1389,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2121919931696435283",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121917152206721481",
   "time": "Sun Nov 15 10:44:07 +0000 2026",
   "user": "SCMPNews",
@@ -7491,34 +7521,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1438671497237835784",
-  "src": "guest-gql"
- },
- {
-  "id": "1433451084996128776",
-  "time": "Thu Sep 02 15:25:45 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "K-pop group WayV’s Ten and YangYang on their single Low Low, how it turned from ‘heavy hip-hop’ into a carefree summery song, and the fun they had making it https://t.co/TQfRKs4CYe",
-  "reply": 33,
-  "like": 3232,
-  "rt": 1515,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1433451084996128776",
-  "src": "guest-gql"
- },
- {
-  "id": "1416414231164035076",
-  "time": "Sat Jul 17 15:07:23 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "K-pop group A.C.E started at the bottom, but hard work and theatrical performances have won fans over https://t.co/MhtH0V3UbQ",
-  "reply": 38,
-  "like": 4048,
-  "rt": 911,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1416414231164035076",
   "src": "guest-gql"
  }
 ]

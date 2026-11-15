@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121922959875219511",
+  "time": "Sun Nov 15 11:07:11 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "高市首相已决定，将在17日于菲律宾马尼拉举行的亚洲零排放共同体（AZEC）首脑会议上，倡议创设“亚洲版国际能源署”，作为在危机时期加强石油相互采购合作的机制。 https://rfi.my/DDpz",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 555,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2121922959875219511",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121917109748031802",
   "time": "Sun Nov 15 10:43:56 +0000 2026",
   "user": "RFI_Cn",
@@ -7859,20 +7874,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1580837587543298048",
-  "src": "guest-gql"
- },
- {
-  "id": "1580495080007536640",
-  "time": "Thu Oct 13 09:46:05 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "网传北京四通桥出现抗议标语“不要核酸要吃饭” https://t.co/GNsbLh4vaU https://t.co/ur6PMi65ch",
-  "reply": 199,
-  "like": 1559,
-  "rt": 207,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1580495080007536640",
   "src": "guest-gql"
  }
 ]
