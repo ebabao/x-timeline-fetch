@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121855226067943753",
+  "time": "Sun Nov 15 06:38:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Powered by Bloomberg’s global newsroom of more than 3,000 journalists and analysts, the new India homepage delivers actionable local insights and global context audiences need to navigate markets with confidence.\n\nVisit and subscribe on https://www.bloomberg.com/india",
+  "reply": 0,
+  "like": 3,
+  "rt": 1,
+  "view": 13717,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXJYFXSXEAA18mI.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2121855226067943753",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121844403224379716",
   "time": "Sun Nov 15 05:55:02 +0000 2026",
   "user": "business",
@@ -7586,21 +7603,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120602495307206964",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120601215801176262",
-  "time": "Wed Nov 11 19:35:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Former South Carolina Governor Nikki Haley ruled out a 2028 presidential run, even as she criticized the Trump administration for November’s midterm rout that handed Democrats decisive congressional majorities https://www.bloomberg.com/news/articles/2026-11-11/nikki-haley-rules-out-2028-run-after-gop-midterm-repudiation?taid=6af4c36722159d00010a10a7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 0,
-  "rt": 1,
-  "view": 10724,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120601215801176262",
   "src": "fxtwitter-v2"
  }
 ]
