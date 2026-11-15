@@ -1,5 +1,22 @@
 [
  {
+  "id": "2121961381641756932",
+  "time": "Sun Nov 15 13:39:52 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "Megaspeed据报… www.​rfi.​fr/cn/%E5%9B%BD%E9%99%85/20261115-megaspeed%E6%8D%AE%E6%8A%A5%E6%9B%BE%E5%AE%89%E6%8E%92%E5%B0%86%E4%BB%B7%E5%80%BC%E8%BF%91120%E4%BA%BF%E7%BE%8E%E5%85%83%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E8%BF%90%E5%BE%80%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 783,
+  "lang": "pt",
+  "media": [
+   "https://pbs.twimg.com/media/HXK4od5bIAAlIxO.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2121961381641756932",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121958567431307389",
   "time": "Sun Nov 15 13:28:41 +0000 2026",
   "user": "RFI_Cn",
@@ -7864,20 +7881,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1596670906419773440",
-  "src": "guest-gql"
- },
- {
-  "id": "1587557611708502016",
-  "time": "Tue Nov 01 21:30:04 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "王毅与布林肯通话要求美方认真研读习近平的中共20大政治报告 https://t.co/ZOc6ta2GvT https://t.co/POj93Gjy0s",
-  "reply": 691,
-  "like": 1462,
-  "rt": 238,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1587557611708502016",
   "src": "guest-gql"
  }
 ]

@@ -1,5 +1,35 @@
 [
  {
+  "id": "2121961429217521776",
+  "time": "Sun Nov 15 13:40:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The US spent decades eliminating measles. Now that achievement is unraveling — and RFK Jr.’s policies will make the setback harder to reverse, @LisaMJarvis writes (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-15/measles-is-officially-back-rfk-jr-is-making-it-harder-to-beat-again?taid=6af9b633d0eea100019af90e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 3,
+  "like": 5,
+  "rt": 2,
+  "view": 15323,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121961429217521776",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2121960170443997196",
+  "time": "Sun Nov 15 13:35:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The MVP of Silicon Valley is no more. Where does Nvidia — and the AI industry — go from here? (via @opinion)  https://www.bloomberg.com/opinion/newsletters/2026-11-15/jensen-huang-wasn-t-too-big-to-fall-at-nvidia?taid=6af9b507d0eea100019af901&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 2,
+  "like": 11,
+  "rt": 1,
+  "view": 17848,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121960170443997196",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121958915394920735",
   "time": "Sun Nov 15 13:30:04 +0000 2026",
   "user": "business",
@@ -7573,36 +7603,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120699363571662859",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120698172339073158",
-  "time": "Thu Nov 12 02:00:19 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Nintendo sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake in just four days, invigorating the Switch 2 platform that had been waiting for a blockbuster hit https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days?taid=6af51db322159d00010a150d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 4,
-  "like": 34,
-  "rt": 2,
-  "view": 18932,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120698172339073158",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120696843784868004",
-  "time": "Thu Nov 12 01:55:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Long-end Treasuries drifted higher as trading resumed after a holiday as turmoil at Nvidia fueled doubts about the artificial intelligence trade and fueled demand for haven assets https://www.bloomberg.com/news/articles/2026-11-12/long-us-bonds-reopen-with-gains-as-risk-sentiment-sours-again?taid=6af51c7622159d00010a14e7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 7,
-  "like": 3,
-  "rt": 0,
-  "view": 18131,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120696843784868004",
   "src": "fxtwitter-v2"
  }
 ]
