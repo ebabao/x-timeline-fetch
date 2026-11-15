@@ -1,5 +1,20 @@
 [
  {
+  "id": "2121933743287881782",
+  "time": "Sun Nov 15 11:50:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "AirMozambique has warned that fuel supply restrictions meant it may have to cancel some flights. https://www.bloomberg.com/news/articles/2026-11-15/airmozambique-warns-of-flight-cancellations-due-to-fuel-shortage?taid=6af99c6a718669000140b0e7&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 6,
+  "rt": 0,
+  "view": 15898,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2121933743287881782",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121928721653231657",
   "time": "Sun Nov 15 11:30:05 +0000 2026",
   "user": "business",
@@ -7592,21 +7607,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120635189399335344",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120633937693229466",
-  "time": "Wed Nov 11 21:45:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Here’s what you need to know to start your day: Morning Briefing Asia https://www.bloomberg.com/news/newsletters/2026-11-11/ai-trade-gets-a-boost-on-fresh-signs-of-demand?taid=6af4e1e022159d00010a1222&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 4,
-  "rt": 0,
-  "view": 13210,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120633937693229466",
   "src": "fxtwitter-v2"
  }
 ]
