@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122002706403311734",
+  "time": "Sun Nov 15 16:24:04 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "‘Bring Jensen back’: support surges for Huang’s return to Nvidia \n\nhttps://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board?utm_medium=Social&utm_source=Twitter#Echobox=1794758407",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 1239,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122002706403311734",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121982613208359303",
   "time": "Sun Nov 15 15:04:14 +0000 2026",
   "user": "SCMPNews",
@@ -7513,20 +7528,6 @@
   "view": null,
   "lang": "en",
   "url": "https://x.com/SCMPNews/status/1477187845240475650",
-  "src": "guest-gql"
- },
- {
-  "id": "1469426703671779330",
-  "time": "Fri Dec 10 22:00:01 +0000 2021",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "An art student did an experiment for her graduation project: attempting to live 21 days for free in Beijing. Her project sparked discussion about class, privilege, and inequality. https://t.co/nIbXLrgu5C",
-  "reply": 71,
-  "like": 13965,
-  "rt": 6274,
-  "view": null,
-  "lang": "en",
-  "url": "https://x.com/SCMPNews/status/1469426703671779330",
   "src": "guest-gql"
  }
 ]

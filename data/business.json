@@ -1,5 +1,52 @@
 [
  {
+  "id": "2122004221444702678",
+  "time": "Sun Nov 15 16:30:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Confused sensors, clipped drones and software recalibrations. A drone defense test in the Arizona desert highlights the Pentagon’s race to catch up. Read more: https://bloom.bg/4t1l8b7\n\n📷: Ariana Drehsler/Bloomberg",
+  "reply": 0,
+  "like": 3,
+  "rt": 1,
+  "view": 11007,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXLfl_JX0AAms6o.jpg?name=orig"
+  ],
+  "url": "https://x.com/business/status/2122004221444702678",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122001695936856255",
+  "time": "Sun Nov 15 16:20:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "SpaceX just showed why it is essential to US space leadership despite the controversies surrounding Elon Musk, @tomwblack says (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-15/starship-capture-shows-us-needs-musk-and-spacex?taid=6af9dbb3718669000140b2bd&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 12,
+  "rt": 4,
+  "view": 14941,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122001695936856255",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122000441575661964",
+  "time": "Sun Nov 15 16:15:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Peloton’s $2,195 Tread Flex is its least expensive treadmill to date, putting the brand within reach of more casual runners —including people who don’t usually enjoy running indoors https://www.bloomberg.com/news/articles/2026-11-15/peloton-s-tread-flex-treadmill-hits-a-low-enough-price-for-fence-sitters?taid=6af9da88d0eea100019afa6a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 5,
+  "rt": 0,
+  "view": 15859,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122000441575661964",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121999183271919837",
   "time": "Sun Nov 15 16:10:04 +0000 2026",
   "user": "business",
@@ -7556,53 +7603,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2120717001832186057",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120715724691734786",
-  "time": "Thu Nov 12 03:10:04 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "A deal to reform federal permitting would slash emissions, boost growth, create new transmission capacity and save money. What's the holdup? (via @opinion)  https://www.bloomberg.com/opinion/articles/2026-11-11/democrats-should-take-the-permitting-deal-they-have?taid=6af52e0cd0eea1000165af51&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 11222,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120715724691734786",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120715702696907054",
-  "time": "Thu Nov 12 03:09:59 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Alice Huang, the suspected Chinese spy at the heart of a scandal that threatens to take down Nvidia CEO Jensen Huang, has returned to her home country, people familiar with the matter said. More here: https://bloom.bg/4eyXaOB",
-  "reply": 1,
-  "like": 2,
-  "rt": 0,
-  "view": 9445,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2120715669511561216/vid/avc1/1080x1920/AcjFYIVObQx4pnzp.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2120715702696907054",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2120714459907776723",
-  "time": "Thu Nov 12 03:05:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Germany’s Defense Ministry will crack down on sexual misconduct after a survey showing such incidents are common in the military laid bare a potential obstacle to the country’s ambition to establish Europe’s largest conventional army https://www.bloomberg.com/news/articles/2026-11-11/german-military-expansion-hits-obstacle-with-misconduct-report?taid=6af52cde22159d00010a15aa&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 12339,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2120714459907776723",
   "src": "fxtwitter-v2"
  }
 ]

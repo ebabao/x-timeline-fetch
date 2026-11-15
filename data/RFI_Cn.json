@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122002602401415446",
+  "time": "Sun Nov 15 16:23:39 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "在英伟达事件持续发酵之际，美国商务部长卢特尼克已成为特朗普政府应对中国间谍活动和潜在国家安全威胁失责的焦点高官。目前对卢特尼克最严厉的审视来自国会共和党人、部分内阁同僚以及特朗普总统的“让美国再次伟大”阵营的基本盘。https://rfi.my/DDt1",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 517,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122002602401415446",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2121979408671993934",
   "time": "Sun Nov 15 14:51:30 +0000 2026",
   "user": "RFI_Cn",
@@ -7868,20 +7883,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1596892008253358082",
-  "src": "guest-gql"
- },
- {
-  "id": "1596680682415480834",
-  "time": "Sun Nov 27 01:41:54 +0000 2022",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "上海民众的抗议第一次转化成政治诉求，他们喊出“要人权，要自由”，甚至“共产党下台! 习近平下台!”这样色彩强烈的口号。https://t.co/jQpexFrWis via @RFI_Cn",
-  "reply": 207,
-  "like": 1724,
-  "rt": 323,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1596680682415480834",
   "src": "guest-gql"
  }
 ]
