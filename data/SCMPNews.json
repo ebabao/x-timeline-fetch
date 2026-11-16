@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122420805296336971",
+  "time": "Mon Nov 16 20:05:27 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Ukraine held new talks with US, European officials on peace, Zelensky says \n\nhttps://www.scmp.com/news/world/united-states-canada/article/3374650/ukraine-held-new-talks-us-european-officials-peace-prospects-zelensky-says?utm_medium=Social&utm_source=Twitter#Echobox=1794859526",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 968,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122420805296336971",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122411538895995137",
   "time": "Mon Nov 16 19:28:38 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116396469531861185",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116380891140264056",
-  "time": "Sat Oct 31 04:04:59 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "‘I’m terrified’: AI comes for Southeast Asia’s graduate jobs https://www.scmp.com/week-asia/economics/article/3372752/im-terrified-ai-comes-southeast-asias-graduate-jobs?utm_medium=Social&utm_source=Twitter#Echobox=1793408777",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 2721,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116380891140264056",
   "src": "fxtwitter-v2"
  }
 ]
