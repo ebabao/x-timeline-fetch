@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122294323169661379",
+  "time": "Mon Nov 16 11:42:51 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "https://rfi.my/DE10 高市早苗有关台湾有事发言一周年  日本人怎样看待高市政权的对华姿态",
+  "reply": 0,
+  "like": 3,
+  "rt": 1,
+  "view": 948,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122294323169661379",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122292348084473945",
   "time": "Mon Nov 16 11:35:00 +0000 2026",
   "user": "RFI_Cn",
@@ -7923,20 +7938,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1929903429658521915",
-  "src": "guest-gql"
- },
- {
-  "id": "1929854077950632396",
-  "time": "Tue Jun 03 10:54:01 +0000 2025",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "6月4日是政府镇压北京天安门广场民主示威者 36 周年纪念日。路透社通过视频档案回顾📹 https://t.co/3pqHGGWbU0",
-  "reply": 195,
-  "like": 1740,
-  "rt": 410,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1929854077950632396",
   "src": "guest-gql"
  }
 ]
