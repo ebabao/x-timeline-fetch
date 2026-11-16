@@ -112,6 +112,23 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122321286814642667",
+  "time": "Mon Nov 16 13:30:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "An investigation by the South China Morning Post has found that Vocational Training Council (VTC) courses are being marketed to pregnant women in mainland China as the lowest-cost route to secure Hong Kong passports for their newborns. #hongkong #InvestigativeJournalism",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1279,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122312928573468672/vid/avc1/1920x1080/Y-oeVWwgB6In-4T7.mp4?tag=29"
+  ],
+  "url": "https://x.com/SCMPNews/status/2122321286814642667",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122268450492235840",
   "time": "Mon Nov 16 10:00:03 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116292707077308762",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116290571278880904",
-  "time": "Fri Oct 30 22:06:05 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Wall Street drops to its worst day since June after tech sell-off deepens \n\nhttps://www.scmp.com/news/world/united-states-canada/article/3372800/wall-street-drops-its-worst-day-june-after-tech-sell-deepens?utm_medium=Social&utm_source=Twitter#Echobox=1793397965",
-  "reply": 0,
-  "like": 3,
-  "rt": 0,
-  "view": 2676,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116290571278880904",
   "src": "fxtwitter-v2"
  }
 ]

@@ -1,5 +1,37 @@
 [
  {
+  "id": "2122319995170599407",
+  "time": "Mon Nov 16 13:24:52 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "今日不少用户反映，DeepSeek近期对App及网页版的使用额度进行了调整，包括限制长对话、每日使用额度以及单次文字输入长度，原因是“算力不足”。部分用户甚至在使用不到两小时后，就收到了额度耗尽的提示。",
+  "reply": 3,
+  "like": 10,
+  "rt": 0,
+  "view": 5400,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXP-xhDbYAA5K19.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2122319995170599407",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122319629947412834",
+  "time": "Mon Nov 16 13:23:25 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "美国商务部发布关于获取美国人工智能技术的规定，美国商务部工业与安全局的规定限制了对人工智能芯片的远程访问。",
+  "reply": 1,
+  "like": 11,
+  "rt": 0,
+  "view": 5840,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2122319629947412834",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122258281276268723",
   "time": "Mon Nov 16 09:19:38 +0000 2026",
   "user": "fxtrader",
