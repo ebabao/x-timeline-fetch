@@ -1,5 +1,22 @@
 [
  {
+  "id": "2122201205388816811",
+  "time": "Mon Nov 16 05:32:50 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国最新型战机首次国外部署选中日本 www.​rfi.​fr/cn/%E5%9B%BD%E9%99%85/20261116-%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%9E%8B%E6%88%98%E6%9C%BA%E9%A6%96%E6%AC%A1%E5%9B%BD%E5%A4%96%E9%83%A8%E7%BD%B2%E9%80%89%E4%B8%AD%E6%97%A5%E6%9C%AC",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 844,
+  "lang": "ja",
+  "media": [
+   "https://pbs.twimg.com/media/HXOSv2ebMAEwo5x.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122201205388816811",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122078297668321339",
   "time": "Sun Nov 15 21:24:27 +0000 2026",
   "user": "RFI_Cn",
@@ -7900,20 +7917,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1691735563383234884",
-  "src": "guest-gql"
- },
- {
-  "id": "1686315603588706304",
-  "time": "Tue Aug 01 09:59:04 +0000 2023",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "中国北京等地暴雨成灾 蔡英文表示关心慰问 https://t.co/Ea9oudfWPD https://t.co/zgAVfqiyQe",
-  "reply": 210,
-  "like": 1660,
-  "rt": 120,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1686315603588706304",
   "src": "guest-gql"
  }
 ]
