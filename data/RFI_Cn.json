@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122267642589532415",
+  "time": "Mon Nov 16 09:56:50 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国财政部长贝森特周日在受访时对一些国会议员提出的主张表达了异议；这些议员认为，需要通过更严厉的立法来限制对华芯片销售。受英伟达及黄仁勋事件影响，美国国会内部出现了一股推动力量，寻求利用年底必须通过的《国防授权法案》，进一步收紧美国对华芯片出口限制等措施。https://rfi.my/DDzH",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 679,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122267642589532415",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122211383722779008",
   "time": "Mon Nov 16 06:13:17 +0000 2026",
   "user": "RFI_Cn",
@@ -7908,20 +7923,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1802270170528022528",
-  "src": "guest-gql"
- },
- {
-  "id": "1787114946649530877",
-  "time": "Sun May 05 13:39:40 +0000 2024",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "藏人聚聚在巴黎共和广场抗议中国国家主席习近平到访法国 https://t.co/VlxKOqstVN",
-  "reply": 504,
-  "like": 1482,
-  "rt": 175,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1787114946649530877",
   "src": "guest-gql"
  }
 ]

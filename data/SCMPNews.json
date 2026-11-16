@@ -112,6 +112,23 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122268450492235840",
+  "time": "Mon Nov 16 10:00:03 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Jensen Huang is considering a comeback as Nvidia’s chief executive and has discussed returning with confidants, the Financial Times reported Sunday. #jensenhuang #nvidia #AI #AIchips #affair",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1014,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122254014439923712/vid/avc1/1920x1080/PZJi8iMAsQ-bTD6W.mp4?tag=29"
+  ],
+  "url": "https://x.com/SCMPNews/status/2122268450492235840",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122217217152757775",
   "time": "Mon Nov 16 06:36:28 +0000 2026",
   "user": "SCMPNews",
@@ -7528,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116290571278880904",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116284362064801934",
-  "time": "Fri Oct 30 21:41:25 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Pope Leo becomes first pope ever to vote in US election, submits mail-in ballot \n\nhttps://www.scmp.com/news/world/united-states-canada/article/3372784/pope-leo-becomes-first-pope-ever-vote-us-election-submits-mail-ballot?utm_medium=Social&utm_source=Twitter#Echobox=1793385145",
-  "reply": 0,
-  "like": 4,
-  "rt": 2,
-  "view": 2693,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116284362064801934",
   "src": "fxtwitter-v2"
  }
 ]
