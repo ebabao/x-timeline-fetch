@@ -1,5 +1,39 @@
 [
  {
+  "id": "2122285561167896849",
+  "time": "Mon Nov 16 11:08:02 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "联合国准备支持美… www.​rfi.​fr/cn/%E5%9B%BD%E9%99%85/20261116-%E8%81%94%E5%90%88%E5%9B%BD%E5%87%86%E5%A4%87%E6%94%AF%E6%8C%81%E7%BE%8E%E4%B8%AD%E4%BF%84%E4%BC%9A%E8%B0%88%E5%8F%AF%E8%83%BD%E8%BE%BE%E6%88%90%E7%9A%84%E4%BB%BB%E4%BD%95%E6%97%A0%E6%A0%B8%E5%8C%96%E5%8A%AA%E5%8A%9B",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 152,
+  "lang": "pt",
+  "media": [
+   "https://pbs.twimg.com/media/HXPfd5RboAAC_4n.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122285561167896849",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122282131997266100",
+  "time": "Mon Nov 16 10:54:25 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "菲总统：对国际法的承诺必须体现在行动中 www.​rfi.​fr/cn/%E4%BA%9A%E6%B4%B2/20261116-%E8%8F%B2%E6%80%BB%E7%BB%9F-%E5%AF%B9%E5%9B%BD%E9%99%85%E6%B3%95%E7%9A%84%E6%89%BF%E8%AF%BA%E5%BF%85%E9%A1%BB%E4%BD%93%E7%8E%B0%E5%9C%A8%E8%A1%8C%E5%8A%A8%E4%B8%AD",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 589,
+  "lang": "ja",
+  "media": [
+   "https://pbs.twimg.com/media/HXPcWmRbAAEJAXW.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122282131997266100",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122274820989620607",
   "time": "Mon Nov 16 10:25:21 +0000 2026",
   "user": "RFI_Cn",
@@ -7900,34 +7934,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1849092313748042070",
-  "src": "guest-gql"
- },
- {
-  "id": "1845541540661440520",
-  "time": "Sun Oct 13 19:06:06 +0000 2024",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "韩高官：我们必须有能力安全地清除金正恩 https://t.co/HE0pKMOz7m https://t.co/jGEIibCKM3",
-  "reply": 159,
-  "like": 1597,
-  "rt": 154,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1845541540661440520",
-  "src": "guest-gql"
- },
- {
-  "id": "1830533396998860929",
-  "time": "Mon Sep 02 09:09:06 +0000 2024",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "路透社罕引赖清德话：如果中国想要台湾，就应该从俄罗斯夺回领土 https://t.co/MY1i8WiEJT https://t.co/kZBIvYgJrE",
-  "reply": 269,
-  "like": 1404,
-  "rt": 183,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1830533396998860929",
   "src": "guest-gql"
  }
 ]
