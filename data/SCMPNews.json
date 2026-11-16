@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122426983787417949",
+  "time": "Mon Nov 16 20:30:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "China’s star bodyguard steals the show as Mexican leader arrives for Apec https://www.scmp.com/news/china/diplomacy/article/3374634/chinas-star-female-bodyguard-xu-jin-steals-show-mexican-leader-arrives-apec?utm_medium=Social&utm_source=Twitter",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 894,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122426983787417949",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122420805296336971",
   "time": "Mon Nov 16 20:05:27 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116410697466651065",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116396469531861185",
-  "time": "Sat Oct 31 05:06:53 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Shenzhen too pricey? Cost-conscious Hongkongers dig deeper into mainland China https://www.scmp.com/economy/china-economy/article/3372740/shenzhen-too-pricey-cost-conscious-hongkongers-dig-deeper-mainland-china?utm_medium=Social&utm_source=Twitter#Echobox=1793419904",
-  "reply": 0,
-  "like": 11,
-  "rt": 3,
-  "view": 3399,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116396469531861185",
   "src": "fxtwitter-v2"
  }
 ]
