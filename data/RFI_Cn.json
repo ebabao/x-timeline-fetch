@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122398377509810424",
+  "time": "Mon Nov 16 18:36:20 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国参议院商务委员会首席民主党议员、华盛顿州联邦参议员坎特韦尔指控，商务部长卢特尼克多次收到联邦官员提出的国家安全警告，却未采取足够措施阻止受限制的美国先进AI芯片流入中国，可能危及美国的技术优势。她并质疑，卢特尼克的家族商业利益及政府出口收费政策，是否影响商务部决策。https://rfi.my/DE5X",
+  "reply": 1,
+  "like": 2,
+  "rt": 2,
+  "view": 531,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122398377509810424",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122387045423472990",
   "time": "Mon Nov 16 17:51:18 +0000 2026",
   "user": "RFI_Cn",
@@ -7922,23 +7937,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/RFI_Cn/status/2116226146169729212",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116216396107624885",
-  "time": "Fri Oct 30 17:11:20 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "G20外长会议卢比奥接待同行，因冲突蒙上阴影 rfi.​my/DB2a",
-  "reply": 0,
-  "like": 12,
-  "rt": 0,
-  "view": 4046,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV5PmTiasAAJsbp.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116216396107624885",
   "src": "fxtwitter-v2"
  }
 ]
