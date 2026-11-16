@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122169062289707479",
+  "time": "Mon Nov 16 03:25:07 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Philippine president calls for more trade, investment at China-Asean summit\nhttps://sc.mp/hdi1n",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1818,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122169062289707479",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122163156990804463",
   "time": "Mon Nov 16 03:01:39 +0000 2026",
   "user": "SCMPNews",
@@ -7528,21 +7543,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116235935146762638",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116219395236102271",
-  "time": "Fri Oct 30 17:23:15 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "How a Democratic-controlled Congress could reshape US policy on China \n\nhttps://www.scmp.com/news/us/politics/article/3372791/how-democratic-controlled-congress-could-reshape-us-policy-china?utm_medium=Social&utm_source=Twitter#Echobox=1793380995",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 2990,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116219395236102271",
   "src": "fxtwitter-v2"
  }
 ]
