@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122457185380622371",
+  "time": "Mon Nov 16 22:30:00 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Hong Kong scholar says Musk’s claim that city ‘will be gone soon’ doesn’t add up https://www.scmp.com/news/hong-kong/society/article/3374635/hong-kong-scholar-says-musks-claim-city-will-be-gone-soon-doesnt-add",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 581,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122457185380622371",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122446255913631789",
   "time": "Mon Nov 16 21:46:35 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116435538655793284",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116425620599013449",
-  "time": "Sat Oct 31 07:02:43 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Dark past of Japan’s Unit 731 buried under airport expansion https://www.scmp.com/week-asia/lifestyle-culture/article/3372753/dark-past-japans-unit-731-buried-under-airport-expansion?utm_medium=Social&utm_source=Twitter#Echobox=1793410563-1",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 942,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116425620599013449",
   "src": "fxtwitter-v2"
  }
 ]

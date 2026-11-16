@@ -1,5 +1,22 @@
 [
  {
+  "id": "2122451900713013334",
+  "time": "Mon Nov 16 22:09:01 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "乌、美和欧谈判团队举行三方协调会谈 www.​rfi.​fr/cn/%E7%BE%8E%E6%B4%B2/20261116-%E4%B9%8C-%E7%BE%8E%E5%92%8C%E6%AC%A7%E8%B0%88%E5%88%A4%E5%9B%A2%E9%98%9F%E4%B8%BE%E8%A1%8C%E4%B8%89%E6%96%B9%E5%8D%8F%E8%B0%83%E4%BC%9A%E8%B0%88",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 560,
+  "lang": "ja",
+  "media": [
+   "https://pbs.twimg.com/media/HXR2wcIbgAAS-1w.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122451900713013334",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122451342371549571",
   "time": "Mon Nov 16 22:06:47 +0000 2026",
   "user": "RFI_Cn",
@@ -7924,23 +7941,6 @@
    "https://pbs.twimg.com/media/HV8pGTMboAAWwv4.jpg?name=orig"
   ],
   "url": "https://x.com/RFI_Cn/status/2116459071016697908",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116459025868955661",
-  "time": "Sat Oct 31 09:15:28 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "多家科技巨头向媒体承诺：将出台新方案，禁止抓取新闻内容用以训练AI模型 rfi.​my/DB8m",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 2424,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV8prYVbAAAgXGG.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116459025868955661",
   "src": "fxtwitter-v2"
  }
 ]
