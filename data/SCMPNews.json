@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122368371261927783",
+  "time": "Mon Nov 16 16:37:06 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Robert Pattinson is named the 7th James Bond, taking over from Daniel Craig https://www.scmp.com/news/world/united-states-canada/article/3374641/robert-pattinson-named-7th-james-bond-taking-over-daniel-craig",
+  "reply": 2,
+  "like": 3,
+  "rt": 1,
+  "view": 1937,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122368371261927783",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122358249856840154",
   "time": "Mon Nov 16 15:56:52 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116323955388645382",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116308857551028488",
-  "time": "Fri Oct 30 23:18:45 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "US Democrats prepare to counter any Trump claim of foreign meddling in midterms \n\nhttps://www.scmp.com/news/us/us-elections/article/3372799/us-democrats-prepare-counter-any-trump-claim-foreign-meddling-midterms?utm_medium=Social&utm_source=Twitter#Echobox=1793399074",
-  "reply": 0,
-  "like": 5,
-  "rt": 1,
-  "view": 3230,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116308857551028488",
   "src": "fxtwitter-v2"
  }
 ]
