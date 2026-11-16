@@ -1,5 +1,52 @@
 [
  {
+  "id": "2122211383722779008",
+  "time": "Mon Nov 16 06:13:17 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "https://rfi.my/DDwm 监控与中国看齐　港警今起启用闭路电视人脸识别功能 政治打压能力升级",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 331,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122211383722779008",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122211040351965604",
+  "time": "Mon Nov 16 06:11:55 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "https://rfi.my/DDwj 香港「取消之都」再添事例　侯孝贤旧作《童年往事》在港放映突被取消",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 356,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122211040351965604",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122208288800469360",
+  "time": "Mon Nov 16 06:00:59 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国最新型战机首次国外部署选中日本 https://rfi.my/DDwT",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 695,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXOSv2ebMAEwo5x.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122208288800469360",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122201205388816811",
   "time": "Mon Nov 16 05:32:50 +0000 2026",
   "user": "RFI_Cn",
@@ -7875,48 +7922,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1787114946649530877",
-  "src": "guest-gql"
- },
- {
-  "id": "1760643878154367216",
-  "time": "Thu Feb 22 12:33:06 +0000 2024",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "英媒称或解开胡锦涛20大上为何被架走的秘密 https://t.co/W6K9l7kk8S https://t.co/389UtKp7vm",
-  "reply": 118,
-  "like": 1272,
-  "rt": 201,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1760643878154367216",
-  "src": "guest-gql"
- },
- {
-  "id": "1699822112142454999",
-  "time": "Thu Sep 07 16:29:07 +0000 2023",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "法前驻华大使：不善待自己国民的政府又岂能善待他国 ！ https://t.co/t7PG1Fuqls https://t.co/G3tCkVykg6",
-  "reply": 213,
-  "like": 1345,
-  "rt": 223,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1699822112142454999",
-  "src": "guest-gql"
- },
- {
-  "id": "1691735563383234884",
-  "time": "Wed Aug 16 08:56:03 +0000 2023",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "赖清德对国际宣称：台湾已是主权国家没有再宣布独立的必要 https://t.co/8mCeyvpnfC https://t.co/cukPGMYYJt",
-  "reply": 356,
-  "like": 1835,
-  "rt": 218,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1691735563383234884",
   "src": "guest-gql"
  }
 ]
