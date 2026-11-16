@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122460148346343927",
+  "time": "Mon Nov 16 22:41:47 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Why China is betting on ‘home-court diplomacy’ at the Shenzhen Apec gathering\nhttps://sc.mp/ujrvn",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 1132,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122460148346343927",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122457185380622371",
   "time": "Mon Nov 16 22:30:00 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116444720909959479",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116435538655793284",
-  "time": "Sat Oct 31 07:42:08 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "China joins global race to reawaken brain-injury patients through ultrasound therapy https://www.scmp.com/tech/tech-trends/article/3372779/china-joins-global-race-reawaken-brain-injury-patients-through-ultrasound-therapy?utm_medium=Social&utm_source=Twitter#Echobox=1793430302",
-  "reply": 0,
-  "like": 3,
-  "rt": 1,
-  "view": 1624,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116435538655793284",
   "src": "fxtwitter-v2"
  }
 ]
