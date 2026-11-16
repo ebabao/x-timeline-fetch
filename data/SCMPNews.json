@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122163156990804463",
+  "time": "Mon Nov 16 03:01:39 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "As foreigners in Thailand lose homes, Malaysia courts wealthy buyers\nhttps://sc.mp/d9881",
+  "reply": 1,
+  "like": 1,
+  "rt": 2,
+  "view": 1002,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122163156990804463",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122159081704308952",
   "time": "Mon Nov 16 02:45:27 +0000 2026",
   "user": "SCMPNews",
@@ -7528,21 +7543,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116219395236102271",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116209631756186041",
-  "time": "Fri Oct 30 16:44:28 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Hong Kong ministers defend decision not to resign over deadly Tai Po fire \n\nhttps://www.scmp.com/news/hong-kong/society/article/3372783/hong-kong-ministers-defend-decision-not-resign-over-deadly-tai-po-fire?utm_medium=Social&utm_source=Twitter#Echobox=1793376693",
-  "reply": 0,
-  "like": 7,
-  "rt": 0,
-  "view": 3576,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116209631756186041",
   "src": "fxtwitter-v2"
  }
 ]
