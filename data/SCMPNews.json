@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122468871944974698",
+  "time": "Mon Nov 16 23:16:27 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "United Airlines has widespread system failure just days after nationwide ground stop\nhttps://sc.mp/arkc4",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 966,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122468871944974698",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122460148346343927",
   "time": "Mon Nov 16 22:41:47 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116473767094284717",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116444720909959479",
-  "time": "Sat Oct 31 08:18:37 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "One AI rule book: chip expert urges shared standards across China, US models https://www.scmp.com/tech/article/3372807/ai-cyber-risks-grow-chinese-chip-expert-urges-shared-ethics-standards-us-rivals?utm_medium=Social&utm_source=Twitter#Echobox=1793430310",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 986,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116444720909959479",
   "src": "fxtwitter-v2"
  }
 ]
