@@ -1,5 +1,35 @@
 [
  {
+  "id": "2122185407743877359",
+  "time": "Mon Nov 16 04:30:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Copper fell for a third day to the lowest in more than four months as a selloff in technology shares and weaker Chinese economic data darkened the demand outlook and sapped appetite for risk. https://www.bloomberg.com/news/articles/2026-11-16/copper-sinks-to-four-month-low-on-tech-rout-china-growth-woes?taid=6afa86ccd0eea100019b013e&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 7984,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122185407743877359",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122184140887859222",
+  "time": "Mon Nov 16 04:25:02 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Wheat fell in Chicago on optimism that progress will be made in negotiations to end the Russia-Ukraine conflict, freeing up supplies of the grain. https://www.bloomberg.com/news/articles/2026-11-16/wheat-falls-on-optimism-trilateral-talks-will-free-up-black-sea?taid=6afa859e718669000140b78a&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 11251,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122184140887859222",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122179107798618142",
   "time": "Mon Nov 16 04:05:02 +0000 2026",
   "user": "business",
@@ -7565,36 +7595,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2121138506625888571",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121137247810445574",
-  "time": "Fri Nov 13 07:05:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "China’s drugmakers have transformed themselves from fast followers into true innovators. Now industry analysts are asking: Will the next Pfizer be Chinese? https://www.bloomberg.com/news/features/2026-11-13/chinese-drugmakers-like-akeso-have-their-deepseek-moment?taid=6af6b69e8a00c900012260ed&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 4737,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121137247810445574",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121136027213389921",
-  "time": "Fri Nov 13 07:00:12 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Defense Secretary Pete Hegseth has commended the soldier who loudly called for the Pentagon chief and his party to maintain decorum near the Tomb of the Unknown Soldier at Arlington National Cemetery https://www.bloomberg.com/news/articles/2026-11-12/hegseth-awards-soldier-who-admonished-his-party-on-veterans-day?taid=6af6b57cc6e5210001cd4eb1&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 2,
-  "rt": 1,
-  "view": 8491,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121136027213389921",
   "src": "fxtwitter-v2"
  }
 ]

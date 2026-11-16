@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122185436282106359",
+  "time": "Mon Nov 16 04:30:10 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Can a new 4-country defence hub counter China in the South China Sea?\nhttps://sc.mp/3omjw",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 648,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122185436282106359",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122169062289707479",
   "time": "Mon Nov 16 03:25:07 +0000 2026",
   "user": "SCMPNews",
@@ -7528,21 +7543,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116256951919075823",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116235935146762638",
-  "time": "Fri Oct 30 18:28:59 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Christa Pike slams ‘incompetence’ after surviving US execution \n\nhttps://www.scmp.com/news/world/united-states-canada/article/3372789/christa-pike-says-shes-constant-pain-after-failed-us-execution-slams-incompetence?utm_medium=Social&utm_source=Twitter#Echobox=1793384938",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 3538,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116235935146762638",
   "src": "fxtwitter-v2"
  }
 ]
