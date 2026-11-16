@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122446255913631789",
+  "time": "Mon Nov 16 21:46:35 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Squeezed in the US, China’s CATL bets on Argentina’s battery storage boom \n\nhttps://www.scmp.com/news/china/article/3374653/squeezed-us-chinas-catl-bets-argentinas-battery-storage-boom?utm_medium=Social&utm_source=Twitter#Echobox=1794865595",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 968,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122446255913631789",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122426983787417949",
   "time": "Mon Nov 16 20:30:00 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116425620599013449",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116410697466651065",
-  "time": "Sat Oct 31 06:03:25 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Are the latest party promotions a sign of a new political trend in China? https://www.scmp.com/news/china/politics/article/3372766/are-latest-communist-party-promotions-sign-new-political-trend-china?utm_medium=Social&utm_source=Twitter#Echobox=1793408869-1",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 2109,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116410697466651065",
   "src": "fxtwitter-v2"
  }
 ]
