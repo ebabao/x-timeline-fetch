@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122303732159279239",
+  "time": "Mon Nov 16 12:20:14 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国总统特朗普正准备于周一启程前往亚洲访问。白宫公布了他在访问期间的会议及行程安排。周四午后，特朗普预计将于深圳麒麟山庄与中国国家主席习近平举行双边会谈。之后，俄罗斯总统普京将加入，举行美中俄三方会谈。https://rfi.my/DE1L",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 516,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122303732159279239",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122294323169661379",
   "time": "Mon Nov 16 11:42:51 +0000 2026",
   "user": "RFI_Cn",
@@ -7924,20 +7939,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/RFI_Cn/status/1930179274004410764",
-  "src": "guest-gql"
- },
- {
-  "id": "1929903429658521915",
-  "time": "Tue Jun 03 14:10:08 +0000 2025",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "【视频】36年前的今天发生了什么？ https://t.co/oP8iWf2s31 https://t.co/BW3HFlAoq2",
-  "reply": 275,
-  "like": 1383,
-  "rt": 181,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/RFI_Cn/status/1929903429658521915",
   "src": "guest-gql"
  }
 ]
