@@ -1,5 +1,37 @@
 [
  {
+  "id": "2122339471454797836",
+  "time": "Mon Nov 16 14:42:15 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "澳大利亚担忧中国“操纵”铁矿石市场 www.​rfi.​fr/cn/%E4%B8%AD%E5%9B%BD/20261116-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%8B%85%E5%BF%A7%E4%B8%AD%E5%9B%BD-%E6%93%8D%E7%BA%B5-%E9%93%81%E7%9F%BF%E7%9F%B3%E5%B8%82%E5%9C%BA",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 248,
+  "lang": "ja",
+  "media": [
+   "https://pbs.twimg.com/media/HXQQgMNacAAWOk2.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122339471454797836",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122335001572504020",
+  "time": "Mon Nov 16 14:24:30 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "据《华盛顿邮报》对其财务披露文件的审阅显示，特朗普在第二个总统任期内进行了数以万计的股票交易；根据他今年申报的交易记录，截至8月底，他持有的英伟达股票价值在1300万美元至6200万美元之间。https://rfi.my/DE2v",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 1284,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122335001572504020",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122309042072928701",
   "time": "Mon Nov 16 12:41:20 +0000 2026",
   "user": "RFI_Cn",
@@ -7909,40 +7941,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/RFI_Cn/status/2116140500361113604",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116135535555314024",
-  "time": "Fri Oct 30 11:50:02 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "冯德莱恩提出欧加“不入盟的结盟” 尽力避免刺激中、美两国 rfi.​my/DAyI",
-  "reply": 3,
-  "like": 11,
-  "rt": 1,
-  "view": 11484,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV4GDj_a8AAXp_S.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116135535555314024",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116108708187152477",
-  "time": "Fri Oct 30 10:03:26 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "日本遭受猛烈网络攻击 泄露个人信息2.​6亿人次 rfi.​my/DAwi",
-  "reply": 1,
-  "like": 7,
-  "rt": 1,
-  "view": 5027,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV3tqBiboAAEv8-.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116108708187152477",
   "src": "fxtwitter-v2"
  }
 ]
