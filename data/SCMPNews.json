@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122387604783984991",
+  "time": "Mon Nov 16 17:53:31 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Nvidia saga making some US CEOs reluctant to attend Apec summit: sources \n\nhttps://www.scmp.com/economy/china-economy/article/3374632/nvidia-saga-making-some-us-ceos-reluctant-attend-apec-summit-china-sources?utm_medium=Social&utm_source=Twitter#Echobox=1794851006",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 942,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122387604783984991",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122368371261927783",
   "time": "Mon Nov 16 16:37:06 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116335346082288000",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116323955388645382",
-  "time": "Sat Oct 31 00:18:45 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Is Donald Trump’s ‘Chinamaxxing’ pushing Beijing’s soft power? \n\nhttps://www.scmp.com/news/china/diplomacy/article/3372691/donald-trumps-chinamaxxing-pushing-beijings-soft-power?utm_medium=Social&utm_source=Twitter#Echobox=1793400966",
-  "reply": 3,
-  "like": 10,
-  "rt": 2,
-  "view": 3905,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116323955388645382",
   "src": "fxtwitter-v2"
  }
 ]
