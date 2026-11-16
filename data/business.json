@@ -1,5 +1,80 @@
 [
  {
+  "id": "2122396825642512611",
+  "time": "Mon Nov 16 18:30:10 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "The euro fell to a fresh 19-month low on expectations of further interest-rate hikes in the US that will support the dollar. https://www.bloomberg.com/news/articles/2026-11-16/euro-falls-below-1-10-for-first-time-since-april-2025?taid=6afb4bb171866900015dea1f&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 6675,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122396825642512611",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122395537882145258",
+  "time": "Mon Nov 16 18:25:03 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Oil producers in the US shale patch are souring on hedges that took the sheen off an otherwise stellar quarter, in a bet that stronger balance sheets will be enough to weather a price collapse https://www.bloomberg.com/news/articles/2026-11-16/us-oil-producers-sour-on-hedges-as-stronger-finances-offer-cover?taid=6afb4a7f71866900015dea14&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 0,
+  "like": 3,
+  "rt": 2,
+  "view": 10349,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122395537882145258",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122394291016180188",
+  "time": "Mon Nov 16 18:20:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Stablecoins once gave traders a way to ride out crypto selloffs without taking their money out of the industry. Now the market for those dollar-pegged tokens is shrinking at its fastest pace since Terra-Luna collapsed in 2022. https://www.bloomberg.com/news/articles/2026-11-16/stablecoin-market-shrinks-most-since-terra-luna-s-2022-crash?taid=6afb4955191e680001ae1d34&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 7,
+  "rt": 1,
+  "view": 11243,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122394291016180188",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122393031085023386",
+  "time": "Mon Nov 16 18:15:05 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "A huge story at a major moment. https://www.bloomberg.com/news/newsletters/2026-11-16/the-chipdollar-vs-the-petrodollar?taid=6afb482922159d00013f7a29&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 4,
+  "rt": 3,
+  "view": 12849,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122393031085023386",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122391768792531076",
+  "time": "Mon Nov 16 18:10:04 +0000 2026",
+  "user": "business",
+  "name": "Bloomberg",
+  "text": "Apple has tapped a 26-year company veteran as the new head of its payment service and digital wallet unit, a vital part of the iPhone maker’s services business. https://www.bloomberg.com/news/articles/2026-11-16/apple-taps-26-year-veteran-corey-fugman-to-run-pay-card-and-wallet-services?taid=6afb46fcd0eea1000147c5f5&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+  "reply": 1,
+  "like": 3,
+  "rt": 1,
+  "view": 13309,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/business/status/2122391768792531076",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122390504310452245",
   "time": "Mon Nov 16 18:05:02 +0000 2026",
   "user": "business",
@@ -27,6 +102,23 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2122389292274102608",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122389237983044055",
+  "time": "Mon Nov 16 18:00:01 +0000 2026",
+  "user": "BloombergLive",
+  "name": "Bloomberg Live",
+  "text": "ICYMI: Can the U.S. reach a zero-carbon future? Former U.S. Secretary of State @JohnKerry joined @climate’s @aaronrutkoff to explain why he remains optimistic—and why the agreements reached at COP28 in Dubai could help guide the transition. #BloombergGreen #COP31 \n\n\"...The percentage of renewables is 91%, so I have huge confidence that the world is going to move to a low-carbon, no-carbon economy.\"\n\nWatch the full session here ⏯️\nhttps://bloom.bg/4zdenVe",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 1685,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122349700422549504/vid/avc1/1920x1080/P34DYETrhkGsxUHP.mp4?tag=16"
+  ],
+  "url": "https://x.com/BloombergLive/status/2122389237983044055",
   "src": "fxtwitter-v2"
  },
  {
@@ -269,6 +361,23 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2122374189273276588",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122374138455110087",
+  "time": "Mon Nov 16 17:00:01 +0000 2026",
+  "user": "BloombergLive",
+  "name": "Bloomberg Live",
+  "text": "ICYMI: “The reality is the price tag to Americans is already going up.”\n\nAt #BloombergGreen, former US Secretary of State @JohnKerry connects the growing costs of extreme weather to the affordability pressures facing Americans — from rising insurance risks and housing costs to the billions spent recovering from disasters.\n\nFull #COP31 interview:\n⏯️ https://bloom.bg/48RdIhr",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 1974,
+  "lang": "en",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122319501886693376/vid/avc1/1080x1920/6tY093heBJPodBvT.mp4?tag=16"
+  ],
+  "url": "https://x.com/BloombergLive/status/2122374138455110087",
   "src": "fxtwitter-v2"
  },
  {
@@ -7482,115 +7591,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/business/status/2121313430183219568",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121312158893883779",
-  "time": "Fri Nov 13 18:40:05 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Korean beauty products have long filled American medicine cabinets. Now, a new fund is set to test whether there’s room for K-beauty in US investors’ portfolios as well https://www.bloomberg.com/news/articles/2026-11-13/k-beauty-boom-becomes-wall-street-s-latest-investment-play?taid=6af75985d0eea100019ae5a0&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 0,
-  "rt": 0,
-  "view": 6278,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121312158893883779",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121310888489537543",
-  "time": "Fri Nov 13 18:35:02 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Thousands of Berlin’s dentists trusted a pension fund. The story of its downfall includes risky investments, a Ferrari and a luxury yacht. Read more: https://bloom.bg/4C5rN8E\n\n🎨: Qianhui Yu",
-  "reply": 0,
-  "like": 2,
-  "rt": 2,
-  "view": 9558,
-  "lang": "en",
-  "media": [
-   "https://pbs.twimg.com/media/HXBpAvcWYAE6ylB.jpg?name=orig"
-  ],
-  "url": "https://x.com/business/status/2121310888489537543",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121309692647321819",
-  "time": "Fri Nov 13 18:30:17 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Chicago Mayor Brandon Johnson’s third CFO this year has resigned in the middle of budget negotiations with city council to close an $882 million deficit https://www.bloomberg.com/news/articles/2026-11-13/third-chicago-cfo-resigns-from-johnson-administration-this-year-mwf6350o?taid=6af75739d0eea100019ae583&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 1,
-  "like": 1,
-  "rt": 1,
-  "view": 10593,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121309692647321819",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121308375380017180",
-  "time": "Fri Nov 13 18:25:03 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "From the day the US hired Mauricio Pochettino, making him the highest paid coach in the federation’s history, it was evident that the job wasn’t his highest ambition https://www.bloomberg.com/news/newsletters/2026-11-13/mauricio-pochettino-hiring-by-manchester-united-was-inevitable?taid=6af755ffd0eea100019ae56d&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 5,
-  "rt": 1,
-  "view": 12955,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121308375380017180",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121307679461110068",
-  "time": "Fri Nov 13 18:22:17 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "China’s car business is miles ahead of the rest of the world. \n\n@BradStone took a special look at its EV supremacy in Businessweek’s special December issue on the Asian nation https://bloom.bg/4AtEBno",
-  "reply": 0,
-  "like": 2,
-  "rt": 2,
-  "view": 12995,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2121307484581232640/vid/avc1/1080x1920/dXZMBjkZkIuOrQR2.mp4?tag=16"
-  ],
-  "url": "https://x.com/business/status/2121307679461110068",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121307127172018362",
-  "time": "Fri Nov 13 18:20:05 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "The European Union and the UK remain split over key demands ahead of a summit next week, even as negotiators signal progress is being made toward a deal https://www.bloomberg.com/news/articles/2026-11-13/eu-uk-at-odds-over-tuition-student-cap-ahead-of-reset-summit?taid=6af754d58a00c90001226639&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 12690,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121307127172018362",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2121305875038036390",
-  "time": "Fri Nov 13 18:15:07 +0000 2026",
-  "user": "business",
-  "name": "Bloomberg",
-  "text": "Trump is giving energy companies and traders more time to transport oil and other commodities around the US on foreign-flagged ships, renewing a policy intended to lower fuel costs https://www.bloomberg.com/news/articles/2026-11-13/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days?taid=6af753aa8a00c90001226629&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 3581,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/business/status/2121305875038036390",
   "src": "fxtwitter-v2"
  }
 ]
