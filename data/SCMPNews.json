@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122217217152757775",
+  "time": "Mon Nov 16 06:36:28 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Nasa’s Voyager 1 to make history by reaching a light-day from Earth\nhttps://sc.mp/tm67v",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 893,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122217217152757775",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122198275847811259",
   "time": "Mon Nov 16 05:21:12 +0000 2026",
   "user": "SCMPNews",
@@ -7528,21 +7543,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116284362064801934",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116264130394943813",
-  "time": "Fri Oct 30 20:21:01 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Can Connie Chan become San Francisco’s first Asian-American in Congress? \n\nhttps://www.scmp.com/news/us/us-elections/article/3372796/can-connie-chan-become-san-franciscos-first-asian-american-congress?utm_medium=Social&utm_source=Twitter#Echobox=1793390595",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 3917,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116264130394943813",
   "src": "fxtwitter-v2"
  }
 ]
