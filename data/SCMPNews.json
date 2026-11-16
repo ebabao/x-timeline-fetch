@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122358249856840154",
+  "time": "Mon Nov 16 15:56:52 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Breaking: US tightens AI chip export curbs to close China’s overseas data centre loophole \n\nhttps://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole?utm_medium=Social&utm_source=Twitter#Echobox=1794844612",
+  "reply": 0,
+  "like": 1,
+  "rt": 2,
+  "view": 985,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122358249856840154",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122348636784746938",
   "time": "Mon Nov 16 15:18:40 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116308857551028488",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116301420441854277",
-  "time": "Fri Oct 30 22:49:12 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Russia’s top independent newspaper Novaya Gazeta ‘killed’ by Kremlin pressure \n\nhttps://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure?utm_medium=Social&utm_source=Twitter#Echobox=1793397017",
-  "reply": 1,
-  "like": 2,
-  "rt": 2,
-  "view": 2722,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116301420441854277",
   "src": "fxtwitter-v2"
  }
 ]
