@@ -1,5 +1,35 @@
 [
  {
+  "id": "2122617756684046538",
+  "time": "Tue Nov 17 09:08:04 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "据消息人士向美国消费者新闻与商业频道透露，英伟达已向客户发出警告，称针对中国企业远程访问其人工智能芯片的新立法，可能使其自身及客户面临美国的“法律行动”。https://rfi.my/DE9c",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 161,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122617756684046538",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122615530943037636",
+  "time": "Tue Nov 17 08:59:13 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "https://rfi.my/DE9R 普京即将赴中出席APEC前夕，台日指俄军机侵犯领空",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 430,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122615530943037636",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122542874420228520",
   "time": "Tue Nov 17 04:10:30 +0000 2026",
   "user": "RFI_Cn",
@@ -7907,40 +7937,6 @@
    "https://pbs.twimg.com/media/HV9XHqxbQAAW3J8.jpg?name=orig"
   ],
   "url": "https://x.com/RFI_Cn/status/2116506144047084026",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116482569122566547",
-  "time": "Sat Oct 31 10:49:01 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "台北市长辩论：蒋万安猛攻批评对手 沈伯洋称辩论应为展现立场与讨论市政议题 rfi.​my/DB9Z",
-  "reply": 1,
-  "like": 0,
-  "rt": 0,
-  "view": 2620,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV9BrnFacAA2R7i.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116482569122566547",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116480321571148144",
-  "time": "Sat Oct 31 10:40:05 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "日俄外长时隔五年会谈  日本要求释放日本记者 rfi.​my/DB9V https://rfi.my/DB9V",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 2280,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV8-pAxbAAA9Bkc.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116480321571148144",
   "src": "fxtwitter-v2"
  }
 ]

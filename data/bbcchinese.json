@@ -1,5 +1,22 @@
 [
  {
+  "id": "2122615740348178918",
+  "time": "Tue Nov 17 09:00:03 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "你吃过无人机送的外卖吗？在深圳，这已成为许多上班族的日常。\n\n深圳是中国最具未来感的城市之一。本周，中国国家主席习近平将在此地接待包括美国总统特朗普和俄罗斯总统普京在内的多国领导人，向他们展示这座中国的“AI奇幻之城”。",
+  "reply": 2,
+  "like": 3,
+  "rt": 0,
+  "view": 1891,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122580050621198336/vid/avc1/1080x1920/U4LkLXCiL99iWNg3.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2122615740348178918",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122600634570678523",
   "time": "Tue Nov 17 08:00:01 +0000 2026",
   "user": "bbcchinese",
