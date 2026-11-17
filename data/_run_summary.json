@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-17T22:13:12Z",
+ "ran_at": "2026-11-17T22:44:00Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -31,7 +31,7 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 296,
    "cn": 289,
@@ -50,7 +50,7 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 500,
    "cn": 0,
    "cn_new": 0
@@ -59,7 +59,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 10,
+   "new": 8,
    "total": 500,
    "cn": 1,
    "cn_new": 0
@@ -95,10 +95,10 @@
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 500,
    "cn": 472,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -122,10 +122,10 @@
    "handle": "TJ_Research",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 63,
    "cn": 59,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "qinbafrank",
@@ -149,10 +149,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 18,
-   "cn": 17,
-   "cn_new": 0
+   "new": 1,
+   "total": 19,
+   "cn": 18,
+   "cn_new": 1
   },
   {
    "handle": "Kay2289123",
@@ -176,10 +176,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 27,
-   "cn": 27,
-   "cn_new": 0
+   "new": 2,
+   "total": 29,
+   "cn": 29,
+   "cn_new": 2
   },
   {
    "handle": "RichTerry123",
@@ -203,10 +203,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 27,
-   "cn": 26,
-   "cn_new": 0
+   "new": 1,
+   "total": 28,
+   "cn": 27,
+   "cn_new": 1
   },
   {
    "handle": "peng_hellen",
@@ -240,9 +240,9 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 6,
-   "total": 55,
-   "cn": 52,
-   "cn_new": 6
+   "total": 61,
+   "cn": 57,
+   "cn_new": 5
   },
   {
    "handle": "darrencao2024",
@@ -285,18 +285,18 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 85,
-   "cn": 83,
+   "total": 86,
+   "cn": 84,
    "cn_new": 1
   },
   {
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 23,
-   "cn": 22,
-   "cn_new": 0
+   "new": 1,
+   "total": 24,
+   "cn": 23,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",
