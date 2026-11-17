@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122602899629015441",
+  "time": "Tue Nov 17 08:09:01 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Ahead of Apec, Beijing’s Hong Kong envoy says party discipline removes ‘serious dangers’\nhttps://www.scmp.com/news/china/politics/article/3374719/ahead-apec-beijings-hong-kong-envoy-says-party-discipline-removes-serious-dangers?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 863,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122602899629015441",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122602555318616250",
+  "time": "Tue Nov 17 08:07:39 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Number of Hong Kong students in US down 27% over past 10 years https://www.scmp.com/news/hong-kong/education/article/3374698/number-hong-kong-students-us-down-27-over-past-10-years?utm_medium=Social&utm_source=Twitter",
+  "reply": 1,
+  "like": 0,
+  "rt": 1,
+  "view": 874,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122602555318616250",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122593662001729963",
   "time": "Tue Nov 17 07:32:19 +0000 2026",
   "user": "SCMPNews",
@@ -7517,36 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116738786381951226",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116729367682256920",
-  "time": "Sun Nov 01 03:09:42 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "In Focus | How the Zhuhai air show charted China’s path from catching up to flying high https://www.scmp.com/news/china/military/article/3372822/how-zhuhai-air-show-charted-chinas-path-catching-flying-high?utm_medium=Social&utm_source=Twitter#Echobox=1793502579-1",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 2055,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116729367682256920",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116728613005328889",
-  "time": "Sun Nov 01 03:06:42 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "‘Flirtatious’ US$2,500 photo shoots for ‘lonely’ Chinese women spark backlash https://www.scmp.com/news/people-culture/trending-china/article/3372860/flirtatious-us2500-photo-shoots-lonely-middle-aged-women-spark-backlash-china?utm_medium=Social&utm_source=Twitter#Echobox=1793502400-1",
-  "reply": 0,
-  "like": 3,
-  "rt": 0,
-  "view": 3000,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116728613005328889",
   "src": "fxtwitter-v2"
  }
 ]
