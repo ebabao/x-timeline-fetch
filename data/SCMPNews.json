@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122593662001729963",
+  "time": "Tue Nov 17 07:32:19 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Why the Philippines is reluctant to see flashing stagflation signs\nhttps://sc.mp/o2hyi",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1165,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122593662001729963",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122585860122296324",
   "time": "Tue Nov 17 07:01:19 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116728613005328889",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116727317124837701",
-  "time": "Sun Nov 01 03:01:33 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "South Korea’s latest chart sensation has a secret: the singer isn’t human https://www.scmp.com/week-asia/lifestyle-culture/article/3372767/south-koreas-latest-chart-sensation-has-secret-singer-isnt-human?utm_medium=Social&utm_source=Twitter#Echobox=1793502091",
-  "reply": 1,
-  "like": 0,
-  "rt": 1,
-  "view": 2105,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116727317124837701",
   "src": "fxtwitter-v2"
  }
 ]

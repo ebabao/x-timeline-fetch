@@ -1,5 +1,39 @@
 [
  {
+  "id": "2122595851411591347",
+  "time": "Tue Nov 17 07:41:01 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "受Optimizely风险影响的178家机构名单如下：\n1. 银行与金融（32家）\nPaychex\nHSBC US \nEquifax\nSmartAsset\nHSBC Hong Kong 汇丰香港\nABN AMRO\nTaxAct\nHSBC Mexico\nNetCredit\nAssociated Bank\nS-Pankki\nEquifax Canada\nEquifax UK\nThe Work Number (Equifax)\nFunding Circle\nHSBC Australia\nCashNetUSA\nOnDeck\nICS Cards\nHSBC UAE\nHSBC Malaysia\nRest Super\nHSBC Taiwan\nHSBC Vietnam\nHSBC Egypt\nHSBC Philippines\nSmartAdvisor Match (SmartAsset)\nCompare Club\nABN AMRO Lease\nEnergy Scout\nHang Seng Investment\n\n2. 科技与 SaaS（23家）\nZoom\nBitly\nSalesforce\nGitLab\nOptimizely\nMixpanel\nTypeform\nInMotion Hosting\nWasabi\nPerforce / Zend / Puppet\nTableau\nHootsuite\nSmartsheet\nMuleSoft\nThales / Imperva\nTricentis\nWeb Hosting Hub\nQR Code Generator\nServiceChannel\nBrandfolder\nIntelex\nEnverus\nAccruent\n\n3. 零售与时尚（20家）\nIKEA 宜家\nASOS\nMattel\nAmerican Eagle\nScheels\nAriat\nAmerican Girl\nStackSocial\nCrocs India\nLevi's Japan 李维斯\nTodd Snyder\nLevi's Indonesia\nJust Russel\nLoloi Rugs\nLevi's Australia\nLevi's Malaysia\nLevi's Philippines\nLevi's Singapore\nLevi's Korea\nLevi's New Zealand\n\n4. 流媒体与娱乐（12家）\nPeacock\nD&D Beyond\nWizards of the Coast\nNOW TV\nZattoo\nCrave\nStarz\nSkyShowtime\nBravo\nSeaWorld\nWOW (Sky Deutschland)\nNOW Italia\n\n5. 新闻与媒体（10家）\nCNN\nBBC\nFox News 福克斯新闻\nNPR\nCTV News\nFox Sports\nBNN Bloomberg / CP24 彭博\nTSN\nTop Gear\nBBC Earth\n\n6. 航空与旅游（9家）\nAlaska Airlines / Hawaiian Airlines\nTransavia\nAir France-KLM\nKLM Netherlands\nTrafalgar\nContiki\nInsight Vacations\nThe Travel Corporation\nCostsaver\n\n7. 医疗与制药（8家）\nInvisalign\nTakeda 武田药品\nCovetrus\niTero (Align)\nCovetrus Pharmacy\nmyCovetrus\nRaySafe (Fluke)\nTakeda Oncology\n\n8. 工业与制造（8家）\nFluke\neMaint (Fluke)\nFluke Networks\nVaillant Germany\nFluke Process Instruments\nFluke Biomedical\nLandauer\nVaillant Spain\n\n9. 电信（7家）\nVirgin Media\nVirgin Media O2\nVodafone Australia\nO2\nTPG Telecom\nMint Mobile\nTalkTalk\n\n10. 加密货币与交易（6家）\nLedger\nIG\nOANDA / Coinpass\ninteractive investor\nTMS Brokers\nBetashares\n\n11. 保险（6家）\nAsurion / uBreakiFix\nMutual of Omaha\nAdmiral\nSecurian Financial\neRenterPlan\nAKA (Danish unemployment fund)\n\n12. 房地产（6家）\nBuildium (managebuilding. com)\nLoft Living apartments\nBuildium\nHireAHelper\nFlytte. no (and sister comparison sites)\nMovingPlace\n\n13. 食品与餐饮（5家）\nRestaurant ordering sites (order. online)\nHeineken 喜力\nHome Chef\nStarbucks Canada\nCinnabon\n\n14. 家居与智能家居（5家）\nResideo\nHoneywell Home\nmyQ (Chamberlain)\nChamberlain\nFirst Alert\n\n15. 非营利组织与公共服务（4家）\nChange. org\nASPCA\nUNICEF USA 联合国儿童基金会\nDonorsChoose\n\n16. 博彩（4家）\nBetsson\nPokerStars\ntombola\nBetfred\n\n17. 专业服务（4家）\nFreshfields\nCohnReznick\nBaringa\nCro Metrics\n\n18. 物流与运输（3家）\nShipStation / ShipEngine\nStamps. com\nShipEngine\n\n19. 汽车（3家）\nLucid Motors\nO'Brien Glass\nChevrolet dealer network (Bill Rapp and others)\n\n20. 教育（3家）\nWalden University\nPerlego\nChamberlain University",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1387,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2122595851411591347",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122595846927589408",
+  "time": "Tue Nov 17 07:41:00 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "包括汇丰、Zoom、GitLab、CNN、彭博等全球178家机构和品牌的官网通过信任第三方服务被投毒。根据Report URI的报告，攻击者利用网站实验与个性化平台Optimizely，向这些机构的网站访客投放恶意JavaScript。也就是说，用户访问看似正常、拥有Https证书的正规网站，也可能执行攻击者注入的恶意代码。\n\n很多大型企业使用Optimizely Web进行A/B测试、网页实验和用户体验优化。这些网站会在页面中加载Optimizely CDN提供的JavaScript文件，包括机构客户自行添加的ProjectJS。\n\n攻击者通过向ProjectJS注入恶意代码，再由Optimizely CDN正常分发，最终使得访客的浏览器自动加载恶意软件，面临银行卡信息、Cookie以及iOS漏洞等风险。\n\nReport URI表示，至于攻击者究竟是入侵了Optimizely系统、盗取了拥有跨客户访问权限的凭证，还是利用了其他漏洞，目前尚未得到确认。",
+  "reply": 2,
+  "like": 3,
+  "rt": 0,
+  "view": 2764,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXT1ubDboAAf5C-.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXT2eQ8asAAV_1A.png?name=orig",
+   "https://pbs.twimg.com/media/HXT3C0La0AEuGca.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2122595846927589408",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122591134346293567",
   "time": "Tue Nov 17 07:22:16 +0000 2026",
   "user": "fxtrader",
