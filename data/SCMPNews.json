@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122625507560964511",
+  "time": "Tue Nov 17 09:38:52 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Donald Trump arrives in Manila to speak at Asean summit before heading to China\n\nhttps://www.scmp.com/news/asia/southeast-asia/article/3374740/donald-trump-arrives-manila-speak-asean-summit-heading-china?utm_medium=Social&utm_source=Twitter",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1480,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122625507560964511",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122623553627713554",
   "time": "Tue Nov 17 09:31:06 +0000 2026",
   "user": "SCMPNews",
@@ -7530,23 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116743864593641694",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116742024132985068",
-  "time": "Sun Nov 01 04:00:00 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Despite having to use a wheelchair, Chen Tsz-kin has been embracing life in a way many other teenagers only dream about.",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 1321,
-  "lang": "en",
-  "media": [
-   "https://video.twimg.com/amplify_video/2116152285122473984/vid/avc1/1920x1080/_r1JOPBzEPO0GgTl.mp4?tag=29"
-  ],
-  "url": "https://x.com/SCMPNews/status/2116742024132985068",
   "src": "fxtwitter-v2"
  }
 ]
