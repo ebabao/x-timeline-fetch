@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122623553627713554",
+  "time": "Tue Nov 17 09:31:06 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Malaysia arrests man who mistook teen girl for mouse deer and shot her\nhttps://sc.mp/52d03",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 806,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122623553627713554",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122608515537895841",
   "time": "Tue Nov 17 08:31:20 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
    "https://video.twimg.com/amplify_video/2116152285122473984/vid/avc1/1920x1080/_r1JOPBzEPO0GgTl.mp4?tag=29"
   ],
   "url": "https://x.com/SCMPNews/status/2116742024132985068",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116740243457994856",
-  "time": "Sun Nov 01 03:52:55 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "FBI blames North Korea for Binance hack in biggest crypto heist in history https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history?utm_medium=Social&utm_source=Twitter#Echobox=1793505170",
-  "reply": 2,
-  "like": 0,
-  "rt": 0,
-  "view": 1675,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116740243457994856",
   "src": "fxtwitter-v2"
  }
 ]
