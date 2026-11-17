@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122510341171290352",
+  "time": "Tue Nov 17 02:01:14 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Japanese plan to bury carbon dioxide off Australia raises feasibility doubts\nhttps://sc.mp/q9ocd",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 763,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122510341171290352",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122492264769372445",
   "time": "Tue Nov 17 00:49:24 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116507628343820300",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116491460954538069",
-  "time": "Sat Oct 31 11:24:21 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "China places former Sinopec, CNOOC boss Fu Chengyu, 75, under corruption probe https://www.scmp.com/news/china/politics/article/3372837/china-places-former-sinopec-cnooc-boss-fu-chengyu-75-under-corruption-probe?utm_medium=Social&utm_source=Twitter#Echobox=1793444349",
-  "reply": 0,
-  "like": 1,
-  "rt": 3,
-  "view": 1427,
-  "lang": "tl",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116491460954538069",
   "src": "fxtwitter-v2"
  }
 ]
