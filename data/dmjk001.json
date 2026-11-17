@@ -1,5 +1,57 @@
 [
  {
+  "id": "2122694336400019582",
+  "time": "Tue Nov 17 14:12:22 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 607,
+  "lang": null,
+  "media": [
+   "https://pbs.twimg.com/media/HXVTNogaAAAoauY.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2122694336400019582",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122693044948582643",
+  "time": "Tue Nov 17 14:07:14 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "TrendForce： NAND 现货价格逆转走势，因消费需求疲软及长江存储竞争，两周内下滑 20%",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 961,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXVSCmhb0AAjuVa.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2122693044948582643",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122690946026610923",
+  "time": "Tue Nov 17 13:58:53 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "近期存储现货市场备货节奏缓慢、谨慎观望，需求端多数以消耗库存为主，实际成交较为有限。在弱需求影响下，存储厂商针对部分产品调低价格以促出货，本周嵌入式eMMC、部分行业SSD以及LPDDR4X产品价格向下调整。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1384,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXVQBx4aAAE6fW-.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXVQHsCa0AAmCxp.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2122690946026610923",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122671338276204775",
   "time": "Tue Nov 17 12:40:59 +0000 2026",
   "user": "dmjk001",
