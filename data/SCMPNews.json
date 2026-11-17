@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122574972283711942",
+  "time": "Tue Nov 17 06:18:03 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Royal row claims Malaysian chief minister as Umno hunts a successor\nhttps://sc.mp/1dgz1",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 1081,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122574972283711942",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122567356128047554",
   "time": "Tue Nov 17 05:47:47 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116618401422422113",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116599486965485930",
-  "time": "Sat Oct 31 18:33:36 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Clashes break out at France’s Halloween protests, as hundreds of thousands take to streets\nhttps://www.scmp.com/news/world/europe/article/3372854/clashes-break-out-frances-halloween-protests-hundreds-thousands-take-streets",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 1983,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116599486965485930",
   "src": "fxtwitter-v2"
  }
 ]
