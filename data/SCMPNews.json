@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122567356128047554",
+  "time": "Tue Nov 17 05:47:47 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Indonesia eyes bigger slice of its mineral wealth. Are Chinese investors at risk?\nhttps://sc.mp/h955q",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 1254,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122567356128047554",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122557602618028297",
   "time": "Tue Nov 17 05:09:02 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116599486965485930",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116565887193174213",
-  "time": "Sat Oct 31 16:20:06 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Quad diplomats finalise first leaders’ summit in two years before Trump-Xi meeting\nhttps://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting",
-  "reply": 0,
-  "like": 1,
-  "rt": 1,
-  "view": 3544,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116565887193174213",
   "src": "fxtwitter-v2"
  }
 ]
