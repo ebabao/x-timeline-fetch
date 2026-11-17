@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122736216512827816",
+  "time": "Tue Nov 17 16:58:47 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Jensen Huang agrees to face Congress over Nvidia scandal\nhttps://www.scmp.com/news/us/economy-trade-business/article/3374798/jensen-huang-agrees-face-congress-over-nvidia-scandal",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 1038,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122736216512827816",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122709420455154139",
   "time": "Tue Nov 17 15:12:18 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116893893237354613",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116844072824357348",
-  "time": "Sun Nov 01 10:45:30 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Chinese archaeologists prepare for hi-tech excavations with AI and deep-sea robots https://www.scmp.com/news/china/science/article/3372841/chinese-archaeologists-set-hi-tech-excavations-ai-and-deep-sea-robots?utm_medium=Social&utm_source=Twitter#Echobox=1793529927",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 1213,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116844072824357348",
   "src": "fxtwitter-v2"
  }
 ]

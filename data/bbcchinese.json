@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122739099945541834",
+  "time": "Tue Nov 17 17:10:14 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "在美国限制最先进英伟达芯片直接销往中国的背景下，中国大型互联网公司和AI实验室逐渐转向“只租算力、不买硬件”的模式。芯片部署在第三国数据中心，中国企业再通过互联网远程调用算力训练模型，而无须把相关硬件运入中国。https://bbc.in/4iN6OzR",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 529,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bbcchinese/status/2122739099945541834",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122691247303188789",
   "time": "Tue Nov 17 14:00:05 +0000 2026",
   "user": "bbcchinese",
