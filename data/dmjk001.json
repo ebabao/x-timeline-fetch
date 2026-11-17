@@ -1,5 +1,39 @@
 [
  {
+  "id": "2122641197533634647",
+  "time": "Tue Nov 17 10:41:12 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "CNBC：英伟达警告芯片买家，与中国 AI 准入相关的法律风险\n消息人士称，英伟达警告客户，一项新法律可能使他们和这家芯片制造商因中国获取芯片算力而面临“法律诉讼”。\n目前的美国管制措施限制向中国出口先进芯片，而国会正在考虑对托管在海外数据中心芯片的远程访问授予更广泛的权限。\n英伟达表示，不会将芯片出售给那些把超过 50%图形处理器（GPU）出租给中国公司的客户。",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1027,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXUisa_b0AA43Qt.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2122641197533634647",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122639744404484398",
+  "time": "Tue Nov 17 10:35:26 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "路透：英伟达周二表示，已成立一个新的董事会级委员会，负责监督其国家安全政策、出口管制合规及全球贸易风险管理。",
+  "reply": 0,
+  "like": 6,
+  "rt": 0,
+  "view": 1316,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXUhbbVaUAA4W9N.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2122639744404484398",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122585353072906608",
   "time": "Tue Nov 17 06:59:18 +0000 2026",
   "user": "dmjk001",
