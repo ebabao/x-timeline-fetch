@@ -1,5 +1,22 @@
 [
  {
+  "id": "2122542874420228520",
+  "time": "Tue Nov 17 04:10:30 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "中国是如何迫使知名品牌做出让步的？ www.​rfi.​fr/cn/%E4%B8%AD%E5%9B%BD/20261117-%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%AB%E4%BD%BF%E7%9F%A5%E5%90%8D%E5%93%81%E7%89%8C%E5%81%9A%E5%87%BA%E8%AE%A9%E6%AD%A5%E7%9A%84",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 457,
+  "lang": "ja",
+  "media": [
+   "https://pbs.twimg.com/media/HXTJfbxbsAAan0q.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122542874420228520",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122451900713013334",
   "time": "Mon Nov 16 22:09:01 +0000 2026",
   "user": "RFI_Cn",
@@ -7924,23 +7941,6 @@
    "https://pbs.twimg.com/media/HV8-pAxbAAA9Bkc.jpg?name=orig"
   ],
   "url": "https://x.com/RFI_Cn/status/2116480321571148144",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116459071016697908",
-  "time": "Sat Oct 31 09:15:39 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "https://rfi.my/DB8h美国以国安为由 计划禁止中国电信企业直接接入美国电话号码 rfi.​my/DB8h",
-  "reply": 0,
-  "like": 7,
-  "rt": 0,
-  "view": 2779,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV8pGTMboAAWwv4.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116459071016697908",
   "src": "fxtwitter-v2"
  }
 ]
