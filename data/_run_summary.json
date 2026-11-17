@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-17T20:45:11Z",
+ "ran_at": "2026-11-17T21:16:25Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -59,7 +59,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 8,
    "total": 500,
    "cn": 1,
    "cn_new": 0
@@ -95,17 +95,17 @@
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 2,
    "total": 500,
    "cn": 472,
-   "cn_new": 1
+   "cn_new": 2
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 22,
+   "new": 1,
+   "total": 23,
    "cn": 22,
    "cn_new": 0
   },
@@ -167,18 +167,18 @@
    "handle": "maojietrading",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 21,
-   "cn": 21,
-   "cn_new": 0
+   "new": 1,
+   "total": 22,
+   "cn": 22,
+   "cn_new": 1
   },
   {
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 25,
-   "cn": 25,
+   "total": 26,
+   "cn": 26,
    "cn_new": 1
   },
   {
@@ -203,10 +203,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 22,
-   "cn": 21,
-   "cn_new": 0
+   "new": 1,
+   "total": 23,
+   "cn": 22,
+   "cn_new": 1
   },
   {
    "handle": "peng_hellen",
@@ -239,10 +239,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 45,
    "cn": 42,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "darrencao2024",
@@ -284,28 +284,28 @@
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 84,
    "cn": 82,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 23,
    "cn": 22,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 19,
-   "cn": 17,
-   "cn_new": 0
+   "new": 1,
+   "total": 20,
+   "cn": 18,
+   "cn_new": 1
   },
   {
    "handle": "LeoYuen13",
