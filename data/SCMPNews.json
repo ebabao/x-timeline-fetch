@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122483719554621614",
+  "time": "Tue Nov 17 00:15:27 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Trump floats Kim meeting in China, says he’ll discuss Ukraine with Xi and Putin\nhttps://sc.mp/s6d6g",
+  "reply": 0,
+  "like": 0,
+  "rt": 1,
+  "view": 838,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122483719554621614",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122468871944974698",
   "time": "Mon Nov 16 23:16:27 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116486400107327682",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116473767094284717",
-  "time": "Sat Oct 31 10:14:02 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Apple to launch iPhone AI features in China in December via Alibaba partnership https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing?utm_medium=Social&utm_source=Twitter#Echobox=1793441292",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 2343,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116473767094284717",
   "src": "fxtwitter-v2"
  }
 ]
