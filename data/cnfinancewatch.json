@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122525003820515607",
+  "time": "Tue Nov 17 02:59:30 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "今天川普总统对记者说，他不反对黄仁勋重回英伟达做执行长。 川普说：“我不介意，完全不介意！ 我认为让黄仁勋复职是可以的。 我想他已经学到很大的教训，或许比其它教训更加重要。 但我绝对不反对他重返那个位置。”",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 269,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2122525003820515607",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122512993993052324",
   "time": "Tue Nov 17 02:11:46 +0000 2026",
   "user": "cnfinancewatch",
@@ -7664,21 +7679,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2117761538874638651",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117759894996840477",
-  "time": "Tue Nov 03 23:24:39 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "执行官 Lisa Su：\n\n“我们现在预计 2027 年收入将增长超过 80%，”这比公司去年 11 月制定的长期增长目标高出两倍多。\n\n数据中心业务现在预计将在 2027 年占  $AMD 总收入的 80% 以上，而第三季度这一比例为 64%。\n\n服务器 CPU 收入预计将在 2027 年同比增长一倍，而之前的预测是增长 70% 以上。\n\n数据中心 AI 收入预计将比管理层 90 天前预测的还要快。",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 1844,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2117759894996840477",
   "src": "fxtwitter-v2"
  }
 ]
