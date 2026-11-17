@@ -1,5 +1,22 @@
 [
  {
+  "id": "2122790025280799181",
+  "time": "Tue Nov 17 20:32:36 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "特朗普到访马尼… www.​rfi.​fr/cn/%E6%94%BF%E6%B2%BB/20261117-%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E8%AE%BF%E9%A9%AC%E5%B0%BC%E6%8B%89-%E5%BD%93%E5%9C%B0%E4%BA%BA%E7%A4%BA%E5%A8%81%E5%8F%8D%E5%AF%B9%E7%BE%8E-%E7%A1%85%E7%9B%9B%E4%B8%96-%E4%BE%9B%E5%BA%94%E9%93%BE%E5%80%A1%E8%AE%AE",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 247,
+  "lang": "pt",
+  "media": [
+   "https://pbs.twimg.com/media/HXWqR28aYAAAmGh.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122790025280799181",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122782073777758700",
   "time": "Tue Nov 17 20:01:00 +0000 2026",
   "user": "RFI_Cn",
@@ -7912,23 +7929,6 @@
    "https://pbs.twimg.com/media/HV_j9z4bIAAb8pQ.jpg?name=orig"
   ],
   "url": "https://x.com/RFI_Cn/status/2116661003106828568",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116657779062820899",
-  "time": "Sat Oct 31 22:25:14 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "法国32万人参与第三轮示威，抗议期间发生了冲突 rfi.​my/DBFU",
-  "reply": 2,
-  "like": 2,
-  "rt": 1,
-  "view": 1532,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HV_hB7zbkAA3LiK.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116657779062820899",
   "src": "fxtwitter-v2"
  }
 ]
