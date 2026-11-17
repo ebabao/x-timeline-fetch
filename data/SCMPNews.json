@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122547846234955792",
+  "time": "Tue Nov 17 04:30:16 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "40 Chinese spaceplanes could hit any target on Earth in minutes: study\nhttps://sc.mp/q16p9",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 1166,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122547846234955792",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122510341171290352",
   "time": "Tue Nov 17 02:01:14 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116511818457694550",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116507628343820300",
-  "time": "Sat Oct 31 12:28:36 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Is Beijing’s 2027 military milestone now a US readiness deadline over Taiwan? https://www.scmp.com/news/china/military/article/3372829/beijings-2027-military-milestone-now-us-readiness-deadline-over-taiwan?utm_medium=Social&utm_source=Twitter#Echobox=1793449190",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 1445,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116507628343820300",
   "src": "fxtwitter-v2"
  }
 ]
