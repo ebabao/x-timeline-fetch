@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122810534194221269",
+  "time": "Tue Nov 17 21:54:05 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "US Navy chief urges US lawmakers to strengthen shipbuilding capacity to close gap on China\nhttps://www.scmp.com/news/us/diplomacy/article/3374804/us-navy-chief-urges-us-lawmakers-strengthen-shipbuilding-capacity-close-gap-china",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 1051,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122810534194221269",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122781334003175853",
   "time": "Tue Nov 17 19:58:04 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116962169204142477",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116961925989114069",
-  "time": "Sun Nov 01 18:33:49 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Longest truce of Ukraine war, in Kherson region, set to end\nhttps://www.scmp.com/news/world/russia-central-asia/article/3372908/longest-truce-ukraine-war-kherson-region-set-end",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 1087,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116961925989114069",
   "src": "fxtwitter-v2"
  }
 ]

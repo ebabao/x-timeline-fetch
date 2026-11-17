@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-17T21:45:30Z",
+ "ran_at": "2026-11-17T22:13:12Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -31,7 +31,7 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 296,
    "cn": 289,
@@ -50,7 +50,7 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 1,
    "total": 500,
    "cn": 0,
    "cn_new": 0
@@ -59,7 +59,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 7,
+   "new": 10,
    "total": 500,
    "cn": 1,
    "cn_new": 0
@@ -95,10 +95,10 @@
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 2,
    "total": 500,
    "cn": 472,
-   "cn_new": 6
+   "cn_new": 2
   },
   {
    "handle": "xiaomustock",
@@ -122,10 +122,10 @@
    "handle": "TJ_Research",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 62,
-   "cn": 58,
-   "cn_new": 0
+   "new": 1,
+   "total": 63,
+   "cn": 59,
+   "cn_new": 1
   },
   {
    "handle": "qinbafrank",
@@ -176,10 +176,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 27,
    "cn": 27,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "RichTerry123",
@@ -203,10 +203,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
+   "new": 0,
    "total": 27,
    "cn": 26,
-   "cn_new": 4
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -239,10 +239,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
-   "total": 49,
-   "cn": 46,
-   "cn_new": 4
+   "new": 6,
+   "total": 55,
+   "cn": 52,
+   "cn_new": 6
   },
   {
    "handle": "darrencao2024",
@@ -284,10 +284,10 @@
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 84,
-   "cn": 82,
-   "cn_new": 0
+   "new": 1,
+   "total": 85,
+   "cn": 83,
+   "cn_new": 1
   },
   {
    "handle": "hanking66",
