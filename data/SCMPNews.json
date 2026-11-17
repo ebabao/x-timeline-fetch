@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122781334003175853",
+  "time": "Tue Nov 17 19:58:04 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Shenzhen summit of Xi, Trump and Putin was Brazil’s Lula’s idea, Carney claims\nhttps://www.scmp.com/news/us/diplomacy/article/3374801/shenzhen-summit-xi-trump-and-putin-was-brazils-lulas-idea-carney-claims",
+  "reply": 0,
+  "like": 2,
+  "rt": 2,
+  "view": 905,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122781334003175853",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122774015441801427",
   "time": "Tue Nov 17 19:28:59 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116961925989114069",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116908018814108107",
-  "time": "Sun Nov 01 14:59:36 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Somali piracy resurges as Iranian vessel seized carrying 23 crew\nhttps://www.scmp.com/news/world/africa/article/3372904/somali-piracy-resurges-iranian-vessel-seized-carrying-23-crew",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 619,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116908018814108107",
   "src": "fxtwitter-v2"
  }
 ]
