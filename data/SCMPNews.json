@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122774015441801427",
+  "time": "Tue Nov 17 19:28:59 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Top-secret US security communications network is down, report says\nhttps://www.scmp.com/news/world/united-states-canada/article/3374800/top-secret-us-security-communications-network-down-report-says",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 833,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122774015441801427",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122749027556983103",
   "time": "Tue Nov 17 17:49:41 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116908018814108107",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116905928960446809",
-  "time": "Sun Nov 01 14:51:18 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "‘Less than a minute’: Hong Kong travellers praise Japan’s new tax refund at airports\nhttps://www.scmp.com/news/hong-kong/society/article/3372903/less-minute-hong-kong-travellers-praise-japans-new-tax-refund-airports",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 1205,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116905928960446809",
   "src": "fxtwitter-v2"
  }
 ]
