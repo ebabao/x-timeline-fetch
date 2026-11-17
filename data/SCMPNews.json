@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122672784044167578",
+  "time": "Tue Nov 17 12:46:43 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Japan offers Asean access to crude oil storage to counter energy crises https://www.scmp.com/news/asia/east-asia/article/3374776/japan-offers-asean-access-crude-oil-storage-counter-energy-crises?utm_medium=Social&utm_source=Twitter#Echobox=1794919603",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 665,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122672784044167578",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122665186083401858",
   "time": "Tue Nov 17 12:16:32 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116801932874383424",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116790717120925869",
-  "time": "Sun Nov 01 07:13:29 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Malaysia’s Loke decries school dinner alcohol claims as political attack https://www.scmp.com/news/asia/southeast-asia/article/3372871/malaysias-loke-decries-school-dinner-alcohol-claims-political-attack?utm_medium=Social&utm_source=Twitter#Echobox=1793517207",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 1154,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116790717120925869",
   "src": "fxtwitter-v2"
  }
 ]

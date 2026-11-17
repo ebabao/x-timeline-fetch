@@ -1,5 +1,20 @@
 [
  {
+  "id": "2122670632198627716",
+  "time": "Tue Nov 17 12:38:10 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "美国总统特朗普周二向记者表示，朝鲜最高领导人金正恩“确实想”出席本周在深圳举行的亚太经合组织领导人会议。特朗普周一曾表示，可能会在中国与金正恩会面，但不知道金正恩届时是否会去。https://rfi.my/DECZ",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 533,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122670632198627716",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122663184628629720",
   "time": "Tue Nov 17 12:08:35 +0000 2026",
   "user": "RFI_Cn",
@@ -7918,21 +7933,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/RFI_Cn/status/2116550839397679173",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116550604344459532",
-  "time": "Sat Oct 31 15:19:22 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "中国10月制造业再跌到荣枯线下 四个月来第三次出现萎缩https://rfi.my/DBBu",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 1246,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/RFI_Cn/status/2116550604344459532",
   "src": "fxtwitter-v2"
  }
 ]
