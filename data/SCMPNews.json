@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122492264769372445",
+  "time": "Tue Nov 17 00:49:24 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Could North Korea emerge the winner in US-China-Russia talks?\nhttps://www.scmp.com/week-asia/politics/article/3374642/us-china-russia-talks-seoul-fears-another-yalta-could-pyongyang-emerge-winner?utm_medium=Social&utm_source=Twitter#Echobox=1794876563",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1216,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122492264769372445",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122483719554621614",
   "time": "Tue Nov 17 00:15:27 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "tl",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116491460954538069",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116486400107327682",
-  "time": "Sat Oct 31 11:04:14 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "AI could turn China’s social credit system into surveillance tool: study https://www.scmp.com/news/china/science/article/3372510/ai-could-turn-chinas-social-credit-system-surveillance-tool-government-funded-study?utm_medium=Social&utm_source=Twitter#Echobox=1793441303",
-  "reply": 0,
-  "like": 2,
-  "rt": 1,
-  "view": 1724,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116486400107327682",
   "src": "fxtwitter-v2"
  }
 ]
