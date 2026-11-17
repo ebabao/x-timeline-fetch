@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122749027556983103",
+  "time": "Tue Nov 17 17:49:41 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "US loses measles-free status as vaccinations fall, cases and deaths mount\nhttps://www.scmp.com/news/world/united-states-canada/article/3374799/us-loses-measles-free-status-vaccinations-fall-cases-and-deaths-mount",
+  "reply": 0,
+  "like": 2,
+  "rt": 1,
+  "view": 1134,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122749027556983103",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122736216512827816",
   "time": "Tue Nov 17 16:58:47 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116905928960446809",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116893893237354613",
-  "time": "Sun Nov 01 14:03:28 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts say\nhttps://www.scmp.com/news/china/diplomacy/article/3372887/could-midterm-defeat-tame-trump-not-foreign-policy-chinese-experts-say",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 898,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116893893237354613",
   "src": "fxtwitter-v2"
  }
 ]

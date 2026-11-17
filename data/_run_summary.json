@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-17T17:46:59Z",
+ "ran_at": "2026-11-17T18:17:27Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -50,7 +50,7 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 1,
    "total": 500,
    "cn": 0,
    "cn_new": 0
@@ -95,19 +95,19 @@
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 500,
    "cn": 472,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 22,
    "cn": 22,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "artinmemes",
@@ -194,19 +194,19 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 19,
-   "cn": 16,
-   "cn_new": 0
+   "new": 1,
+   "total": 20,
+   "cn": 17,
+   "cn_new": 1
   },
   {
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 0,
    "total": 21,
    "cn": 20,
-   "cn_new": 3
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -230,19 +230,19 @@
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 16,
    "cn": 16,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
-   "total": 32,
-   "cn": 31,
-   "cn_new": 4
+   "new": 5,
+   "total": 37,
+   "cn": 34,
+   "cn_new": 3
   },
   {
    "handle": "darrencao2024",
@@ -284,10 +284,10 @@
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 75,
-   "cn": 73,
-   "cn_new": 0
+   "new": 2,
+   "total": 77,
+   "cn": 75,
+   "cn_new": 2
   },
   {
    "handle": "hanking66",
@@ -311,19 +311,19 @@
    "handle": "LeoYuen13",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 57,
    "cn": 57,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 22,
    "cn": 21,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xingpt",
