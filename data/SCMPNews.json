@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122557602618028297",
+  "time": "Tue Nov 17 05:09:02 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Singapore seeks US talks on AI chip export rules amid Nvidia fallout, Megaspeed probe\nhttps://sc.mp/0ztmp",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 795,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122557602618028297",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122552694393180185",
+  "time": "Tue Nov 17 04:49:32 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "US prosecutors make final case against Huawei in theft, fraud trial\nhttps://sc.mp/6pysy",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1291,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122552694393180185",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122547846234955792",
   "time": "Tue Nov 17 04:30:16 +0000 2026",
   "user": "SCMPNews",
@@ -7517,36 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116565887193174213",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116553647723069587",
-  "time": "Sat Oct 31 15:31:27 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Hong Kong man falls from luxury housing complex, striking domestic helper below\nhttps://www.scmp.com/news/hong-kong/society/article/3372850/hong-kong-man-falls-luxury-housing-complex-striking-domestic-helper-below",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 1147,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116553647723069587",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116511818457694550",
-  "time": "Sat Oct 31 12:45:15 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "With ‘Kissinger moment’ over, US and China urged to foster new ‘bridge builders’ https://www.scmp.com/news/china/diplomacy/article/3372823/kissinger-moment-over-us-and-china-urged-foster-new-bridge-builders?utm_medium=Social&utm_source=Twitter#Echobox=1793449201",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 1174,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116511818457694550",
   "src": "fxtwitter-v2"
  }
 ]
