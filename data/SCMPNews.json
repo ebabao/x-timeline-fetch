@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122608515537895841",
+  "time": "Tue Nov 17 08:31:20 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "US airbase Kadena gets F-15EX fighters but no upper hand against China, analysts say\nhttps://sc.mp/ak8up",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1086,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122608515537895841",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122602899629015441",
   "time": "Tue Nov 17 08:09:01 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116740243457994856",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116738786381951226",
-  "time": "Sun Nov 01 03:47:08 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Hong Kong man falls from luxury housing complex, striking domestic helper below https://www.scmp.com/news/hong-kong/society/article/3372850/hong-kong-man-falls-luxury-housing-complex-striking-domestic-helper-below?utm_medium=Social&utm_source=Twitter#Echobox=1793504824",
-  "reply": 0,
-  "like": 0,
-  "rt": 2,
-  "view": 1804,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116738786381951226",
   "src": "fxtwitter-v2"
  }
 ]
