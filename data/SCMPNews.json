@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122580762340073902",
+  "time": "Tue Nov 17 06:41:04 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Third US aircraft carrier reaches Middle East as Trump weighs Iran options\nhttps://sc.mp/klr4x",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 1181,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122580762340073902",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122574972283711942",
   "time": "Tue Nov 17 06:18:03 +0000 2026",
   "user": "SCMPNews",
@@ -7532,21 +7547,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116627793551212920",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116618401422422113",
-  "time": "Sat Oct 31 19:48:46 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "G20 foreign ministers end Atlanta meeting without consensus on key issues\nhttps://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 867,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116618401422422113",
   "src": "fxtwitter-v2"
  }
 ]
