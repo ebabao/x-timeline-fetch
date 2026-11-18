@@ -1,5 +1,41 @@
 [
  {
+  "id": "2122975275650850914",
+  "time": "Wed Nov 18 08:48:43 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "特朗普专机抵达深圳。",
+  "reply": 0,
+  "like": 5,
+  "rt": 0,
+  "view": 923,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXZStlRbMAEuH-b.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2122975275650850914",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122974784262959113",
+  "time": "Wed Nov 18 08:46:46 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "腾讯控股第三季度营收2073.4亿元，预估2105.3亿元\n净利润636.1亿元，预估576.1亿元\n第三季度资本支出814.3亿元，预估554亿元人民币\n\n录得负自由现金流691亿元，经营现金流包括大额算力采购预付款，用于支持Hy系列模型升级、WorkBuddy推理需求，以及各项产品与服务的AI能力建设。若剔除算力采购的预付款，自由现金流将转正至169亿元。\n\n按大语言模型词元消耗量计，WorkBuddy已成为中国使用量最高的AI产品，每日超千万的用户合计消耗100万亿以上词元。",
+  "reply": 0,
+  "like": 10,
+  "rt": 1,
+  "view": 2106,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXZRBe3bsAAfAvc.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZRWX2acAA5rrh.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZRtr5boAAJOQi.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2122974784262959113",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122969721931022395",
   "time": "Wed Nov 18 08:26:39 +0000 2026",
   "user": "fxtrader",
