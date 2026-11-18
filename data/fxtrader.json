@@ -1,5 +1,38 @@
 [
  {
+  "id": "2122850645241926003",
+  "time": "Wed Nov 18 00:33:29 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "#行情 日韩股市高开高走，日本芯片股大幅上涨，铠侠上涨5.8%。韩股三星电机早盘涨超7%，英伟达此前宣布与公司加强合作。",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 1551,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2122850645241926003",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122849961763381516",
+  "time": "Wed Nov 18 00:30:46 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "浑水宣布做空英伟达，认为英伟达前高管Ajay Puri与超微前高管Cenly Chen（负责GPU芯片采购）存在亲密关系，存在可能影响英伟达内部控制的利益冲突。\n\n浑水同时也承认，不能据此认定照片中的两人就是同一人。\n\n浑水披露发布报告时持有英伟达空头头寸。在报告发布后，计划开始平掉大部分空头仓位，甚至可能全部平仓。",
+  "reply": 1,
+  "like": 4,
+  "rt": 0,
+  "view": 2373,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXXgTXIaUAA6yHO.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXXgcdlbEAArbJi.png?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2122849961763381516",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122756192791662752",
   "time": "Tue Nov 17 18:18:09 +0000 2026",
   "user": "fxtrader",

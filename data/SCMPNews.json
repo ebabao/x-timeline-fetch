@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122850108035522802",
+  "time": "Wed Nov 18 00:31:21 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Nvidia results beat expectations, as ousted CEO Huang told no way back\nhttps://sc.mp/3v5l6",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 924,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122850108035522802",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122840541239091505",
   "time": "Tue Nov 17 23:53:20 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117003477826273386",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116983662986011131",
-  "time": "Sun Nov 01 20:00:11 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Binance sees spike in withdrawals as exchange returns online after US$6.3 billion hack\nhttps://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack",
-  "reply": 3,
-  "like": 2,
-  "rt": 2,
-  "view": 863,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116983662986011131",
   "src": "fxtwitter-v2"
  }
 ]
