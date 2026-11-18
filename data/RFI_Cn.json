@@ -1,5 +1,20 @@
 [
  {
+  "id": "2123022382424072685",
+  "time": "Wed Nov 18 11:55:54 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "信息报（The Information）周二援引匿名消息人士报导，英伟达销售团队曾在2022年将阿里巴巴介绍给了被怀疑为中国间谍的黄乐。消息人士称，借助这次牵线搭桥，黄乐成功将科技巨头阿里巴巴发展为客户，并以此为基础获得银行贷款，用于购买英伟达芯片。此外，阿里巴巴也通过黄乐建立了一条渠道，得以在绕开美国出口管制的情况下，在东南亚获取并租用英伟达芯片。该媒体认为，英伟达积极协助试图绕开美国出口管制法规的中国企业获取其芯片产品。当时的出口管制措施仅限制向中国直接销售芯片，并未禁止中国企业通过海外渠道获取先进芯片。https://rfi.my/DENG",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 868,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2123022382424072685",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123005911912570962",
   "time": "Wed Nov 18 10:50:27 +0000 2026",
   "user": "RFI_Cn",
@@ -7906,23 +7921,6 @@
    "https://pbs.twimg.com/media/HWG2D91a8AAT4T_.jpg?name=orig"
   ],
   "url": "https://x.com/RFI_Cn/status/2117173486452085156",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117012501657432542",
-  "time": "Sun Nov 01 21:54:47 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "美国将助马达加斯加建厂炼稀土 rfi.​my/DBRB",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 369,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HWEjptfbAAAu6dQ.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2117012501657432542",
   "src": "fxtwitter-v2"
  }
 ]

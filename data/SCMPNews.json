@@ -112,6 +112,26 @@
   "src": "guest-gql"
  },
  {
+  "id": "2123022741703917867",
+  "time": "Wed Nov 18 11:57:20 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Trump and other world leaders arrive at the Apec leaders’ welcome banquet and cultural gala hosted by Chinese President Xi Jinping and his wife, Peng Liyuan. Read more: https://sc.mp/7773dc\n\n📷: Reuters, AP, AFP\n\n#diplomacy #apec #china #shenzhen",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1648,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXZ96uUXMAAHDDD.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZ969NWsAAPS9q.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZ97MgX0AAgzem.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZ97c5WkAAim0l.jpg?name=orig"
+  ],
+  "url": "https://x.com/SCMPNews/status/2123022741703917867",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123006839990415582",
   "time": "Wed Nov 18 10:54:08 +0000 2026",
   "user": "SCMPNews",
@@ -7535,21 +7555,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117259790837538848",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117248230404595812",
-  "time": "Mon Nov 02 13:31:29 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Asean seeks to sign FTA with EU. Can Singapore help resolve the Myanmar hurdle? https://www.scmp.com/week-asia/economics/article/3373027/asean-seeks-sign-fta-eu-can-singapore-help-resolve-myanmar-hurdle?utm_medium=Social&utm_source=Twitter#Echobox=1793626288-1",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 1446,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117248230404595812",
   "src": "fxtwitter-v2"
  }
 ]
