@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-18T09:53:27Z",
+ "ran_at": "2026-11-18T10:21:13Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 3,
    "total": 500,
    "cn": 497,
-   "cn_new": 6
+   "cn_new": 3
   },
   {
    "handle": "dmjk001",
@@ -32,25 +32,25 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 5,
-   "total": 320,
-   "cn": 310,
-   "cn_new": 4
+   "new": 2,
+   "total": 322,
+   "cn": 312,
+   "cn_new": 2
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 125,
    "cn": 109,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 500,
    "cn": 0,
    "cn_new": 0
@@ -59,7 +59,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 7,
    "total": 500,
    "cn": 2,
    "cn_new": 0
@@ -68,7 +68,7 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 248,
    "cn": 0,
    "cn_new": 0
@@ -86,19 +86,19 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 242,
-   "cn": 242,
-   "cn_new": 0
+   "new": 1,
+   "total": 243,
+   "cn": 243,
+   "cn_new": 1
   },
   {
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 500,
    "cn": 472,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -131,10 +131,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 24,
-   "cn": 23,
-   "cn_new": 0
+   "new": 1,
+   "total": 25,
+   "cn": 24,
+   "cn_new": 1
   },
   {
    "handle": "tychozzz",
@@ -266,18 +266,18 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 69,
-   "cn": 69,
-   "cn_new": 0
+   "new": 1,
+   "total": 70,
+   "cn": 70,
+   "cn_new": 1
   },
   {
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 30,
-   "cn": 27,
+   "total": 31,
+   "cn": 28,
    "cn_new": 1
   },
   {
@@ -293,10 +293,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 28,
-   "cn": 27,
-   "cn_new": 0
+   "new": 1,
+   "total": 29,
+   "cn": 28,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",
