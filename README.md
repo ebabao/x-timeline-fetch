@@ -50,7 +50,6 @@ Actions 页面 → `X Timeline Fetch` → `Run workflow`，可临时指定账号
 python3 /workspace/x_scraper.py cnfinancewatch fxtrader baoshu88 --limit 20
 
 # 强制走最新通道
-python3 /workspace/x_scraper.py SCMPNews business --channel fx2
 ```
 
 ### 读取仓库已落盘的数据
@@ -75,3 +74,4 @@ fxtrader         # 外汇交易员
 - 每账号最多保留 **500 条**，避免仓库无限增长。
 - 数据按推文 ID 去重，重复运行不会产生新提交。
 - 单个账号失败会记录原因，不影响其他账号。
+- `@SCMPChinese` 最后更新停留在 2016-09-09，已停更，不是抓取失败。
