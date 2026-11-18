@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122895543877980243",
+  "time": "Wed Nov 18 03:31:53 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Japan’s Takaichi faces icy Apec summit as support for China policy slides\nhttps://sc.mp/8xbc5",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 715,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122895543877980243",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122887738861203459",
   "time": "Wed Nov 18 03:00:52 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117105797012361719",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117094003736744375",
-  "time": "Mon Nov 02 03:18:38 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "China found giant ‘chimneys’ in deep water that could impact submarine warfare https://www.scmp.com/news/china/science/article/3372663/chinese-scientists-found-giant-chimneys-deep-water-could-alter-submarine-warfare?utm_medium=Social&utm_source=Twitter#Echobox=1793589517",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 689,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117094003736744375",
   "src": "fxtwitter-v2"
  }
 ]

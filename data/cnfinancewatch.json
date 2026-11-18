@@ -1,5 +1,41 @@
 [
  {
+  "id": "2122896141079740925",
+  "time": "Wed Nov 18 03:34:16 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "A股不到美国加息落地不会反弹\n\nA股科创50已经跌无可跌\n\n有个国际好消息，可以先看看等等",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 146,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXYKyVsboAEQf_V.jpg?name=orig"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2122896141079740925",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122888732605038726",
+  "time": "Wed Nov 18 03:04:49 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "今天A股大盘收盘红还是绿？\n\n猜猜！",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 1562,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXYEDEzaUAA2Q_y.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXYEDEwbwAA9oL0.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXYEDE7bYAA5kDN.jpg?name=orig"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2122888732605038726",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122878305770873326",
   "time": "Wed Nov 18 02:23:23 +0000 2026",
   "user": "cnfinancewatch",
@@ -7645,36 +7681,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2117873078374199341",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117871361389723790",
-  "time": "Wed Nov 04 06:47:35 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "共和党总统。\n民主党在中期选举后控制众议院和参议院。\n\n标普 500 $SPY 在 12 个月后每次都更高：\n\n1954: +33.2%\n1958: +11.1%\n1970: +12.7%\n1974: +18.7%\n1986: +0.9%\n1990: +25.1%\n2006: +6.7%\n\n7/7 正回报。\n平均涨幅：+15.5%。\n\n甚至包括 1987 年崩盘的那段时期，最终也收正。",
-  "reply": 1,
-  "like": 1,
-  "rt": 0,
-  "view": 2094,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2117871361389723790",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117870169037123927",
-  "time": "Wed Nov 04 06:42:51 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "民主党的大胜；\n\n中国股市科技大涨。\n\n有因果关系吗？\n\n结论：\n\n中国人觉得民主党对中国股市有利。逻辑是民主党会放弃关税战、美伊战、放弃AI战略，油价下降、关税下降、中国AI拥有更大市场和机会 。\n\n$CWEB",
-  "reply": 2,
-  "like": 1,
-  "rt": 0,
-  "view": 2558,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2117870169037123927",
   "src": "fxtwitter-v2"
  }
 ]
