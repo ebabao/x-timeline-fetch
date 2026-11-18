@@ -1,5 +1,20 @@
 [
  {
+  "id": "2123100159936791009",
+  "time": "Wed Nov 18 17:04:58 +0000 2026",
+  "user": "Balder13946731",
+  "name": "Balder",
+  "text": "Everyone frames custom chips as Google and Meta escaping Nvidia's toll booth. Look at who they're escaping to.\n\nHock Tan bought VMware for ~$69B, killed the perpetual licenses and pushed everyone onto bundles. AT&T told a court its renewal quote went up 1,050%. Customers screamed for a year, and most of them paid anyway, because ripping VMware out of a data center is worse than eating the bill.\n\nThat's the same guy co-designing Google's TPUs, Meta's chips and OpenAI's 10GW custom silicon deal. With VMware he found something customers couldn't easily rip out and priced it that way, and he's been doing some version of that his whole career.\n\nOnce your model stack is tuned to a chip only one shop can build for you, leaving gets about as painful as leaving VMware was, and he's the one who'll be quoting you the renewal for the next decade.",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 596,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/Balder13946731/status/2123100159936791009",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123069255277224122",
   "time": "Wed Nov 18 15:02:09 +0000 2026",
   "user": "Balder13946731",
