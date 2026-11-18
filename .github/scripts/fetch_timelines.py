@@ -33,6 +33,9 @@ SYND = ("https://syndication.twitter.com/srv/timeline-profile/"
         "screen-name/{handle}")
 CJK = re.compile(r"[\u4e00-\u9fff]")
 
+# 按账号设置累计保留上限（默认 500）；发推稀疏的重点账号放宽
+KEEP_LIMIT = {"baoshu88": 2000}
+
 FEATURES = {
     "articles_preview_enabled": False,
     "c9s_tweet_anatomy_moderator_badge_enabled": True,
@@ -404,8 +407,9 @@ def main():
             have = {t["id"] for t in old}
             added = [t for t in items if t["id"] not in have]
             merged = sorted(old + added, key=lambda x: str(x["id"]), reverse=True)
-            # 只保留最近 500 条，避免仓库无限膨胀
-            merged = merged[:500]
+            # 按账号保留上限截断（默认 500，重点账号见 KEEP_LIMIT）
+            keep = KEEP_LIMIT.get(h, 500)
+            merged = merged[:keep]
             json.dump(merged, open(fp, "w", encoding="utf-8"),
                       ensure_ascii=False, indent=1)
             cn = len([t for t in merged if CJK.search(t.get("text") or "")])
