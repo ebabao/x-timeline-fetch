@@ -112,6 +112,36 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122921661343359070",
+  "time": "Wed Nov 18 05:15:40 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study\nhttps://sc.mp/mpg59",
+  "reply": 0,
+  "like": 4,
+  "rt": 0,
+  "view": 1270,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122921661343359070",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122920258742935567",
+  "time": "Wed Nov 18 05:10:06 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Xi and Putin say they will maintain stable ties, seek ‘more fair multipolar world order’\nhttps://sc.mp/2d9bl",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 1185,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122920258742935567",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122910396386525463",
   "time": "Wed Nov 18 04:30:54 +0000 2026",
   "user": "SCMPNews",
@@ -7515,36 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117209023132868824",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117203857046376737",
-  "time": "Mon Nov 02 10:35:09 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Beijing doubles down on Type 071 amphibious warships, signalling a Taiwan focus https://www.scmp.com/news/china/military/article/3373001/beijing-doubles-down-type-071-amphibious-warships-signalling-taiwan-focus?utm_medium=Social&utm_source=Twitter#Echobox=1793615709",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 1037,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117203857046376737",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117164567184683123",
-  "time": "Mon Nov 02 07:59:02 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Japanese ex-adult film actress recalls ‘terror’ after alleged drugging https://www.scmp.com/news/hong-kong/law-and-crime/article/3372969/japanese-ex-adult-film-actress-recalls-terror-after-alleged-drugging-hong-kong?utm_medium=Social&utm_source=Twitter#Echobox=1793606320",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 964,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117164567184683123",
   "src": "fxtwitter-v2"
  }
 ]
