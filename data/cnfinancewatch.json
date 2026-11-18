@@ -1,5 +1,37 @@
 [
  {
+  "id": "2122911057807335507",
+  "time": "Wed Nov 18 04:33:32 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "就这样，实现了奢侈品珠宝自由？",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": null,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2122362031563223040/vid/avc1/1080x1920/IVH7exMEHFLxLqfF.mp4?tag=29"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2122911057807335507",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122909626362699976",
+  "time": "Wed Nov 18 04:27:51 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "X上有一种人！！！\n\n你关注他，他马上回关\n\n你评论他，他马上回复\n\n这种人流量不爆，谁爆？",
+  "reply": 1,
+  "like": 0,
+  "rt": 0,
+  "view": 612,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2122909626362699976",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122902313727844499",
   "time": "Wed Nov 18 03:58:47 +0000 2026",
   "user": "cnfinancewatch",
@@ -7650,41 +7682,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2117887147307078002",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117886095484694775",
-  "time": "Wed Nov 04 07:46:08 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "交易拥挤和流动性问题都是因为下跌！\n\n下跌产生必须买，“两融止损平仓”等等。\n\n现在上涨了，一切迎刃而解。",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 1224,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2117886095484694775",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117885343152443638",
-  "time": "Wed Nov 04 07:43:08 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "早盘说市场需要大涨，中阳筑底\n\n应该是反弹来了\n\n有一定操作性。倾向于成长100指数ETF作为博反弹的主要方向。\n\n588000\n\n159259",
-  "reply": 1,
-  "like": 3,
-  "rt": 0,
-  "view": 1975,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HWQ9cnEbsAAeQx6.jpg?name=orig",
-   "https://pbs.twimg.com/media/HWQ9cnLawAAckXV.jpg?name=orig",
-   "https://pbs.twimg.com/media/HWQ9cnGa0AAozBh.jpg?name=orig",
-   "https://pbs.twimg.com/media/HWQ9cnIbgAAr169.jpg?name=orig"
-  ],
-  "url": "https://x.com/cnfinancewatch/status/2117885343152443638",
   "src": "fxtwitter-v2"
  }
 ]
