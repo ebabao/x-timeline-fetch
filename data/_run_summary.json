@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-18T23:11:21Z",
+ "ran_at": "2026-11-18T23:41:32Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -150,8 +150,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 45,
-   "cn": 45,
+   "total": 46,
+   "cn": 46,
    "cn_new": 1
   },
   {
@@ -212,18 +212,18 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
-   "total": 171,
-   "cn": 163,
-   "cn_new": 6
+   "new": 5,
+   "total": 176,
+   "cn": 168,
+   "cn_new": 5
   },
   {
    "handle": "darrencao2024",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 28,
-   "cn": 25,
+   "total": 29,
+   "cn": 26,
    "cn_new": 1
   },
   {
@@ -274,11 +274,11 @@
   {
    "handle": "SupFin",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 21,
-   "cn": 19,
-   "cn_new": 0
+   "src": "guest-gql",
+   "new": 40,
+   "total": 61,
+   "cn": 59,
+   "cn_new": 40
   },
   {
    "handle": "LeoYuen13",
@@ -292,7 +292,7 @@
   {
    "handle": "AntonLaVay",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 62,
    "cn": 61,
