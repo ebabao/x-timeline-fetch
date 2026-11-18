@@ -36,6 +36,9 @@ CJK = re.compile(r"[\u4e00-\u9fff]")
 # 按账号设置累计保留上限（默认 500）；发推稀疏的重点账号放宽
 KEEP_LIMIT = {"baoshu88": 2000}
 
+# 需要多页翻页的账号：每页约20条，页数×20 ≈ 单轮可抓条数
+PAGED_ACCOUNTS = {"baoshu88": 7}
+
 FEATURES = {
     "articles_preview_enabled": False,
     "c9s_tweet_anatomy_moderator_badge_enabled": True,
@@ -303,49 +306,68 @@ def channel_synd(handle, limit=40):
 
 
 # ------------------------------------------------------------------ 通道 FxTwitter v2
-def channel_fx2(handle, limit=40):
-    """免登录、按时间倒序的最新时间线（当前唯一稳定给出 latest 的通道）。"""
+def channel_fx2(handle, limit=40, pages=1):
+    """FxTwitter v2 时间线；pages>1 时用 cursor.bottom 连续翻页拿更多历史。"""
     url = "https://api.fxtwitter.com/2/profile/{}/statuses".format(handle)
-    last = ""
-    for attempt in range(5):
-        try:
-            r = requests.get(url, headers={"User-Agent": UA}, timeout=35)
-            j = r.json()
-            if r.status_code == 200 and j.get("code") == 200 and j.get("results"):
-                out = []
-                for t in j["results"][:limit]:
-                    if t.get("type") not in (None, "status"):
-                        continue
-                    raw_media = (t.get("media") or {}).get("all", []) if isinstance(t.get("media"), dict) else []
-                    out.append({
-                        "id": t.get("id"),
-                        "time": t.get("created_at"),
-                        "user": (t.get("author") or {}).get("screen_name") or handle,
-                        "name": (t.get("author") or {}).get("name"),
-                        "text": t.get("text") or "",
-                        "reply": t.get("replies"),
-                        "like": t.get("likes"),
-                        "rt": t.get("reposts"),
-                        "view": t.get("views"),
-                        "lang": t.get("lang"),
-                        "media": [m.get("url") for m in raw_media if isinstance(m, dict) and m.get("url")][:4],
-                        "url": t.get("url") or "https://x.com/{}/status/{}".format(handle, t.get("id")),
-                        "src": "fxtwitter-v2",
-                    })
-                return out, None
-            last = "HTTP {} / code {}".format(r.status_code, j.get("code"))
-        except Exception as e:
-            last = "{}: {}".format(type(e).__name__, str(e)[:70])
-        time.sleep(2 + attempt * 2)
-    log("   fxtwitter-v2 重试 5 次仍失败: {}".format(last))
-    return None, last
-
+    out = []
+    seen = set()
+    cursor = None
+    for page in range(pages):
+        last = ""
+        got = False
+        for attempt in range(5):
+            try:
+                params = {"cursor": cursor} if cursor else None
+                r = requests.get(url, headers={"User-Agent": UA}, params=params, timeout=35)
+                j = r.json()
+                if r.status_code == 200 and j.get("code") == 200 and j.get("results"):
+                    for t in j["results"]:
+                        if t.get("id") in seen:
+                            continue
+                        if t.get("type") not in (None, "status"):
+                            continue
+                        seen.add(t.get("id"))
+                        raw_media = (t.get("media") or {}).get("all", []) if isinstance(t.get("media"), dict) else []
+                        out.append({
+                            "id": t.get("id"),
+                            "time": t.get("created_at"),
+                            "user": (t.get("author") or {}).get("screen_name") or handle,
+                            "name": (t.get("author") or {}).get("name"),
+                            "text": t.get("text") or "",
+                            "reply": t.get("replies"),
+                            "like": t.get("likes"),
+                            "rt": t.get("reposts"),
+                            "view": t.get("views"),
+                            "lang": t.get("lang"),
+                            "media": [m.get("url") for m in raw_media if isinstance(m, dict) and m.get("url")][:4],
+                            "url": t.get("url") or "https://x.com/{}/status/{}".format(handle, t.get("id")),
+                            "src": "fxtwitter-v2",
+                        })
+                    got = True
+                    nxt = (j.get("cursor") or {}).get("bottom")
+                    break
+                last = "HTTP {} / code {}".format(r.status_code, j.get("code"))
+            except Exception as e:
+                last = "{}: {}".format(type(e).__name__, str(e)[:70])
+            time.sleep(2 + attempt * 2)
+        if not got:
+            if page == 0:
+                log("   fxtwitter-v2 重试 5 次仍失败: {}".format(last))
+                return None, last
+            break  # 后续页失败：保留已抓到的，不整体失败
+        if len(out) >= limit and pages == 1:
+            break
+        if not nxt or nxt == cursor:
+            break
+        cursor = nxt
+        time.sleep(0.5)
+    return (out[:limit] if pages == 1 else out), None
 
 # ------------------------------------------------------------------ 编排
-def fetch(handle, limit=40):
+def fetch(handle, limit=40, pages=1):
     """先 FxTwitter v2 最新时间线，失败再试 guest GraphQL / syndication"""
     try:
-        items, err = channel_fx2(handle, limit)
+        items, err = channel_fx2(handle, limit, pages)
         if items:
             return items, "fxtwitter-v2"
         last = "fxtwitter-v2: {}".format(err)
@@ -396,7 +418,7 @@ def main():
     for h in accs:
         try:
             log("=== @{}".format(h))
-            items, src = fetch(h, args.limit)
+            items, src = fetch(h, args.limit, PAGED_ACCOUNTS.get(h, 1))
             if not items:
                 log("   失败: {}".format(src))
                 summary.append({"handle": h, "ok": False, "src": src,
