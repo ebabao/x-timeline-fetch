@@ -112,6 +112,41 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122989563908137403",
+  "time": "Wed Nov 18 09:45:29 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "World Court to rule on whether Myanmar committed genocide against the Rohingya\nhttps://sc.mp/xdojn",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 853,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122989563908137403",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122985744629108915",
+  "time": "Wed Nov 18 09:30:19 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "In an unprecedented move, Chinese President Xi Jinping personally greets President Trump on arrival in Shenzhen for the Apec summit. Read more: https://sc.mp/7773dc\n\n📷: Reuters, AFP \n\n(Link in comments)\n\n#apec #china #trump #xijinping",
+  "reply": 0,
+  "like": 3,
+  "rt": 1,
+  "view": 1290,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXZcRLuXoAABctJ.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZcRjyWAAAyd0J.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZcR2RXEAAmI6w.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXZcSHUWwAA1b4W.jpg?name=orig"
+  ],
+  "url": "https://x.com/SCMPNews/status/2122985744629108915",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122977249859166545",
   "time": "Wed Nov 18 08:56:34 +0000 2026",
   "user": "SCMPNews",
@@ -7515,36 +7550,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117245965941768238",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117244135329391095",
-  "time": "Mon Nov 02 13:15:13 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Has the Pakistani military bought 30 Z-10ME attack helicopters from China? https://www.scmp.com/news/china/military/article/3373023/blogger-may-have-revealed-how-many-z-10me-helicopters-pakistan-bought-china?utm_medium=Social&utm_source=Twitter#Echobox=1793625312",
-  "reply": 0,
-  "like": 3,
-  "rt": 1,
-  "view": 1099,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117244135329391095",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117241024284164296",
-  "time": "Mon Nov 02 13:02:51 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Millions in China moved by student who quit school to care for seriously ill mum https://www.scmp.com/news/people-culture/trending-china/article/3373000/millions-china-moved-student-who-quit-school-care-seriously-ill-mother?utm_medium=Social&utm_source=Twitter#Echobox=1793624570",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 1376,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117241024284164296",
   "src": "fxtwitter-v2"
  }
 ]
