@@ -1,5 +1,37 @@
 [
  {
+  "id": "2122934879528890559",
+  "time": "Wed Nov 18 06:08:12 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "习近平提新组织… www.​rfi.​fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E6%96%B0%E7%BB%84%E7%BB%87-%E7%A7%B0%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E4%B8%96%E7%95%8C%E6%B9%BE%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E8%81%94%E7%9B%9F",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1054,
+  "lang": "pt",
+  "media": [
+   "https://pbs.twimg.com/media/HXYuBQBbkAE8pMp.jpg?name=orig"
+  ],
+  "url": "https://x.com/RFI_Cn/status/2122934879528890559",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2122934006433935598",
+  "time": "Wed Nov 18 06:04:43 +0000 2026",
+  "user": "RFI_Cn",
+  "name": "RFI 华语 - 法国国际广播电台",
+  "text": "https://rfi.my/DEIj 习近平提新组织 称支持成立世界湾区经济合作联盟",
+  "reply": 2,
+  "like": 0,
+  "rt": 0,
+  "view": 995,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/RFI_Cn/status/2122934006433935598",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122837400670126299",
   "time": "Tue Nov 17 23:40:51 +0000 2026",
   "user": "RFI_Cn",
@@ -7905,38 +7937,6 @@
    "https://pbs.twimg.com/media/HWDNGilbsAESC5K.jpg?name=orig"
   ],
   "url": "https://x.com/RFI_Cn/status/2116917338893357518",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116917303371538578",
-  "time": "Sun Nov 01 15:36:30 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "施泰因迈尔：当被问及是否将就乌克兰问题举行中美俄峰会? 习近平面露不悦之色\n德国联邦总统弗兰克-瓦尔特·施泰因迈尔表示，根据他上周在北京与习近平会面的情况来看，中国对与美俄就乌克兰问题举行三方峰会不感兴趣。https://rfi.my/DBOn",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 849,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/RFI_Cn/status/2116917303371538578",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116907316255879278",
-  "time": "Sun Nov 01 14:56:49 +0000 2026",
-  "user": "RFI_Cn",
-  "name": "RFI 华语 - 法国国际广播电台",
-  "text": "法国释放战略柴油储备 加油站预计开始降价 rfi.​my/DBON",
-  "reply": 0,
-  "like": 0,
-  "rt": 0,
-  "view": 332,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HWDD_JqawAAv7w1.jpg?name=orig"
-  ],
-  "url": "https://x.com/RFI_Cn/status/2116907316255879278",
   "src": "fxtwitter-v2"
  }
 ]
