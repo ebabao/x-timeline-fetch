@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122840541239091505",
+  "time": "Tue Nov 17 23:53:20 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Pakistani man gets 27 years in US prison for Trump murder plot\nhttps://sc.mp/rs2w1",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 1157,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122840541239091505",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122827327612829944",
   "time": "Tue Nov 17 23:00:49 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2116983662986011131",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2116980178241171678",
-  "time": "Sun Nov 01 19:46:20 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Bulgarian acting president Iliana Iotova wins run-off election, exit polls show\nhttps://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show",
-  "reply": 0,
-  "like": 2,
-  "rt": 2,
-  "view": 826,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2116980178241171678",
   "src": "fxtwitter-v2"
  }
 ]
