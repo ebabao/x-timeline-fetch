@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122855843398058067",
+  "time": "Wed Nov 18 00:54:08 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "Nvidia board says it has no plans to reinstate Jensen Huang as CEO\nhttps://sc.mp/o4waa",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 1036,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122855843398058067",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122850108035522802",
   "time": "Wed Nov 18 00:31:21 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117007541024768097",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117003477826273386",
-  "time": "Sun Nov 01 21:18:55 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Democratic divisions shake up pivotal Michigan Senate race as congresswoman breaks ranks\nhttps://www.scmp.com/news/world/united-states-canada/article/3372911/democratic-divisions-shake-pivotal-michigan-senate-race-congresswoman-breaks-ranks",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 1115,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117003477826273386",
   "src": "fxtwitter-v2"
  }
 ]
