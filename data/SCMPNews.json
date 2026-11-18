@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122951491417968902",
+  "time": "Wed Nov 18 07:14:12 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "How this Singaporean, 53, reversed type 2 diabetes even after stopping GLP-1 jabs\nhttps://sc.mp/gw5of",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1096,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122951491417968902",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122945748509802559",
   "time": "Wed Nov 18 06:51:23 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117239633939460602",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117222014343680397",
-  "time": "Mon Nov 02 11:47:18 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Hong Kong police arrest man after hit-and-run at checkpoint sparks 10-hour hunt https://www.scmp.com/news/hong-kong/law-and-crime/article/3373003/hong-kong-police-arrest-man-after-hit-and-run-checkpoint-sparks-10-hour-hunt?utm_medium=Social&utm_source=Twitter#Echobox=1793620038",
-  "reply": 0,
-  "like": 0,
-  "rt": 1,
-  "view": 1276,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117222014343680397",
   "src": "fxtwitter-v2"
  }
 ]
