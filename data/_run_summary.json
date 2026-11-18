@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-18T13:16:48Z",
+ "ran_at": "2026-11-18T13:45:59Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -59,7 +59,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 6,
+   "new": 8,
    "total": 500,
    "cn": 1,
    "cn_new": 0
@@ -86,19 +86,19 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 247,
    "cn": 247,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "RFI_Cn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 2,
    "total": 500,
    "cn": 472,
-   "cn_new": 0
+   "cn_new": 2
   },
   {
    "handle": "xiaomustock",
@@ -176,10 +176,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 34,
-   "cn": 34,
-   "cn_new": 0
+   "new": 1,
+   "total": 35,
+   "cn": 35,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -248,10 +248,10 @@
    "handle": "darrencao2024",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 27,
    "cn": 24,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "LucyBuilding",
@@ -293,10 +293,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 32,
-   "cn": 31,
-   "cn_new": 0
+   "new": 1,
+   "total": 33,
+   "cn": 32,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",
@@ -311,10 +311,10 @@
    "handle": "LeoYuen13",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 57,
-   "cn": 57,
-   "cn_new": 0
+   "new": 1,
+   "total": 58,
+   "cn": 58,
+   "cn_new": 1
   },
   {
    "handle": "AntonLaVay",
@@ -329,10 +329,10 @@
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 64,
-   "cn": 63,
-   "cn_new": 0
+   "new": 1,
+   "total": 65,
+   "cn": 64,
+   "cn_new": 1
   },
   {
    "handle": "brantchinesefn",
