@@ -112,6 +112,21 @@
   "src": "guest-gql"
  },
  {
+  "id": "2122872367982768148",
+  "time": "Wed Nov 18 01:59:48 +0000 2026",
+  "user": "SCMPNews",
+  "name": "South China Morning Post",
+  "text": "China’s Xi Jinping addresses global CEOs at Apec summit in Shenzhen\nhttps://sc.mp/dumk1",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 732,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/SCMPNews/status/2122872367982768148",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122855843398058067",
   "time": "Wed Nov 18 00:54:08 +0000 2026",
   "user": "SCMPNews",
@@ -7530,21 +7545,6 @@
   "lang": "en",
   "media": [],
   "url": "https://x.com/SCMPNews/status/2117045987327775039",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2117007541024768097",
-  "time": "Sun Nov 01 21:35:04 +0000 2026",
-  "user": "SCMPNews",
-  "name": "South China Morning Post",
-  "text": "Private jet carrying 9 crashes into Florida roadside, erupting in a massive fireball\nhttps://www.scmp.com/news/world/united-states-canada/article/3372912/private-jet-carrying-9-crashes-florida-roadside-erupting-massive-fireball",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 670,
-  "lang": "en",
-  "media": [],
-  "url": "https://x.com/SCMPNews/status/2117007541024768097",
   "src": "fxtwitter-v2"
  }
 ]
