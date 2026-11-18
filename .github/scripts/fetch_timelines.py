@@ -39,6 +39,9 @@ KEEP_LIMIT = {"baoshu88": 2000}
 # 需要多页翻页的账号：每页约20条，页数×20 ≈ 单轮可抓条数
 PAGED_ACCOUNTS = {"baoshu88": 7}
 
+# 已剔除账号：若旧 checkout 残留其数据文件，主动删除，防止被 git add 推回
+REMOVED_ACCOUNTS = {"RFI_Cn", "SCMPNews", "business", "SCMPChinese"}
+
 FEATURES = {
     "articles_preview_enabled": False,
     "c9s_tweet_anatomy_moderator_badge_enabled": True,
@@ -415,6 +418,13 @@ def main():
     os.makedirs(args.outdir, exist_ok=True)
 
     summary = []
+    # 启动即清理已剔除账号的残留数据文件（防止旧 checkout 把它们推回仓库）
+    for rem in REMOVED_ACCOUNTS:
+        fp = os.path.join(args.outdir, "{}.json".format(rem))
+        if os.path.exists(fp):
+            os.remove(fp)
+            log("清理已剔除账号残留: {}".format(fp))
+
     for h in accs:
         try:
             log("=== @{}".format(h))
