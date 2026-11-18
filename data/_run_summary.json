@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-18T05:37:36Z",
+ "ran_at": "2026-11-18T06:05:40Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -12,11 +12,12 @@
   },
   {
    "handle": "dmjk001",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "fxtwitter-v2",
+   "new": 2,
+   "total": 294,
+   "cn": 257,
+   "cn_new": 1
   },
   {
    "handle": "baoshu88",
@@ -31,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 306,
-   "cn": 297,
-   "cn_new": 0
+   "new": 1,
+   "total": 307,
+   "cn": 298,
+   "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
@@ -49,7 +50,7 @@
    "handle": "SCMPNews",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 1,
    "total": 500,
    "cn": 0,
    "cn_new": 0
@@ -58,7 +59,7 @@
    "handle": "business",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 7,
+   "new": 6,
    "total": 500,
    "cn": 2,
    "cn_new": 0
@@ -77,8 +78,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 155,
-   "cn": 155,
+   "total": 156,
+   "cn": 156,
    "cn_new": 1
   },
   {
@@ -157,10 +158,10 @@
    "handle": "Kay2289123",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 17,
-   "cn": 17,
-   "cn_new": 0
+   "new": 1,
+   "total": 18,
+   "cn": 18,
+   "cn_new": 1
   },
   {
    "handle": "maojietrading",
@@ -229,10 +230,10 @@
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 18,
-   "cn": 18,
-   "cn_new": 0
+   "new": 1,
+   "total": 19,
+   "cn": 19,
+   "cn_new": 1
   },
   {
    "handle": "bboczeng",
@@ -264,19 +265,20 @@
   {
    "handle": "traders18",
    "ok": true,
-   "src": "guest-gql",
-   "new": 40,
+   "src": "fxtwitter-v2",
+   "new": 0,
    "total": 69,
    "cn": 69,
-   "cn_new": 40
+   "cn_new": 0
   },
   {
    "handle": "yijiangren",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "fxtwitter-v2",
+   "new": 1,
+   "total": 29,
+   "cn": 26,
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
@@ -327,10 +329,10 @@
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 61,
-   "cn": 60,
-   "cn_new": 0
+   "new": 1,
+   "total": 62,
+   "cn": 61,
+   "cn_new": 1
   },
   {
    "handle": "brantchinesefn",

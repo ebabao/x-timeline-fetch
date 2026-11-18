@@ -1,5 +1,22 @@
 [
  {
+  "id": "2122934039925670201",
+  "time": "Wed Nov 18 06:04:51 +0000 2026",
+  "user": "xingpt",
+  "name": "XinGPT🐶",
+  "text": "为什么我卖了Circle（大概在财报前后全部清仓，订阅频道已经提示）：\n\nCircle的北极星指标是稳定币的发行量，T-Bills收益率和发行量从22年开始显著负相关，因为T-bill收益率更高吸引了资金去买债而不是持有不直接分发收益的稳定币（这也是Clarity Act的核心争议点，如果让稳定币变相发收益，被Genius Act规定的不能派息的限制就被突破了）。\n\nCircle这个公司如果既没有收益发放的吸引力去增加TVL，支付上又没有类似Tether有灰产这种强需求的长期（所谓Agent支付，x402似乎还是空中楼阁）；那么USDC的稳定币发行量是很难上去的，Circle的业绩是很难上去的，三季报只能把Arc收入提前计价。\n\n那么什么时候我会考虑买回来呢？\n- 清晰法案的条款有利于Circle派发激励；\n- USDC真的找到支付或者类似DeFi的GTM新场景\n- Arc大获成功\n\n以上三个出现至少一个我才考虑买回，否则价格再低也不抄底，不以价格论买点。",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 140,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXYpOBRa0AAhr51.jpg?name=orig"
+  ],
+  "url": "https://x.com/xingpt/status/2122934039925670201",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2122725463449829707",
   "time": "Tue Nov 17 16:16:03 +0000 2026",
   "user": "xingpt",
