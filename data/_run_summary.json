@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-19T03:38:44Z",
+ "ran_at": "2026-11-19T04:08:55Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -14,7 +14,7 @@
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 306,
    "cn": 267,
    "cn_new": 0
@@ -22,7 +22,7 @@
   {
    "handle": "baoshu88",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 180,
    "cn": 180,
@@ -31,27 +31,27 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 1,
+   "src": "guest-gql",
+   "new": 0,
    "total": 339,
    "cn": 329,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 129,
-   "cn": 112,
-   "cn_new": 0
+   "new": 1,
+   "total": 130,
+   "cn": 113,
+   "cn_new": 1
   },
   {
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 254,
+   "total": 255,
    "cn": 0,
    "cn_new": 0
   },
@@ -59,19 +59,19 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 161,
-   "cn": 161,
-   "cn_new": 0
+   "new": 1,
+   "total": 162,
+   "cn": 162,
+   "cn_new": 1
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 252,
-   "cn": 252,
-   "cn_new": 0
+   "new": 1,
+   "total": 253,
+   "cn": 253,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -103,11 +103,11 @@
   {
    "handle": "qinbafrank",
    "ok": true,
-   "src": "guest-gql",
-   "new": 0,
-   "total": 69,
-   "cn": 68,
-   "cn_new": 0
+   "src": "fxtwitter-v2",
+   "new": 1,
+   "total": 70,
+   "cn": 69,
+   "cn_new": 1
   },
   {
    "handle": "tychozzz",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 61,
-   "cn": 59,
-   "cn_new": 0
+   "new": 1,
+   "total": 62,
+   "cn": 60,
+   "cn_new": 1
   },
   {
    "handle": "Kay2289123",
@@ -213,8 +213,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 3,
-   "total": 183,
-   "cn": 175,
+   "total": 186,
+   "cn": 178,
    "cn_new": 3
   },
   {
@@ -248,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 39,
-   "cn": 36,
-   "cn_new": 0
+   "new": 2,
+   "total": 41,
+   "cn": 38,
+   "cn_new": 2
   },
   {
    "handle": "octopusycc",
