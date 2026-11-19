@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-19T00:42:08Z",
+ "ran_at": "2026-11-19T01:12:08Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -14,10 +14,10 @@
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 0,
    "total": 305,
    "cn": 267,
-   "cn_new": 3
+   "cn_new": 0
   },
   {
    "handle": "baoshu88",
@@ -33,8 +33,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 333,
-   "cn": 323,
+   "total": 334,
+   "cn": 324,
    "cn_new": 1
   },
   {
@@ -50,8 +50,8 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 250,
+   "new": 1,
+   "total": 251,
    "cn": 0,
    "cn_new": 0
   },
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 249,
    "cn": 249,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 28,
-   "cn": 27,
-   "cn_new": 0
+   "new": 1,
+   "total": 29,
+   "cn": 28,
+   "cn_new": 1
   },
   {
    "handle": "tychozzz",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 61,
    "cn": 59,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Kay2289123",
@@ -194,24 +194,24 @@
    "handle": "ArtofSpecuycky",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 16,
    "cn": 15,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 60,
-   "cn": 60,
-   "cn_new": 0
+   "new": 1,
+   "total": 61,
+   "cn": 61,
+   "cn_new": 1
   },
   {
    "handle": "bboczeng",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 178,
    "cn": 170,
@@ -222,8 +222,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 30,
-   "cn": 27,
+   "total": 31,
+   "cn": 28,
    "cn_new": 1
   },
   {
