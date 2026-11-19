@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-19T12:23:58Z",
+ "ran_at": "2026-11-19T12:53:46Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -12,12 +12,11 @@
   },
   {
    "handle": "dmjk001",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
    "new": 0,
-   "total": 314,
-   "cn": 273,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "baoshu88",
@@ -33,17 +32,18 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 373,
-   "cn": 362,
+   "total": 374,
+   "cn": 363,
    "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 136,
+   "cn": 119,
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
@@ -66,11 +66,11 @@
   {
    "handle": "bbcchinese",
    "ok": true,
-   "src": "guest-gql",
-   "new": 0,
-   "total": 265,
-   "cn": 265,
-   "cn_new": 0
+   "src": "fxtwitter-v2",
+   "new": 1,
+   "total": 266,
+   "cn": 266,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -84,7 +84,7 @@
   {
    "handle": "artinmemes",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 61,
    "cn": 61,
@@ -139,10 +139,10 @@
    "handle": "maojietrading",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 65,
-   "cn": 65,
-   "cn_new": 0
+   "new": 1,
+   "total": 66,
+   "cn": 66,
+   "cn_new": 1
   },
   {
    "handle": "wufantouzi",
@@ -220,10 +220,10 @@
    "handle": "darrencao2024",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 34,
-   "cn": 31,
-   "cn_new": 0
+   "new": 1,
+   "total": 35,
+   "cn": 32,
+   "cn_new": 1
   },
   {
    "handle": "LucyBuilding",
@@ -238,10 +238,10 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 86,
    "cn": 86,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "yijiangren",
@@ -256,10 +256,10 @@
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 103,
    "cn": 100,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "hanking66",
