@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-19T14:49:52Z",
+ "ran_at": "2026-11-19T15:19:39Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 2,
    "total": 500,
    "cn": 497,
-   "cn_new": 0
+   "cn_new": 2
   },
   {
    "handle": "dmjk001",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 375,
-   "cn": 364,
-   "cn_new": 0
+   "new": 2,
+   "total": 377,
+   "cn": 366,
+   "cn_new": 2
   },
   {
    "handle": "CrushTheShorts",
@@ -50,8 +50,8 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 263,
+   "new": 1,
+   "total": 264,
    "cn": 0,
    "cn_new": 0
   },
@@ -86,10 +86,10 @@
    "handle": "artinmemes",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 61,
-   "cn": 61,
-   "cn_new": 0
+   "new": 1,
+   "total": 62,
+   "cn": 62,
+   "cn_new": 1
   },
   {
    "handle": "TJ_Research",
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 50,
-   "cn": 50,
-   "cn_new": 0
+   "new": 1,
+   "total": 51,
+   "cn": 51,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 80,
-   "cn": 78,
-   "cn_new": 0
+   "new": 2,
+   "total": 82,
+   "cn": 80,
+   "cn_new": 2
   },
   {
    "handle": "peng_hellen",
@@ -203,10 +203,10 @@
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 64,
-   "cn": 64,
-   "cn_new": 1
+   "new": 2,
+   "total": 66,
+   "cn": 66,
+   "cn_new": 2
   },
   {
    "handle": "bboczeng",
@@ -257,10 +257,10 @@
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 104,
-   "cn": 101,
-   "cn_new": 0
+   "new": 1,
+   "total": 105,
+   "cn": 102,
+   "cn_new": 1
   },
   {
    "handle": "hanking66",
@@ -302,10 +302,10 @@
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 79,
    "cn": 78,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "brantchinesefn",
