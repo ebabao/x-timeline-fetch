@@ -1,5 +1,37 @@
 [
  {
+  "id": "2123286657013313654",
+  "time": "Thu Nov 19 05:26:02 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "彭博：Anthropic 股票在灰色市场显示涨幅超过 20%",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 969,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXdt4x_akAAbw2g.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2123286657013313654",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123286227734667656",
+  "time": "Thu Nov 19 05:24:20 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "韩国监管机构要求金融公司报告人工智能风险敞口。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 866,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/dmjk001/status/2123286227734667656",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123277185482113140",
   "time": "Thu Nov 19 04:48:24 +0000 2026",
   "user": "dmjk001",

@@ -1,5 +1,39 @@
 [
  {
+  "id": "2123284100845129994",
+  "time": "Thu Nov 19 05:15:53 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "朝鲜（北韩）领导人金正恩周日至周一偕同家人及劳动党官员，前往靠近中国边境的北部观光区视察。\n\n官方发布的画面显示，其女儿金主爱在滑雪时未佩戴安全帽。\n\n此次访问正值白宫和克里姆林宫先后释出讯号，暗示可能与金正恩举行会谈之际。",
+  "reply": 4,
+  "like": 3,
+  "rt": 0,
+  "view": 5108,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2123255919454887936/vid/avc1/608x1080/fta8LMpkaQiJvDLm.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2123284100845129994",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123283709294219431",
+  "time": "Thu Nov 19 05:14:19 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "美国总统特朗普周四上午出席亚太经合组织（APEC）全体会议，中国国家主席习近平发言时，特朗普被拍摄到闭着双眼。\n\n特朗普、习近平与俄罗斯总统普京预计于周四稍晚举行三方会谈。",
+  "reply": 8,
+  "like": 8,
+  "rt": 0,
+  "view": 4802,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2123283433724252160/vid/avc1/1080x1920/Yg2ofJrvv-z48pO5.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2123283709294219431",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123280107183788081",
   "time": "Thu Nov 19 05:00:00 +0000 2026",
   "user": "bbcchinese",
