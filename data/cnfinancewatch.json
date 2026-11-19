@@ -1,5 +1,50 @@
 [
  {
+  "id": "2123554580827111805",
+  "time": "Thu Nov 19 23:10:40 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "伯克希尔在2004-08年间卖出了长期（15-20年）欧洲式看跌期权，标的为标普500指数加上3个外国指数（不是SPY期权），收取了49亿美元的权利金并进行了投资。市场在07-09年间下跌约57%，造成巨大的账面损失，但没有强制提前结算。大多数合约到期时价外或仅需极少支付；伯克希尔仅从权利金中就保留了约40亿美元以上（加上浮存金回报）。\n\n散户无法匹配这种规模、信用条款或20年投资期限，而不承受抵押品压力。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 177,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2123554580827111805",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123553504082198551",
+  "time": "Thu Nov 19 23:06:23 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "想要购买 $ANT 的投资者需要现金。他们将从哪里获得？\n\n通过出售他们已持有的资产。\n\nant 正在抽取股市流动性。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 355,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2123553504082198551",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123553053102186556",
+  "time": "Thu Nov 19 23:04:36 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "隔夜美股把Anthropic上市的热度交易了一遍，三大指数还是高开低走，均跌超2%。\n\n道指收49097.06点，跌2.19%，创5月5日以来最低；标普500跌2.02%报7175.83点，连跌六个交易日，和纳指一起写下4月以来收盘新低；纳指跌2.25%报23879.20点。\n\nVIX收涨15.8%报28.44，盘中摸到29.13。\n\nA股昨天已经先走完结构分化：上证跌0.28%报3577.62点，深证跌0.71%，创业板跌0.79%，只有\n\n#科创50逆势涨1.83%报1270.78点。两市成交约1.31万亿元，再创年内地量，上涨约649只、下跌约4876只，涨停26只、跌停72只。\n\n今天更不宜把昨日晶圆和家电的收盘阳线当成加仓信号。\n\n富时A50期指夜盘收跌1.12%报12553点，指数端有低开压力。\n\n相对还能看的，仍是 #银行红利和家电龙头的高位回撤，而不是已经靠近20日高点的半导体制造。",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 477,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2123553053102186556",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123438522145313098",
   "time": "Thu Nov 19 15:29:29 +0000 2026",
   "user": "cnfinancewatch",
@@ -7640,54 +7685,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2118148940868812886",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118146356523176085",
-  "time": "Thu Nov 05 01:00:19 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "美股和A股都需要暂停IPO\n\n这是救市良策\n\nA股应该暂停了，今天听说中国另一家跟长鑫等量的存储公司暂停上市",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 1688,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2118146356523176085",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118146054147448929",
-  "time": "Thu Nov 05 00:59:07 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "我之前说暂停ipo才能止住下跌！\n\n昨天小作文出来，今天差不多实锤：\n\n中国最大的存储芯片公司之一长江存储科技（YMTC）的IPO将因市场波动而暂停。",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 1739,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2118146054147448929",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118123530810470622",
-  "time": "Wed Nov 04 23:29:37 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "AI硬件（费半）业绩好恰恰是它的原罪\n\n是下跌的原因，越是业绩好，越是让市场不敢按照业绩估值\n\n市场用周期股定义AI硬件，在业绩好的时候兑现股价出高点，是因为他们觉得这个业绩不可持续，高增长已经见顶\n\n现在是要你证明这个增长同比环比都不能衰退",
-  "reply": 0,
-  "like": 3,
-  "rt": 0,
-  "view": 3305,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HWUWHrbaEAA2obt.jpg?name=orig",
-   "https://pbs.twimg.com/media/HWUWHrcbsAEoKTp.jpg?name=orig"
-  ],
-  "url": "https://x.com/cnfinancewatch/status/2118123530810470622",
   "src": "fxtwitter-v2"
  }
 ]
