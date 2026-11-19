@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-19T07:11:06Z",
+ "ran_at": "2026-11-19T07:40:32Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -14,10 +14,10 @@
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 313,
    "cn": 272,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "baoshu88",
@@ -32,25 +32,25 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 348,
-   "cn": 338,
-   "cn_new": 0
+   "new": 4,
+   "total": 352,
+   "cn": 342,
+   "cn_new": 4
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 132,
    "cn": 115,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 258,
    "cn": 0,
    "cn_new": 0
@@ -68,19 +68,19 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 260,
    "cn": 260,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 26,
-   "cn": 25,
-   "cn_new": 0
+   "new": 1,
+   "total": 27,
+   "cn": 26,
+   "cn_new": 1
   },
   {
    "handle": "artinmemes",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
-   "total": 193,
-   "cn": 185,
-   "cn_new": 2
+   "new": 4,
+   "total": 197,
+   "cn": 189,
+   "cn_new": 4
   },
   {
    "handle": "darrencao2024",
@@ -239,10 +239,10 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 78,
-   "cn": 78,
-   "cn_new": 0
+   "new": 3,
+   "total": 81,
+   "cn": 81,
+   "cn_new": 3
   },
   {
    "handle": "yijiangren",
@@ -266,10 +266,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 38,
    "cn": 36,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "SupFin",
@@ -301,7 +301,7 @@
   {
    "handle": "xingpt",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 75,
    "cn": 74,
