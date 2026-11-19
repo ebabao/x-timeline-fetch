@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-19T21:44:22Z",
+ "ran_at": "2026-11-19T22:15:29Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -85,7 +85,7 @@
   {
    "handle": "artinmemes",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 63,
    "cn": 63,
@@ -139,7 +139,7 @@
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 72,
    "cn": 72,
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 91,
    "cn": 89,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -192,11 +192,12 @@
   },
   {
    "handle": "ArtofSpecuycky",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 19,
+   "cn": 18,
+   "cn_new": 0
   },
   {
    "handle": "tig88411109",
@@ -212,8 +213,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 3,
-   "total": 235,
-   "cn": 226,
+   "total": 238,
+   "cn": 229,
    "cn_new": 3
   },
   {
