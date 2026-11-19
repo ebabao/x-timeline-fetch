@@ -1,5 +1,20 @@
 [
  {
+  "id": "2123555222039756900",
+  "time": "Thu Nov 19 23:13:13 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "危机中，人们会涌向美元作为避险资产。我希望手头有现金，以便在价格下跌时低价买入资产。",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1169,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2123555222039756900",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123554580827111805",
   "time": "Thu Nov 19 23:10:40 +0000 2026",
   "user": "cnfinancewatch",
@@ -7670,21 +7685,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2118149318121333106",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118148940868812886",
-  "time": "Thu Nov 05 01:10:35 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "$INTC首席执行官通过其家族信托以64.7美元的价格购买了价值971万美元的英特尔股票。",
-  "reply": 1,
-  "like": 0,
-  "rt": 0,
-  "view": 1247,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2118148940868812886",
   "src": "fxtwitter-v2"
  }
 ]
