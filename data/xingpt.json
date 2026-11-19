@@ -1,5 +1,25 @@
 [
  {
+  "id": "2123303423982637520",
+  "time": "Thu Nov 19 06:32:40 +0000 2026",
+  "user": "xingpt",
+  "name": "XinGPT🐶",
+  "text": "【老黄才离开一周，台积电就开始问英伟达要预收现金了？】\n\n起因是看到图1里图片这个消息，我去核实信息来源，发现这个博主Alexey（图2） 说的是老黄离开后，台积电开始跟台积电要求付现金。\n然后我一路跟着转推，看到最早的信息源头（图3）里的链接，点进去其实是个中文文章（图4）。\n\n原文是：找中国台湾晶圆代工厂台积电排产能，以后可能先看账上有没有钱。业界传出，台积电已经把客户的财务状况和数据中心盖到哪一步一起算进产能需求评估，按各家公司的资产负债表拟一个信用额度。\n\n所以实际上台积电收紧政策是对于行业所有公司的，当然也包括英伟达，在需求膨胀的情况下，优先安排能掏得起真金白银的客户当然优先安排，这可不是黄仁勋喝几顿大酒就能改变的，英伟达财务状况这么好，大概率仍然是台积电T0级别的客户。",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 279,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXd7ZMvaYAA7fP_.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXd7i2cawAA8aty.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXd74qfbUAApIg8.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXd8a3EaQAAk2hz.jpg?name=orig"
+  ],
+  "url": "https://x.com/xingpt/status/2123303423982637520",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123276957089669612",
   "time": "Thu Nov 19 04:47:29 +0000 2026",
   "user": "xingpt",
