@@ -1,5 +1,40 @@
 [
  {
+  "id": "2123588861687402538",
+  "time": "Fri Nov 20 01:26:53 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "#行情 A股开盘，上证指数低开1.41%，深证成指低开1.71%，创业板指低开2.15%。",
+  "reply": 0,
+  "like": 4,
+  "rt": 0,
+  "view": 1377,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2123588861687402538",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123585145567658294",
+  "time": "Fri Nov 20 01:12:07 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "继英伟达后，AMD成为被做空目标。Hunterbrook Capital发布调查报告，提出三大指控，质疑AMD存在与中国受美国制裁企业的业务关联，以及AI业务中存在潜在的循环融资风险。\n\n第一项指控是，被美国拉黑的中国服务器制造商浪潮信息，旗下服务器仍然在持续使用AMD的新版本固件。与Maginfra、Kaytus和Aivres的三家关联企业也使用了几乎相同的AMD固件。（Hunterbrook承认不能证明AMD违反了出口管制规定）\n\n第二项指控是，AMD与中国受制裁芯片企业存在收入联系。通过对比海光此前的招股书及财报，发现相关款项与AMD的知识产权授权费用记录吻合。推断AMD仍在从这两家中国合资企业获得知识产权授权收益。估算2021—2025 年累计支付约2.7亿美元，与AMD披露的同期约 2.63 亿美元授权收益接近。\n\n第三项指控是，AMD的AI业务可能存在循环融资。AMD向客户与合作伙伴作出的承诺规模已远超英伟达，而其现金储备却相对不足。警告如果围绕英伟达的相关风险持续发酵、演变为AI基础设施建设的一场更大危机，AMD将难以幸免。\n\nAMD盘中一度大跌11%，尾盘收窄跌幅，但盘后继续下跌。\n\nAMD对此回应称，Hunterbrook的指控歪曲了AMD的业务实践与合作关系。",
+  "reply": 2,
+  "like": 15,
+  "rt": 2,
+  "view": 4664,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2123580444113608704/vid/avc1/1532x1328/98wodbhdGs_IBJcb.mp4?tag=29",
+   "https://pbs.twimg.com/media/HXh6rgubYAARHWW.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXh6uDubcAA-D6a.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXh7_n3bYAAGKM_.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2123585145567658294",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123571348689805382",
   "time": "Fri Nov 20 00:17:18 +0000 2026",
   "user": "fxtrader",
