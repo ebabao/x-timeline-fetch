@@ -1,5 +1,37 @@
 [
  {
+  "id": "2123612601016111507",
+  "time": "Fri Nov 20 03:01:13 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "#行情 韩国KOSPI指数日内跌幅扩大至5%，触发SideCar机制，暂停程序化卖出报价的效力5分钟。",
+  "reply": 0,
+  "like": 2,
+  "rt": 0,
+  "view": 1061,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXiWZHiagAAKo3-.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2123612601016111507",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123610585174769970",
+  "time": "Fri Nov 20 02:53:12 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "#讨论 今年内，Anthropic会跌破发行价吗？ $ANT \n（2026年还剩28个交易日）",
+  "reply": 1,
+  "like": 2,
+  "rt": 0,
+  "view": 2160,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2123610585174769970",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123603996325937548",
   "time": "Fri Nov 20 02:27:02 +0000 2026",
   "user": "fxtrader",

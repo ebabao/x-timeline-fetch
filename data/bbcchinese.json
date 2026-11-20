@@ -1,5 +1,22 @@
 [
  {
+  "id": "2123606372009091416",
+  "time": "Fri Nov 20 02:36:28 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "美国总统特朗普被拍到伸手扶中国国家主席习近平走上扶梯。当时，各国领导人正在深圳出席亚太经合组织（APEC）峰会。\n\n美、中、俄领导人当天晚些时候举行了三方会谈。三国发表了和平宣言，承诺开展核对话。",
+  "reply": 4,
+  "like": 12,
+  "rt": 1,
+  "view": 5445,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2123605678514487296/vid/avc1/1080x1920/zWdOH7rSjvTydV3V.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2123606372009091416",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123576143072677951",
   "time": "Fri Nov 20 00:36:21 +0000 2026",
   "user": "bbcchinese",
