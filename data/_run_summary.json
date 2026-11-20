@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-20T06:33:00Z",
+ "ran_at": "2026-11-20T07:02:30Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 388,
-   "cn": 377,
-   "cn_new": 0
+   "new": 2,
+   "total": 390,
+   "cn": 379,
+   "cn_new": 2
   },
   {
    "handle": "CrushTheShorts",
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 95,
    "cn": 93,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -246,12 +246,11 @@
   },
   {
    "handle": "yijiangren",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
    "new": 0,
-   "total": 50,
-   "cn": 47,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "octopusycc",
