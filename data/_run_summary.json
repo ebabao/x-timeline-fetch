@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-20T01:38:49Z",
+ "ran_at": "2026-11-20T02:09:15Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 3,
    "total": 500,
    "cn": 497,
-   "cn_new": 0
+   "cn_new": 3
   },
   {
    "handle": "dmjk001",
@@ -31,11 +31,11 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 2,
+   "src": "guest-gql",
+   "new": 0,
    "total": 381,
    "cn": 370,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
@@ -59,10 +59,10 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 164,
-   "cn": 164,
-   "cn_new": 0
+   "new": 2,
+   "total": 166,
+   "cn": 166,
+   "cn_new": 2
   },
   {
    "handle": "bbcchinese",
@@ -76,11 +76,11 @@
   {
    "handle": "xiaomustock",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 29,
-   "cn": 28,
-   "cn_new": 0
+   "src": "guest-gql",
+   "new": 40,
+   "total": 69,
+   "cn": 68,
+   "cn_new": 40
   },
   {
    "handle": "artinmemes",
@@ -139,7 +139,7 @@
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 72,
    "cn": 72,
@@ -148,7 +148,7 @@
   {
    "handle": "wufantouzi",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 100,
    "cn": 100,
@@ -157,7 +157,7 @@
   {
    "handle": "RichTerry123",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 59,
    "cn": 43,
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 93,
    "cn": 91,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 255,
    "cn": 245,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "darrencao2024",
@@ -240,8 +240,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 95,
-   "cn": 95,
+   "total": 96,
+   "cn": 96,
    "cn_new": 1
   },
   {
