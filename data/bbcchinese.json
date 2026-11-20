@@ -1,5 +1,43 @@
 [
  {
+  "id": "2123720307366383787",
+  "time": "Fri Nov 20 10:09:12 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 1381,
+  "lang": null,
+  "media": [
+   "https://pbs.twimg.com/media/HXj4XIbbAAASWku.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXj4XIZbkAAW_QY.jpg?name=orig"
+  ],
+  "url": "https://x.com/bbcchinese/status/2123720307366383787",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123717991221403804",
+  "time": "Fri Nov 20 10:00:00 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "10月底，香港教育局公布小学创科课程草拟文件，提出小学二年级学生应该初步掌握以“汉语拼音输入法”（Pinyin）输入中文。过去，教育局没有规定学校应该教哪一种输入法，而仓颉及其简化版速成一直是港人常用选择。\n\n从仓颉到汉语拼音输入，表面是打字方式的选择，背后却涉及文化改变及语言系统转换。在港府积极推广学校用普通话教授中文科(普教中）的背景下，有反对声音质疑，引入拼音输入法是“消灭正体字”，亦有人担心会影响学童认字能力，甚至改变用语思维。\n\n有学者向BBC中文指出，输入法本质是一项工具，未必直接左右学童的语言能力。而比起输入法本身，学童早已改变的语言环境更值得关注。\n\n阅读报导：https://bbc.in/3V0v8Fh",
+  "reply": 2,
+  "like": 4,
+  "rt": 0,
+  "view": 3228,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXjsS05bMAA5QeQ.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXjsS05bUAAms6Y.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXjsS1EacAACkBQ.jpg?name=orig",
+   "https://pbs.twimg.com/media/HXjsS05aQAArrS7.jpg?name=orig"
+  ],
+  "url": "https://x.com/bbcchinese/status/2123717991221403804",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123700228952051877",
   "time": "Fri Nov 20 08:49:25 +0000 2026",
   "user": "bbcchinese",
