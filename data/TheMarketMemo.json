@@ -1,5 +1,37 @@
 [
  {
+  "id": "2123573889985122629",
+  "time": "Fri Nov 20 00:27:24 +0000 2026",
+  "user": "TheMarketMemo",
+  "name": "LEI",
+  "text": "小調查：經過2026年11月19日美股大跌之後，你目前的持倉情況（持有股票/ETF佔投資帳戶的百分比）：",
+  "reply": 2,
+  "like": 2,
+  "rt": 0,
+  "view": 2218,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/TheMarketMemo/status/2123573889985122629",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123572646050971707",
+  "time": "Fri Nov 20 00:22:27 +0000 2026",
+  "user": "TheMarketMemo",
+  "name": "LEI",
+  "text": "今天 $NVDA 跌至145元，更新一下我的看法：",
+  "reply": 5,
+  "like": 29,
+  "rt": 2,
+  "view": 4138,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXhx_Vwa0AA7bdV.jpg?name=orig"
+  ],
+  "url": "https://x.com/TheMarketMemo/status/2123572646050971707",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123547118459867566",
   "time": "Thu Nov 19 22:41:01 +0000 2026",
   "user": "TheMarketMemo",
