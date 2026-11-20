@@ -1,23 +1,22 @@
 {
- "ran_at": "2026-11-20T09:00:07Z",
+ "ran_at": "2026-11-20T09:30:35Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 500,
    "cn": 496,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "dmjk001",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
    "new": 0,
-   "total": 327,
-   "cn": 284,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "baoshu88",
@@ -32,10 +31,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 392,
-   "cn": 381,
-   "cn_new": 0
+   "new": 3,
+   "total": 395,
+   "cn": 384,
+   "cn_new": 3
   },
   {
    "handle": "CrushTheShorts",
@@ -51,7 +50,7 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 274,
+   "total": 275,
    "cn": 0,
    "cn_new": 0
   },
@@ -68,10 +67,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 273,
    "cn": 273,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -104,10 +103,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 76,
-   "cn": 75,
-   "cn_new": 0
+   "new": 2,
+   "total": 78,
+   "cn": 77,
+   "cn_new": 2
   },
   {
    "handle": "tychozzz",
@@ -131,10 +130,10 @@
    "handle": "Kay2289123",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 18,
-   "cn": 18,
-   "cn_new": 0
+   "new": 1,
+   "total": 19,
+   "cn": 19,
+   "cn_new": 1
   },
   {
    "handle": "maojietrading",
@@ -284,10 +283,10 @@
    "handle": "LeoYuen13",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 60,
    "cn": 60,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "AntonLaVay",
@@ -302,10 +301,10 @@
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 83,
    "cn": 82,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "brantchinesefn",
