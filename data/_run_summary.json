@@ -1,11 +1,11 @@
 {
- "ran_at": "2026-11-20T04:37:40Z",
+ "ran_at": "2026-11-20T05:08:47Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 1,
    "total": 500,
    "cn": 496,
    "cn_new": 1
@@ -32,18 +32,18 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 387,
-   "cn": 376,
-   "cn_new": 0
+   "new": 1,
+   "total": 388,
+   "cn": 377,
+   "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 139,
-   "cn": 122,
+   "total": 140,
+   "cn": 123,
    "cn_new": 1
   },
   {
@@ -51,7 +51,7 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 270,
+   "total": 271,
    "cn": 0,
    "cn_new": 0
   },
@@ -59,10 +59,10 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 168,
-   "cn": 168,
-   "cn_new": 0
+   "new": 1,
+   "total": 169,
+   "cn": 169,
+   "cn_new": 1
   },
   {
    "handle": "bbcchinese",
@@ -94,7 +94,7 @@
   {
    "handle": "TJ_Research",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 78,
    "cn": 71,
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 71,
    "cn": 69,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Kay2289123",
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 93,
-   "cn": 91,
-   "cn_new": 0
+   "new": 1,
+   "total": 94,
+   "cn": 92,
+   "cn_new": 1
   },
   {
    "handle": "peng_hellen",
@@ -203,19 +203,19 @@
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 66,
-   "cn": 66,
-   "cn_new": 0
+   "new": 1,
+   "total": 67,
+   "cn": 67,
+   "cn_new": 1
   },
   {
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 7,
-   "total": 269,
-   "cn": 257,
-   "cn_new": 7
+   "new": 2,
+   "total": 271,
+   "cn": 259,
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
