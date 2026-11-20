@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-20T16:58:54Z",
+ "ran_at": "2026-11-20T17:28:42Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 1,
    "total": 500,
    "cn": 496,
-   "cn_new": 0
+   "cn_new": 1
   },
   {
    "handle": "dmjk001",
@@ -67,11 +67,11 @@
   {
    "handle": "bbcchinese",
    "ok": true,
-   "src": "guest-gql",
-   "new": 0,
-   "total": 278,
-   "cn": 277,
-   "cn_new": 0
+   "src": "fxtwitter-v2",
+   "new": 1,
+   "total": 279,
+   "cn": 278,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -95,10 +95,10 @@
    "handle": "TJ_Research",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 78,
-   "cn": 71,
-   "cn_new": 0
+   "new": 1,
+   "total": 79,
+   "cn": 72,
+   "cn_new": 1
   },
   {
    "handle": "qinbafrank",
@@ -139,7 +139,7 @@
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 75,
    "cn": 75,
@@ -167,10 +167,10 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 78,
-   "cn": 69,
-   "cn_new": 1
+   "new": 3,
+   "total": 81,
+   "cn": 71,
+   "cn_new": 2
   },
   {
    "handle": "Balder13946731",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 295,
-   "cn": 283,
-   "cn_new": 3
+   "new": 1,
+   "total": 296,
+   "cn": 284,
+   "cn_new": 1
   },
   {
    "handle": "darrencao2024",
@@ -248,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 53,
    "cn": 49,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
@@ -302,19 +302,19 @@
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 83,
-   "cn": 82,
-   "cn_new": 0
+   "new": 1,
+   "total": 84,
+   "cn": 83,
+   "cn_new": 1
   },
   {
    "handle": "brantchinesefn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 27,
    "cn": 27,
-   "cn_new": 1
+   "cn_new": 0
   }
  ]
 }
