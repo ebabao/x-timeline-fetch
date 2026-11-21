@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T21:33:19Z",
+ "ran_at": "2026-11-21T22:02:34Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 83,
    "cn": 81,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Kay2289123",
