@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T21:03:39Z",
+ "ran_at": "2026-11-21T21:33:19Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 82,
-   "cn": 80,
-   "cn_new": 0
+   "new": 1,
+   "total": 83,
+   "cn": 81,
+   "cn_new": 1
   },
   {
    "handle": "Kay2289123",
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 112,
    "cn": 110,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
