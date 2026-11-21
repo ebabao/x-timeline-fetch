@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-21T04:53:38Z",
+ "ran_at": "2026-11-21T05:24:21Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 500,
    "cn": 496,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "dmjk001",
@@ -31,7 +31,7 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 402,
    "cn": 391,
@@ -39,12 +39,11 @@
   },
   {
    "handle": "CrushTheShorts",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
    "new": 0,
-   "total": 149,
-   "cn": 130,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "ReutersChina",
@@ -58,7 +57,7 @@
   {
    "handle": "nytchinese",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 171,
    "cn": 171,
@@ -86,15 +85,15 @@
    "handle": "artinmemes",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 64,
-   "cn": 64,
-   "cn_new": 0
+   "new": 1,
+   "total": 65,
+   "cn": 65,
+   "cn_new": 1
   },
   {
    "handle": "TJ_Research",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 84,
    "cn": 76,
@@ -113,15 +112,15 @@
    "handle": "tychozzz",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 66,
    "cn": 65,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "TheMarketMemo",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 82,
    "cn": 80,
@@ -212,10 +211,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 358,
    "cn": 344,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "darrencao2024",
@@ -248,10 +247,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 53,
-   "cn": 49,
-   "cn_new": 0
+   "new": 1,
+   "total": 54,
+   "cn": 50,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
