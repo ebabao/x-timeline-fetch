@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T19:07:41Z",
+ "ran_at": "2026-11-21T19:38:18Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -39,11 +39,12 @@
   },
   {
    "handle": "CrushTheShorts",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 151,
+   "cn": 132,
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
@@ -147,7 +148,7 @@
   {
    "handle": "wufantouzi",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 111,
    "cn": 111,
