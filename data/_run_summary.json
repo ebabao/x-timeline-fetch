@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T04:22:35Z",
+ "ran_at": "2026-11-21T04:53:38Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -50,7 +50,7 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 281,
    "cn": 0,
    "cn_new": 0
@@ -85,7 +85,7 @@
   {
    "handle": "artinmemes",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 64,
    "cn": 64,
@@ -94,7 +94,7 @@
   {
    "handle": "TJ_Research",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 84,
    "cn": 76,
@@ -114,14 +114,14 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 65,
-   "cn": 64,
+   "total": 66,
+   "cn": 65,
    "cn_new": 1
   },
   {
    "handle": "TheMarketMemo",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 82,
    "cn": 80,
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 356,
-   "cn": 342,
-   "cn_new": 1
+   "new": 2,
+   "total": 358,
+   "cn": 344,
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -239,10 +239,10 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 0,
    "total": 108,
    "cn": 108,
-   "cn_new": 3
+   "cn_new": 0
   },
   {
    "handle": "yijiangren",
@@ -264,11 +264,12 @@
   },
   {
    "handle": "hanking66",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 67,
+   "cn": 65,
+   "cn_new": 0
   },
   {
    "handle": "SupFin",
@@ -283,19 +284,19 @@
    "handle": "LeoYuen13",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 62,
    "cn": 62,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 74,
    "cn": 73,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xingpt",
