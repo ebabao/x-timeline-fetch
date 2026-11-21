@@ -1,5 +1,22 @@
 [
  {
+  "id": "2123962416254038363",
+  "time": "Sat Nov 21 02:11:16 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "彭博：Anthropic PBC 的一名研究人员声称，已使用该公司的人工智能软件解决了著名的数论难题——黎曼猜想。\n数学家 Levent Alpöge 在其个人网站上发布了一份说明和代码，包括 Andrew Sutherland 在内的其他数学家已在各自电脑上验证了他的工作。\n据 Sutherland 和 Noah Giansiracusa 等专家称，如果得到证实，Alpöge 的工作将标志着人工智能的一项重大成就，并对数学行业及其他职业产生潜在影响。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 425,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXnUd6kaMAAvbDm.png?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2123962416254038363",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123940704980549861",
   "time": "Sat Nov 21 00:44:59 +0000 2026",
   "user": "dmjk001",
