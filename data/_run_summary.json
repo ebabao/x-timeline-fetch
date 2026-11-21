@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T11:17:42Z",
+ "ran_at": "2026-11-21T11:47:11Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -129,11 +129,12 @@
   },
   {
    "handle": "Kay2289123",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 23,
+   "cn": 23,
+   "cn_new": 0
   },
   {
    "handle": "maojietrading",
@@ -148,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 105,
-   "cn": 105,
-   "cn_new": 0
+   "new": 1,
+   "total": 106,
+   "cn": 106,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -166,10 +167,10 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 95,
    "cn": 85,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Balder13946731",
@@ -238,10 +239,10 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 111,
    "cn": 111,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "yijiangren",
