@@ -1,5 +1,22 @@
 [
  {
+  "id": "2124117578545066011",
+  "time": "Sat Nov 21 12:27:49 +0000 2026",
+  "user": "Brand",
+  "name": "BrandAI",
+  "text": "Walmart’s U.S. advertising business grew 37% year over year, signaling that the retailer is following Amazon’s playbook by turning its vast customer traffic and physical and digital shelf space into a high-margin marketing channel. Consumers come for low prices and convenience, while brands pay to be seen at the precise moment purchase decisions are made.\n\nOn the surface, Walmart $WMT and Amazon $AMZN are converging on a similar retail model. Both attract customers through products and delivery, then monetize that traffic through third-party seller commissions, fulfillment services, memberships, and advertising. As BrandLLM points out, both offer brands a one-stop, closed-loop ecosystem covering sales, fulfillment, advertising, and performance attribution.\n\nYet their profit engines remain fundamentally different. At the corporate level, Amazon has a unique cash cow. AWS generated approximately 63% of its operating income in the third quarter of 2026. Walmart’s strongest differentiator, by contrast, is its extensive physical-store network. Although the two companies generate revenue on a similar scale, Amazon’s advertising business remains approximately 11 times larger than Walmart’s.",
+  "reply": 1,
+  "like": 2,
+  "rt": 1,
+  "view": 278,
+  "lang": "en",
+  "media": [
+   "https://pbs.twimg.com/media/HXphriYWYAAXP99.jpg?name=orig"
+  ],
+  "url": "https://x.com/Brand/status/2124117578545066011",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2123921972522348595",
   "time": "Fri Nov 20 23:30:33 +0000 2026",
   "user": "Brand",
@@ -14,6 +31,40 @@
    "https://video.twimg.com/amplify_video/2123921792506920960/vid/avc1/1320x642/tB4XAb2RH64zLnYQ.mp4?tag=29"
   ],
   "url": "https://x.com/Brand/status/2123921972522348595",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123903898394009923",
+  "time": "Fri Nov 20 22:18:44 +0000 2026",
+  "user": "FinWorld",
+  "name": "金融世界 Financial World",
+  "text": "美股到达极度恐慌！CNN恐惧与贪婪指数跌至极度恐慌区间，科技股持续承压。市场越恐慌，越值得研究哪些股票已经跌出了估值吸引力。来看看美国半导体ETF $SMH 的25只成分股，估值差距相当惊人：美光远期PE仅4.0倍，SK海力士4.3倍，英伟达11.0倍，台积电17.0倍，高通17.2倍，博通19.6倍。另一边，英特尔37.4倍，AMD38.8倍，ARM更是高达79.4倍。\n\n最值得关注的是英伟达。作为AI算力产业的重要受益者，它的远期PE只有AMD的约28%，比台积电、博通都低。当然，存储芯片公司的超低PE也有原因：行业正处于盈利周期，市场担心未来高利润难以维持。如果准备趁着恐慌布局半导体，重点可以放在英伟达、美光、SK海力士和台积电。英伟达看AI求和盈利增长能否兑现，美光和海力士看存储价格与利润周期，台积电看先进制程产能和定价能力。",
+  "reply": 8,
+  "like": 48,
+  "rt": 20,
+  "view": 15169,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXmfDNuXsAA7R5W.jpg?name=orig"
+  ],
+  "url": "https://x.com/FinWorld/status/2123903898394009923",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2123591971000442990",
+  "time": "Fri Nov 20 01:39:14 +0000 2026",
+  "user": "CEOBriefing",
+  "name": "总裁简报 CEO Briefing",
+  "text": "突发：AI排华事件正逐渐失控…如今，黄仁勋需要解释的，恐怕不仅是GPU架构那么简单。除了卢比奥、贝森特等政客广为人知，离奇的是，还有很多学者和作家参与。譬如哈佛教授Joseph G. Allen，在X上写的是“黄仁勋才是那个间谍”。这种严重指控，是在没有任何证据的情况下发生的。",
+  "reply": 2,
+  "like": 33,
+  "rt": 6,
+  "view": 7903,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2123590893722570752/vid/avc1/1320x668/lKJ5qQhipfQkCsWr.mp4?tag=29"
+  ],
+  "url": "https://x.com/CEOBriefing/status/2123591971000442990",
   "src": "fxtwitter-v2"
  },
  {

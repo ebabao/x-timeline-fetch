@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T12:16:07Z",
+ "ran_at": "2026-11-21T12:45:49Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 282,
    "cn": 281,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -275,10 +275,10 @@
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 64,
-   "cn": 60,
-   "cn_new": 0
+   "new": 3,
+   "total": 67,
+   "cn": 62,
+   "cn_new": 2
   },
   {
    "handle": "LeoYuen13",
