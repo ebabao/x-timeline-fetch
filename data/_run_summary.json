@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-21T22:59:50Z",
+ "ran_at": "2026-11-21T23:31:34Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -177,8 +177,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 113,
-   "cn": 111,
+   "total": 114,
+   "cn": 112,
    "cn_new": 1
   },
   {
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 372,
-   "cn": 357,
-   "cn_new": 3
+   "new": 1,
+   "total": 373,
+   "cn": 358,
+   "cn_new": 1
   },
   {
    "handle": "darrencao2024",
@@ -238,7 +238,7 @@
   {
    "handle": "traders18",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 112,
    "cn": 112,
