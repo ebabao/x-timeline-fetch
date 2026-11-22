@@ -1,5 +1,20 @@
 [
  {
+  "id": "2124501274683142374",
+  "time": "Sun Nov 22 13:52:29 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "https://x.com/cnfinancewatch/status/2124494621887922518?a=OSS7qHfcWI953mhitvg&s=20",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 320,
+  "lang": null,
+  "media": [],
+  "url": "https://x.com/cnfinancewatch/status/2124501274683142374",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2124497023399612773",
   "time": "Sun Nov 22 13:35:36 +0000 2026",
   "user": "cnfinancewatch",
@@ -7661,21 +7676,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2119003204751130748",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118978207273931051",
-  "time": "Sat Nov 07 08:05:47 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "这个有意思。全部一分半不能生成完整视频吗？",
-  "reply": 1,
-  "like": 0,
-  "rt": 0,
-  "view": 2390,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2118978207273931051",
   "src": "fxtwitter-v2"
  }
 ]
