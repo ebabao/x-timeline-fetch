@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-22T09:46:34Z",
+ "ran_at": "2026-11-22T10:16:57Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -12,17 +12,16 @@
   },
   {
    "handle": "dmjk001",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
    "new": 0,
-   "total": 339,
-   "cn": 295,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "baoshu88",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 182,
    "cn": 182,
@@ -41,10 +40,10 @@
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 153,
    "cn": 133,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
@@ -68,10 +67,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 285,
-   "cn": 284,
-   "cn_new": 0
+   "new": 1,
+   "total": 286,
+   "cn": 285,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -149,10 +148,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 111,
-   "cn": 111,
-   "cn_new": 0
+   "new": 2,
+   "total": 113,
+   "cn": 113,
+   "cn_new": 2
   },
   {
    "handle": "RichTerry123",
@@ -212,10 +211,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 440,
-   "cn": 424,
-   "cn_new": 0
+   "new": 3,
+   "total": 443,
+   "cn": 427,
+   "cn_new": 3
   },
   {
    "handle": "darrencao2024",
@@ -248,10 +247,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 55,
-   "cn": 51,
-   "cn_new": 0
+   "new": 2,
+   "total": 57,
+   "cn": 53,
+   "cn_new": 2
   },
   {
    "handle": "octopusycc",
@@ -266,10 +265,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 69,
-   "cn": 67,
-   "cn_new": 0
+   "new": 2,
+   "total": 71,
+   "cn": 69,
+   "cn_new": 2
   },
   {
    "handle": "SupFin",
