@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-22T05:23:13Z",
+ "ran_at": "2026-11-22T05:52:36Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 1,
    "total": 500,
    "cn": 496,
-   "cn_new": 0
+   "cn_new": 1
   },
   {
    "handle": "dmjk001",
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 284,
-   "cn": 283,
-   "cn_new": 0
+   "new": 1,
+   "total": 285,
+   "cn": 284,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -95,10 +95,10 @@
    "handle": "TJ_Research",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 87,
-   "cn": 78,
-   "cn_new": 0
+   "new": 1,
+   "total": 88,
+   "cn": 79,
+   "cn_new": 1
   },
   {
    "handle": "qinbafrank",
@@ -121,7 +121,7 @@
   {
    "handle": "TheMarketMemo",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 83,
    "cn": 81,
@@ -192,11 +192,12 @@
   },
   {
    "handle": "ArtofSpecuycky",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 19,
+   "cn": 18,
+   "cn_new": 0
   },
   {
    "handle": "tig88411109",
@@ -211,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 427,
-   "cn": 412,
-   "cn_new": 3
+   "new": 1,
+   "total": 428,
+   "cn": 413,
+   "cn_new": 1
   },
   {
    "handle": "darrencao2024",
@@ -256,18 +257,19 @@
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 122,
    "cn": 119,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "hanking66",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 69,
+   "cn": 67,
+   "cn_new": 0
   },
   {
    "handle": "SupFin",

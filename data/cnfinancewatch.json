@@ -1,5 +1,22 @@
 [
  {
+  "id": "2124372369485762704",
+  "time": "Sun Nov 22 05:20:16 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "张朝阳被北京市证监局下了警示函。\n\n违规原因：没有证券投顾资质，在直播里点评股市。",
+  "reply": 3,
+  "like": 1,
+  "rt": 0,
+  "view": 1209,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXtJaGkbUAApVqb.jpg?name=orig"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2124372369485762704",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2124355470219722932",
   "time": "Sun Nov 22 04:13:07 +0000 2026",
   "user": "cnfinancewatch",
@@ -7657,21 +7674,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2118706205774471483",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2118697062099484936",
-  "time": "Fri Nov 06 13:28:37 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "德克萨斯州当选州长吉娜·希诺霍萨在她赢得选举后的首次新闻发布会上，重点介绍了她对潜在出售州立公园土地给埃隆·马斯克的SpaceX的审查",
-  "reply": 1,
-  "like": 4,
-  "rt": 0,
-  "view": 5454,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2118697062099484936",
   "src": "fxtwitter-v2"
  }
 ]
