@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-22T18:01:50Z",
+ "ran_at": "2026-11-22T18:29:24Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 113,
-   "cn": 113,
-   "cn_new": 0
+   "new": 1,
+   "total": 114,
+   "cn": 114,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -293,10 +293,10 @@
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 75,
-   "cn": 74,
-   "cn_new": 0
+   "new": 1,
+   "total": 76,
+   "cn": 75,
+   "cn_new": 1
   },
   {
    "handle": "xingpt",
