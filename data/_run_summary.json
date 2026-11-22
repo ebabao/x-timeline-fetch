@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-22T21:24:20Z",
+ "ran_at": "2026-11-22T21:51:45Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 447,
-   "cn": 431,
-   "cn_new": 0
+   "new": 1,
+   "total": 448,
+   "cn": 432,
+   "cn_new": 1
   },
   {
    "handle": "darrencao2024",
