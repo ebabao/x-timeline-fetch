@@ -1,5 +1,35 @@
 [
  {
+  "id": "2124986828503806331",
+  "time": "Mon Nov 23 22:01:54 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "The system can’t hold it any more",
+  "reply": 1,
+  "like": 4,
+  "rt": 0,
+  "view": 912,
+  "lang": "en",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2124986828503806331",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2124983568678174793",
+  "time": "Mon Nov 23 21:48:57 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "查理·麦克利戈特（Charlie McElligott）表示：\"AI和股票如今已'大到不能倒'，并且直接关乎国家安全；市场花了数周时间定价的左尾风险，刚刚被大幅下调。\n\n而通过期权市场的管道机制，这种重新定价会转化为被迫的、机械式的买盘。\n\n用一句话总结这一整天的行情就是：'对冲盘被平掉，空头被止损，标普期货被拉升，上行被追涨。'\"",
+  "reply": 1,
+  "like": 6,
+  "rt": 0,
+  "view": 1268,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2124983568678174793",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2124981959936065621",
   "time": "Mon Nov 23 21:42:34 +0000 2026",
   "user": "bboczeng",
@@ -7539,34 +7569,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/bboczeng/status/1873658270482883069",
-  "src": "guest-gql"
- },
- {
-  "id": "1872509351761678834",
-  "time": "Fri Dec 27 05:06:33 +0000 2024",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "为什么这种技术从来没有一次用在实战中，包括最近那次深圳高层坠楼的火灾？因为这些都是宣传机器，一个是外宣，一个是内宣、向领导汇报。外国人居然真的会信，智商堪忧。难怪要“东升西降”了。这次所谓6代机也是一个道理。https://t.co/Ir5wPvVGCr",
-  "reply": 540,
-  "like": 1768,
-  "rt": 160,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/bboczeng/status/1872509351761678834",
-  "src": "guest-gql"
- },
- {
-  "id": "1863814598274715764",
-  "time": "Tue Dec 03 05:16:42 +0000 2024",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "白宫认为Covid-19最大可能是从中国武汉的实验室中泄露： https://t.co/XwiUTEMI2A",
-  "reply": 272,
-  "like": 2055,
-  "rt": 267,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/bboczeng/status/1863814598274715764",
   "src": "guest-gql"
  }
 ]
