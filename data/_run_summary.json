@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-23T08:35:28Z",
+ "ran_at": "2026-11-23T09:06:29Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 5,
    "total": 500,
    "cn": 489,
-   "cn_new": 2
+   "cn_new": 5
   },
   {
    "handle": "dmjk001",
@@ -32,26 +32,26 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 413,
    "cn": 402,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 163,
    "cn": 143,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 289,
+   "total": 290,
    "cn": 0,
    "cn_new": 0
   },
@@ -59,19 +59,19 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 176,
-   "cn": 176,
-   "cn_new": 0
+   "new": 1,
+   "total": 177,
+   "cn": 177,
+   "cn_new": 1
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 294,
    "cn": 293,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -248,15 +248,15 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 69,
    "cn": 63,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 123,
    "cn": 120,
@@ -293,10 +293,10 @@
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 77,
-   "cn": 76,
-   "cn_new": 0
+   "new": 1,
+   "total": 78,
+   "cn": 77,
+   "cn_new": 1
   },
   {
    "handle": "xingpt",
@@ -310,11 +310,11 @@
   {
    "handle": "brantchinesefn",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 30,
-   "cn": 30,
-   "cn_new": 0
+   "src": "guest-gql",
+   "new": 40,
+   "total": 70,
+   "cn": 69,
+   "cn_new": 39
   }
  ]
 }
