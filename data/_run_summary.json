@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-23T03:46:00Z",
+ "ran_at": "2026-11-23T04:13:25Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 5,
+   "new": 2,
    "total": 500,
    "cn": 490,
-   "cn_new": 4
+   "cn_new": 2
   },
   {
    "handle": "dmjk001",
@@ -32,19 +32,19 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 408,
-   "cn": 397,
-   "cn_new": 0
+   "new": 1,
+   "total": 409,
+   "cn": 398,
+   "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 158,
-   "cn": 138,
-   "cn_new": 0
+   "new": 1,
+   "total": 159,
+   "cn": 139,
+   "cn_new": 1
   },
   {
    "handle": "ReutersChina",
@@ -59,19 +59,19 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 174,
    "cn": 174,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 291,
    "cn": 290,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 89,
    "cn": 88,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "tychozzz",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 86,
-   "cn": 84,
-   "cn_new": 0
+   "new": 1,
+   "total": 87,
+   "cn": 85,
+   "cn_new": 1
   },
   {
    "handle": "Kay2289123",
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 125,
    "cn": 122,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -248,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 62,
    "cn": 58,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
