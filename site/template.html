@@ -14,6 +14,24 @@
   --txt:#e7ebf3; --dim:#8b95a7; --dim2:#5d6779;
   --gold:#f0b429; --up:#ff4d4f; --down:#2fbf71; --blue:#4ea1ff; --purple:#8b7cf6;
   --r:10px;
+  --hdr:rgba(10,13,19,.88);
+  --kpi:#0e131c;
+  --hover-bg:#111722;
+  --quote:#151c28;
+  --toast:#1b2333;
+  --body-txt:#dfe5ef; --body-zh:#eef2f8; --meta:#7f93ad;
+  --shadow:rgba(0,0,0,.4);
+}
+html[data-theme="light"]{
+  --bg:#f4f6fa; --bg2:#eef1f7; --panel:#ffffff; --panel2:#f0f3f9; --hover:#e8edf5;
+  --line:#dde3ed; --line2:#c8d1e0;
+  --txt:#1a2130; --dim:#5d6779; --dim2:#8893a5;
+  --gold:#b8860b; --up:#e03131; --down:#1a9e56; --blue:#1c6fd4; --purple:#6d5bd0;
+  --hdr:rgba(255,255,255,.9);
+  --kpi:#ffffff; --hover-bg:#f5f8fd;
+  --quote:#f0f3f9; --toast:#ffffff;
+  --body-txt:#3a4354; --body-zh:#2b3342; --meta:#6d7889;
+  --shadow:rgba(20,30,50,.12);
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%}
@@ -23,8 +41,8 @@ body{
   -webkit-font-smoothing:antialiased;
 }
 ::-webkit-scrollbar{width:10px;height:10px}
-::-webkit-scrollbar-thumb{background:#232c3b;border-radius:6px;border:2px solid var(--bg)}
-::-webkit-scrollbar-thumb:hover{background:#31405a}
+::-webkit-scrollbar-thumb{background:var(--line2);border-radius:6px;border:2px solid var(--bg)}
+::-webkit-scrollbar-thumb:hover{background:var(--line)}
 ::-webkit-scrollbar-track{background:transparent}
 a{color:inherit;text-decoration:none}
 button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
@@ -33,7 +51,7 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 /* ───────────── 顶栏 ───────────── */
 header{
   position:sticky;top:0;z-index:50;
-  background:rgba(10,13,19,.88);backdrop-filter:blur(14px);
+  background:var(--hdr);backdrop-filter:blur(14px);
   border-bottom:1px solid var(--line);
 }
 .hd{display:flex;align-items:center;gap:18px;padding:12px 22px;max-width:1560px;margin:0 auto}
@@ -62,10 +80,16 @@ header{
 }
 .dot{width:6px;height:6px;border-radius:50%;background:var(--down);box-shadow:0 0 0 3px rgba(47,191,113,.14)}
 .dot.warn{background:var(--gold);box-shadow:0 0 0 3px rgba(240,180,41,.14)}
+/* 主题切换按钮 */
+.theme-btn{display:flex;align-items:center;justify-content:center;width:34px;height:34px;
+  border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--dim);
+  flex-shrink:0;transition:.14s}
+.theme-btn:hover{background:var(--hover);color:var(--txt);border-color:var(--line2)}
+.theme-btn svg{width:17px;height:17px}
 .seg{display:flex;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:2px}
 .seg button{padding:5px 11px;font-size:12.5px;color:var(--dim);border-radius:6px;transition:.15s;white-space:nowrap}
 .seg button:hover{color:var(--txt)}
-.seg button.on{background:var(--panel2);color:var(--txt);box-shadow:0 1px 3px rgba(0,0,0,.4);font-weight:600}
+.seg button.on{background:var(--panel2);color:var(--txt);box-shadow:0 1px 3px var(--shadow);font-weight:600}
 .btn-primary{
   display:flex;align-items:center;gap:7px;padding:7px 14px;border-radius:8px;font-size:13px;font-weight:600;
   background:linear-gradient(160deg,#f5c34a,#dda017);color:#1a1204;
@@ -81,7 +105,7 @@ header{
   display:grid;grid-template-columns:repeat(5,1fr);gap:12px;
 }
 .kpi{
-  background:linear-gradient(170deg,var(--panel),#0e131c);
+  background:linear-gradient(170deg,var(--panel),var(--kpi));
   border:1px solid var(--line);border-radius:var(--r);padding:12px 14px;position:relative;overflow:hidden;
 }
 .kpi::after{content:"";position:absolute;inset:0 0 auto 0;height:1px;background:linear-gradient(90deg,transparent,rgba(240,180,41,.35),transparent)}
@@ -143,7 +167,7 @@ aside{position:sticky;top:66px;display:flex;flex-direction:column;gap:12px;max-h
   background:var(--panel);border:1px solid var(--line);border-radius:var(--r);
   padding:13px 15px 11px 15px;position:relative;transition:.15s;
 }
-.item:hover{border-color:var(--line2);background:#111722}
+.item:hover{border-color:var(--line2);background:var(--hover-bg)}
 .item::before{
   content:"";position:absolute;left:0;top:12px;bottom:12px;width:2.5px;border-radius:2px;
   background:var(--ac);opacity:.85;
@@ -164,19 +188,19 @@ aside{position:sticky;top:66px;display:flex;flex-direction:column;gap:12px;max-h
 .tag.cn{color:#7ee0a8;background:rgba(47,191,113,.1);border-color:rgba(47,191,113,.22)}
 .tag.en{color:#8fb6e8;background:rgba(78,161,255,.09);border-color:rgba(78,161,255,.2)}
 .tag.un{color:var(--gold);background:rgba(240,180,41,.09);border-color:rgba(240,180,41,.22)}
-.body{font-size:14px;line-height:1.72;white-space:pre-wrap;word-break:break-word;color:#dfe5ef}
+.body{font-size:14px;line-height:1.72;white-space:pre-wrap;word-break:break-word;color:var(--body-txt)}
 .body.clamp{
   display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden;cursor:pointer;
   mask-image:linear-gradient(180deg,#000 62%,rgba(0,0,0,.25));
 }
 .lnk{
-  font-size:11px;color:#7f93ad;background:#151c28;border:1px solid var(--line);
+  font-size:11px;color:var(--meta);background:var(--quote);border:1px solid var(--line);
   padding:1px 7px;border-radius:4px;display:inline-flex;align-items:center;gap:4px;
   max-width:150px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
 }
 .lnk:hover{color:var(--gold);border-color:rgba(240,180,41,.35)}
 .lnk::before{content:"↗";font-size:9px;opacity:.7}
-.body.zh{color:#eef2f8}
+.body.zh{color:var(--body-zh)}
 .orig{font-size:12.5px;line-height:1.62;color:var(--dim);margin-top:7px;padding-left:9px;border-left:2px solid var(--line2);white-space:pre-wrap;word-break:break-word}
 .media{display:flex;gap:6px;margin-top:9px;flex-wrap:wrap}
 .media img{
@@ -205,9 +229,9 @@ aside{position:sticky;top:66px;display:flex;flex-direction:column;gap:12px;max-h
 /* toast */
 .toast{
   position:fixed;bottom:26px;left:50%;transform:translate(-50%,20px);
-  background:#1b2333;border:1px solid var(--line2);color:var(--txt);
+  background:var(--toast);border:1px solid var(--line2);color:var(--txt);
   padding:9px 18px;border-radius:9px;font-size:13px;opacity:0;pointer-events:none;
-  transition:.22s;z-index:99;box-shadow:0 12px 32px -12px #000;
+  transition:.22s;z-index:99;box-shadow:0 12px 32px -12px var(--shadow);
 }
 .toast.show{opacity:1;transform:translate(-50%,0)}
 
@@ -252,6 +276,9 @@ aside{position:sticky;top:66px;display:flex;flex-direction:column;gap:12px;max-h
       <input id="q" placeholder="搜索关键词 / 公司名 / 品种（如 美联储、NVDA、降息）">
     </div>
     <div class="hd-right">
+      <button class="theme-btn" id="themeBtn" title="切换深色/浅色主题" aria-label="切换主题">
+        <svg id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
       <div class="pill" id="status"><span class="dot" id="dot"></span><span id="statusText">已同步</span></div>
       <div class="seg" id="langSeg">
         <button data-lang="zh" class="on">中文</button>
@@ -305,6 +332,34 @@ aside{position:sticky;top:66px;display:flex;flex-direction:column;gap:12px;max-h
 
 <script>
 const DATA = __DATA__;
+
+/* ── 主题切换（深色/浅色，记忆到 localStorage） ── */
+const THEME_KEY = 'finance-hub-theme';
+(function(){
+  let t = localStorage.getItem(THEME_KEY);
+  if (t !== 'light' && t !== 'dark') {
+    t = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  }
+  document.documentElement.setAttribute('data-theme', t);
+})();
+function applyThemeIcon(){
+  const light = document.documentElement.getAttribute('data-theme') === 'light';
+  const icon = document.getElementById('themeIcon');
+  if (icon) icon.innerHTML = light
+    ? '<circle cx="12" cy="12" r="4.2"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>'
+    : '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>';
+}
+document.addEventListener('DOMContentLoaded', function(){
+  applyThemeIcon();
+  const btn = document.getElementById('themeBtn');
+  if (btn) btn.addEventListener('click', function(){
+    const cur = document.documentElement.getAttribute('data-theme');
+    const next = cur === 'light' ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem(THEME_KEY, next);
+    applyThemeIcon();
+  });
+});
 const S = {group:'all', handle:null, range:7, lang:'zh', sort:'time', q:'', topic:null, shown:120};
 
 const $ = s => document.querySelector(s);
