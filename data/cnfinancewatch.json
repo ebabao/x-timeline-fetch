@@ -1,5 +1,22 @@
 [
  {
+  "id": "2124793661917638740",
+  "time": "Mon Nov 23 09:14:20 +0000 2026",
+  "user": "cnfinancewatch",
+  "name": "华尔街观察 Xtrader",
+  "text": "一直在 #回关\n\n没有回关到的，请等待。每天都有总量限制！",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 852,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HXzIkVtbUAAevqW.jpg?name=orig"
+  ],
+  "url": "https://x.com/cnfinancewatch/status/2124793661917638740",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2124789885332824199",
   "time": "Mon Nov 23 08:59:20 +0000 2026",
   "user": "cnfinancewatch",
@@ -7682,21 +7699,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/cnfinancewatch/status/2119580006502609271",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2119578065466736946",
-  "time": "Sun Nov 08 23:49:25 +0000 2026",
-  "user": "cnfinancewatch",
-  "name": "华尔街观察 Xtrader",
-  "text": "马斯克再抛惊人目标：明年SpaceX年化收入5000亿美元、Terafab芯片产能一太瓦、星链计算机同步上天。",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 2454,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/cnfinancewatch/status/2119578065466736946",
   "src": "fxtwitter-v2"
  }
 ]
