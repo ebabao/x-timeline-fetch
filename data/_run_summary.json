@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-23T12:30:15Z",
+ "ran_at": "2026-11-23T12:57:43Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 0,
    "total": 417,
    "cn": 406,
-   "cn_new": 3
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
@@ -59,15 +59,15 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 178,
    "cn": 178,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "bbcchinese",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 296,
    "cn": 295,
@@ -103,7 +103,7 @@
   {
    "handle": "qinbafrank",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 90,
    "cn": 89,
@@ -167,10 +167,10 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 111,
    "cn": 100,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Balder13946731",
@@ -228,11 +228,12 @@
   },
   {
    "handle": "LucyBuilding",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 22,
+   "cn": 22,
+   "cn_new": 0
   },
   {
    "handle": "traders18",
@@ -247,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 70,
-   "cn": 63,
-   "cn_new": 0
+   "new": 1,
+   "total": 71,
+   "cn": 64,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
@@ -265,19 +266,19 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 76,
-   "cn": 73,
-   "cn_new": 0
+   "new": 1,
+   "total": 77,
+   "cn": 74,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 70,
    "cn": 64,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "LeoYuen13",
