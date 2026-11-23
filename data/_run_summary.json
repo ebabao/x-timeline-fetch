@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-23T16:21:28Z",
+ "ran_at": "2026-11-23T16:49:39Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 441,
-   "cn": 429,
-   "cn_new": 3
+   "new": 1,
+   "total": 442,
+   "cn": 430,
+   "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 115,
    "cn": 115,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "RichTerry123",
@@ -204,27 +204,27 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 2,
-   "total": 77,
-   "cn": 77,
+   "total": 79,
+   "cn": 79,
    "cn_new": 2
   },
   {
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 479,
-   "cn": 463,
-   "cn_new": 0
+   "new": 3,
+   "total": 482,
+   "cn": 466,
+   "cn_new": 3
   },
   {
    "handle": "darrencao2024",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 89,
    "cn": 84,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "LucyBuilding",
@@ -239,28 +239,28 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 128,
-   "cn": 128,
-   "cn_new": 3
+   "new": 1,
+   "total": 129,
+   "cn": 129,
+   "cn_new": 1
   },
   {
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 76,
    "cn": 68,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 129,
    "cn": 126,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "hanking66",
@@ -302,15 +302,15 @@
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 86,
-   "cn": 85,
-   "cn_new": 0
+   "new": 1,
+   "total": 87,
+   "cn": 86,
+   "cn_new": 1
   },
   {
    "handle": "brantchinesefn",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 72,
    "cn": 71,
