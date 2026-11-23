@@ -1,5 +1,22 @@
 [
  {
+  "id": "2124780351516185071",
+  "time": "Mon Nov 23 08:21:26 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "在北京郊外，一名鞋匠戴上数据采集设备，开始一天的工作。他的动作数据正被用来训练中国新一代AI机器人。\n\n从修鞋、整理鲜花到超市上架，工人的日常工作都会被设备记录，转化为机器人的训练数据。\n\n业者希望，随着技术不断进步，机器人能逐步从简单的重复工作，走向工厂和家庭。",
+  "reply": 0,
+  "like": 3,
+  "rt": 0,
+  "view": 2261,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2124779859549495296/vid/avc1/1080x1920/LMOLIi-pjv5CI_a4.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2124780351516185071",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2124753867875443143",
   "time": "Mon Nov 23 06:36:12 +0000 2026",
   "user": "bbcchinese",
