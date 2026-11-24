@@ -1,5 +1,37 @@
 [
  {
+  "id": "2125235395034325376",
+  "time": "Tue Nov 24 14:29:37 +0000 2026",
+  "user": "ShanghaoJin",
+  "name": "Herman Jin",
+  "text": "@KKStewie0 他taco不taco都不知道，所以还是别随着新闻去交易\n\n市场有很多随机不确定，也有很多确定性",
+  "reply": 2,
+  "like": 10,
+  "rt": 1,
+  "view": 3782,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/ShanghaoJin/status/2125235395034325376",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2125235002111836317",
+  "time": "Tue Nov 24 14:28:04 +0000 2026",
+  "user": "ShanghaoJin",
+  "name": "Herman Jin",
+  "text": "原来如此～\n\n难怪上周四short squeeze时出来大量卖盘，让人感觉桌底有什么我不知道的事情",
+  "reply": 4,
+  "like": 23,
+  "rt": 0,
+  "view": 5847,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HX5Z9wUbsAAdT8Z.jpg?name=orig"
+  ],
+  "url": "https://x.com/ShanghaoJin/status/2125235002111836317",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125233614455775542",
   "time": "Tue Nov 24 14:22:33 +0000 2026",
   "user": "ShanghaoJin",
