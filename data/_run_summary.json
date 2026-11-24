@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-24T16:50:01Z",
+ "ran_at": "2026-11-24T17:18:22Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -131,19 +131,19 @@
    "handle": "Kay2289123",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 29,
-   "cn": 29,
-   "cn_new": 0
+   "new": 1,
+   "total": 30,
+   "cn": 30,
+   "cn_new": 1
   },
   {
    "handle": "maojietrading",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 86,
    "cn": 85,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "wufantouzi",
