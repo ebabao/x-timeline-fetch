@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-24T21:12:28Z",
+ "ran_at": "2026-11-24T21:39:51Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 146,
-   "cn": 143,
-   "cn_new": 0
+   "new": 1,
+   "total": 147,
+   "cn": 144,
+   "cn_new": 1
   },
   {
    "handle": "peng_hellen",
