@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-24T12:52:44Z",
+ "ran_at": "2026-11-24T13:24:19Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,19 +32,18 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 459,
-   "cn": 447,
-   "cn_new": 0
+   "new": 2,
+   "total": 461,
+   "cn": 449,
+   "cn_new": 2
   },
   {
    "handle": "CrushTheShorts",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
    "new": 0,
-   "total": 175,
-   "cn": 153,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "ReutersChina",
@@ -58,7 +57,7 @@
   {
    "handle": "nytchinese",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 185,
    "cn": 185,
@@ -68,10 +67,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 309,
-   "cn": 308,
-   "cn_new": 0
+   "new": 1,
+   "total": 310,
+   "cn": 309,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -203,10 +202,10 @@
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 82,
-   "cn": 82,
-   "cn_new": 0
+   "new": 1,
+   "total": 83,
+   "cn": 83,
+   "cn_new": 1
   },
   {
    "handle": "bboczeng",
@@ -239,19 +238,19 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 137,
    "cn": 137,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 80,
-   "cn": 72,
-   "cn_new": 0
+   "new": 1,
+   "total": 81,
+   "cn": 73,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
@@ -294,8 +293,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 95,
-   "cn": 94,
+   "total": 96,
+   "cn": 95,
    "cn_new": 1
   },
   {
@@ -311,10 +310,10 @@
    "handle": "brantchinesefn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 74,
    "cn": 73,
-   "cn_new": 1
+   "cn_new": 0
   }
  ]
 }
