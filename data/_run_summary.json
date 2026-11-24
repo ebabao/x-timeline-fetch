@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-24T12:25:00Z",
+ "ran_at": "2026-11-24T12:52:44Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,19 +32,19 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 459,
    "cn": 447,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 175,
    "cn": 153,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 96,
    "cn": 95,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "tychozzz",
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 117,
    "cn": 117,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "RichTerry123",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 1,
    "total": 500,
    "cn": 486,
-   "cn_new": 0
+   "cn_new": 1
   },
   {
    "handle": "darrencao2024",
@@ -230,18 +230,18 @@
    "handle": "LucyBuilding",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 24,
    "cn": 24,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 136,
-   "cn": 136,
+   "total": 137,
+   "cn": 137,
    "cn_new": 1
   },
   {
@@ -293,10 +293,10 @@
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 94,
-   "cn": 93,
-   "cn_new": 0
+   "new": 1,
+   "total": 95,
+   "cn": 94,
+   "cn_new": 1
   },
   {
    "handle": "xingpt",
@@ -311,10 +311,10 @@
    "handle": "brantchinesefn",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 73,
-   "cn": 72,
-   "cn_new": 0
+   "new": 1,
+   "total": 74,
+   "cn": 73,
+   "cn_new": 1
   }
  ]
 }
