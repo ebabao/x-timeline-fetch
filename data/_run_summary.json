@@ -1,23 +1,23 @@
 {
- "ran_at": "2026-11-24T02:09:30Z",
+ "ran_at": "2026-11-24T02:37:32Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 5,
+   "new": 3,
    "total": 500,
    "cn": 489,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 359,
-   "cn": 310,
-   "cn_new": 0
+   "new": 1,
+   "total": 360,
+   "cn": 311,
+   "cn_new": 1
   },
   {
    "handle": "baoshu88",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 447,
-   "cn": 435,
-   "cn_new": 1
+   "new": 2,
+   "total": 449,
+   "cn": 437,
+   "cn_new": 2
   },
   {
    "handle": "CrushTheShorts",
@@ -50,8 +50,8 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 294,
+   "new": 1,
+   "total": 295,
    "cn": 0,
    "cn_new": 0
   },
@@ -60,8 +60,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 179,
-   "cn": 179,
+   "total": 180,
+   "cn": 180,
    "cn_new": 1
   },
   {
@@ -96,18 +96,18 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 96,
-   "cn": 87,
+   "total": 97,
+   "cn": 88,
    "cn_new": 1
   },
   {
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 94,
    "cn": 93,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "tychozzz",
@@ -167,19 +167,19 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 115,
-   "cn": 104,
-   "cn_new": 0
+   "new": 1,
+   "total": 116,
+   "cn": 105,
+   "cn_new": 1
   },
   {
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 140,
    "cn": 137,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
+   "new": 2,
    "total": 500,
-   "cn": 484,
-   "cn_new": 3
+   "cn": 485,
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -293,10 +293,10 @@
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 90,
    "cn": 89,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xingpt",
