@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-24T20:17:26Z",
+ "ran_at": "2026-11-24T20:45:00Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -39,16 +39,17 @@
   },
   {
    "handle": "CrushTheShorts",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 176,
+   "cn": 154,
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 307,
    "cn": 0,
@@ -211,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
+   "new": 2,
    "total": 500,
    "cn": 486,
-   "cn_new": 4
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -292,10 +293,10 @@
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 101,
    "cn": 99,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xingpt",
