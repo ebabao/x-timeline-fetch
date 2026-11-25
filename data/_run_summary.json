@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-25T10:13:33Z",
+ "ran_at": "2026-11-25T10:43:53Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -41,10 +41,10 @@
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 183,
-   "cn": 160,
-   "cn_new": 0
+   "new": 1,
+   "total": 184,
+   "cn": 161,
+   "cn_new": 1
   },
   {
    "handle": "ReutersChina",
@@ -68,19 +68,19 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 320,
-   "cn": 319,
-   "cn_new": 0
+   "new": 1,
+   "total": 321,
+   "cn": 320,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 79,
    "cn": 78,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "artinmemes",
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 104,
    "cn": 102,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "tychozzz",
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 118,
-   "cn": 118,
-   "cn_new": 0
+   "new": 1,
+   "total": 119,
+   "cn": 119,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -192,12 +192,11 @@
   },
   {
    "handle": "ArtofSpecuycky",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
    "new": 0,
-   "total": 22,
-   "cn": 21,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "tig88411109",
@@ -212,10 +211,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
+   "new": 2,
    "total": 500,
    "cn": 490,
-   "cn_new": 4
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -239,10 +238,10 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 137,
-   "cn": 137,
-   "cn_new": 0
+   "new": 1,
+   "total": 138,
+   "cn": 138,
+   "cn_new": 1
   },
   {
    "handle": "yijiangren",
