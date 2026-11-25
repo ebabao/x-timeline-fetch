@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-25T12:40:59Z",
+ "ran_at": "2026-11-25T13:10:31Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 323,
    "cn": 322,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -301,7 +301,7 @@
   {
    "handle": "xingpt",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 90,
    "cn": 89,
