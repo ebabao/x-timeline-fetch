@@ -1,5 +1,68 @@
 [
  {
+  "id": "2125581083681099855",
+  "time": "Wed Nov 25 13:23:16 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "https://x.com/fxtrader/status/2125581003930603652",
+  "reply": 1,
+  "like": 1,
+  "rt": 0,
+  "view": 2253,
+  "lang": null,
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2125581083681099855",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2125581003930603652",
+  "time": "Wed Nov 25 13:22:57 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "#新闻 特朗普政府准备对中国和另外十几个贸易伙伴加征新一轮关税，其中中国的拟议税率最高，为20%。美国高级官员说，如果两国之间正在进行的谈判和已达成的协议等因素不再起作用，税率可能升到40%。\n\n关税最早明年1月生效。在那之前，美国政府还要走完公开征求意见程序，并举行听证会。\n\n能源、美国难以种植的食品、部分半导体芯片和药品都有大范围豁免。汽车、钢铁、铝这类已经有关税的产品，新关税不会再叠加。\n\n美国最高法院今年早些时候推翻了特朗普的全球关税，特朗普打算动用这一轮最新的关税措施来重启自己的贸易议程。依据是美国贸易代表办公室做了几个月的调查，认定外国政府通过补贴、优惠贷款等手段刺激过剩产能，再以人为压低的价格倾销，冲击美国企业。\n\n美国官员认为各方报复会比较有限，因为相关伙伴事先已经收到通知。",
+  "reply": 2,
+  "like": 6,
+  "rt": 0,
+  "view": 5586,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HX-T3KfbAAAX33N.png?name=orig",
+   "https://pbs.twimg.com/media/HX-T-SsbwAAfve1.png?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2125581003930603652",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2125579122445557821",
+  "time": "Wed Nov 25 13:15:28 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "美国高级官员表示，将提议对中国征收20%的关税税率。若无美中协议，税率将为40%。",
+  "reply": 10,
+  "like": 11,
+  "rt": 1,
+  "view": 7300,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2125579122445557821",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2125578072972017758",
+  "time": "Wed Nov 25 13:11:18 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "在贸易调查后，美国提议对欧盟征收最高20%关税。",
+  "reply": 2,
+  "like": 13,
+  "rt": 0,
+  "view": 11544,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2125578072972017758",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125558389023613006",
   "time": "Wed Nov 25 11:53:05 +0000 2026",
   "user": "fxtrader",
