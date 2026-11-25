@@ -1,5 +1,22 @@
 [
  {
+  "id": "2125612673849311499",
+  "time": "Wed Nov 25 15:28:48 +0000 2026",
+  "user": "Kay2289123",
+  "name": "美研芒格君",
+  "text": "不容错过的机会，今天热乎的尚未公开的 SemiAnalysis 客户简报！！关于内容，我有三个问题跟大家分享，找到答案就是找到了下一步的密码 ⬇️\n\nGPU 价格下调，Anthropic 将不再续租一个约有 5 万块 H200 的集群。SpaceX 下调了英伟达 Blackwell GPU 的出租报价。用于较小集群的 B200 和 B300，现货租金从每块 GPU 每小时约 15 至 15.50 美元，降至 10 至 12 美元\n\n1. Anthropic 目前正大量使用 TPU 做 training/inference，谁会受益\n\n2. TPU 意味着互联，谁给 TPU 大集群供互联\n\n3. 电力受限，机房建设受阻，大量的 TPU 放在哪里？钱流向了谁\n\n这三个问题，对应的标的，我认为现在是很不错的机会。值得出手。如果你是顶尖高手，可以等待一个全局底部",
+  "reply": 5,
+  "like": 7,
+  "rt": 0,
+  "view": 971,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HX-vo9MaEAAdDue.png?name=orig"
+  ],
+  "url": "https://x.com/Kay2289123/status/2125612673849311499",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125601993683239235",
   "time": "Wed Nov 25 14:46:21 +0000 2026",
   "user": "Kay2289123",
