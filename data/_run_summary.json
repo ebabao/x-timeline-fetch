@@ -1,23 +1,23 @@
 {
- "ran_at": "2026-11-25T08:17:29Z",
+ "ran_at": "2026-11-25T08:47:28Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 3,
    "total": 500,
    "cn": 491,
-   "cn_new": 0
+   "cn_new": 3
   },
   {
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 385,
-   "cn": 330,
-   "cn_new": 0
+   "new": 1,
+   "total": 386,
+   "cn": 331,
+   "cn_new": 1
   },
   {
    "handle": "baoshu88",
@@ -32,26 +32,26 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 474,
    "cn": 461,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 183,
    "cn": 160,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 316,
+   "total": 317,
    "cn": 0,
    "cn_new": 0
   },
@@ -59,19 +59,19 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 191,
-   "cn": 191,
-   "cn_new": 0
+   "new": 1,
+   "total": 192,
+   "cn": 192,
+   "cn_new": 1
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 319,
-   "cn": 318,
-   "cn_new": 0
+   "new": 1,
+   "total": 320,
+   "cn": 319,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -104,8 +104,8 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 102,
+   "new": 1,
+   "total": 103,
    "cn": 101,
    "cn_new": 0
   },
@@ -266,10 +266,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 96,
-   "cn": 93,
-   "cn_new": 0
+   "new": 1,
+   "total": 97,
+   "cn": 94,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",
@@ -283,7 +283,7 @@
   {
    "handle": "LeoYuen13",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 66,
    "cn": 66,
