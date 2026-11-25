@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-25T06:19:43Z",
+ "ran_at": "2026-11-25T06:49:39Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -15,18 +15,18 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 383,
-   "cn": 328,
+   "total": 384,
+   "cn": 329,
    "cn_new": 1
   },
   {
    "handle": "baoshu88",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 184,
-   "cn": 184,
-   "cn_new": 0
+   "new": 1,
+   "total": 185,
+   "cn": 185,
+   "cn_new": 1
   },
   {
    "handle": "fxtrader",
@@ -59,28 +59,28 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 190,
-   "cn": 190,
-   "cn_new": 0
+   "new": 1,
+   "total": 191,
+   "cn": 191,
+   "cn_new": 1
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 318,
-   "cn": 317,
-   "cn_new": 0
+   "new": 1,
+   "total": 319,
+   "cn": 318,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 77,
-   "cn": 76,
-   "cn_new": 0
+   "new": 1,
+   "total": 78,
+   "cn": 77,
+   "cn_new": 1
   },
   {
    "handle": "artinmemes",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 99,
    "cn": 94,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Kay2289123",
@@ -203,19 +203,19 @@
    "handle": "tig88411109",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 86,
    "cn": 86,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 4,
    "total": 500,
-   "cn": 487,
-   "cn_new": 1
+   "cn": 488,
+   "cn_new": 4
   },
   {
    "handle": "darrencao2024",
