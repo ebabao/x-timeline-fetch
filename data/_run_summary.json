@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-25T06:49:39Z",
+ "ran_at": "2026-11-25T07:18:59Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -14,28 +14,28 @@
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 384,
    "cn": 329,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "baoshu88",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 185,
    "cn": 185,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 472,
-   "cn": 459,
-   "cn_new": 0
+   "new": 1,
+   "total": 473,
+   "cn": 460,
+   "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
@@ -50,8 +50,8 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 314,
+   "new": 1,
+   "total": 315,
    "cn": 0,
    "cn_new": 0
   },
@@ -59,28 +59,28 @@
    "handle": "nytchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 191,
    "cn": 191,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 319,
    "cn": 318,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 78,
    "cn": 77,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "artinmemes",
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 117,
-   "cn": 117,
-   "cn_new": 0
+   "new": 1,
+   "total": 118,
+   "cn": 118,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
+   "new": 2,
    "total": 500,
    "cn": 488,
-   "cn_new": 4
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -248,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 84,
-   "cn": 76,
-   "cn_new": 0
+   "new": 1,
+   "total": 85,
+   "cn": 77,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
