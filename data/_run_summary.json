@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-26T10:13:39Z",
+ "ran_at": "2026-11-26T10:44:14Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 2,
    "total": 500,
    "cn": 491,
-   "cn_new": 0
+   "cn_new": 2
   },
   {
    "handle": "dmjk001",
@@ -22,7 +22,7 @@
   {
    "handle": "baoshu88",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 185,
    "cn": 185,
@@ -32,19 +32,19 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 493,
-   "cn": 479,
-   "cn_new": 0
+   "new": 1,
+   "total": 494,
+   "cn": 480,
+   "cn_new": 1
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 193,
-   "cn": 167,
-   "cn_new": 0
+   "total": 194,
+   "cn": 168,
+   "cn_new": 1
   },
   {
    "handle": "ReutersChina",
@@ -68,15 +68,15 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 335,
    "cn": 334,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 82,
    "cn": 81,
@@ -192,12 +192,11 @@
   },
   {
    "handle": "ArtofSpecuycky",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
    "new": 0,
-   "total": 23,
-   "cn": 22,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "tig88411109",
@@ -212,10 +211,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 5,
+   "new": 2,
    "total": 500,
    "cn": 491,
-   "cn_new": 5
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -248,10 +247,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 96,
    "cn": 87,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
