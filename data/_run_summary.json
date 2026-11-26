@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-26T10:44:14Z",
+ "ran_at": "2026-11-26T11:15:00Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 500,
    "cn": 491,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "dmjk001",
@@ -22,7 +22,7 @@
   {
    "handle": "baoshu88",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 185,
    "cn": 185,
@@ -32,19 +32,19 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 494,
    "cn": 480,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 194,
    "cn": 168,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "ReutersChina",
@@ -68,15 +68,15 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 335,
-   "cn": 334,
-   "cn_new": 0
+   "new": 1,
+   "total": 336,
+   "cn": 335,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 82,
    "cn": 81,
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 107,
-   "cn": 105,
-   "cn_new": 0
+   "new": 1,
+   "total": 108,
+   "cn": 106,
+   "cn_new": 1
   },
   {
    "handle": "tychozzz",
@@ -139,7 +139,7 @@
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 87,
    "cn": 86,
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 123,
-   "cn": 123,
-   "cn_new": 0
+   "new": 1,
+   "total": 124,
+   "cn": 124,
+   "cn_new": 1
   },
   {
    "handle": "RichTerry123",
@@ -192,11 +192,12 @@
   },
   {
    "handle": "ArtofSpecuycky",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 23,
+   "cn": 22,
+   "cn_new": 0
   },
   {
    "handle": "tig88411109",
@@ -247,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 96,
-   "cn": 87,
-   "cn_new": 0
+   "new": 1,
+   "total": 97,
+   "cn": 88,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
