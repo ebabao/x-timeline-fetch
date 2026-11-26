@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-26T15:39:30Z",
+ "ran_at": "2026-11-26T19:09:43Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 0,
+   "src": "guest-gql",
+   "new": 40,
    "total": 500,
    "cn": 491,
-   "cn_new": 0
+   "cn_new": 34
   },
   {
    "handle": "dmjk001",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 496,
    "cn": 482,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
@@ -85,7 +85,7 @@
   {
    "handle": "artinmemes",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 73,
    "cn": 73,
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 108,
-   "cn": 106,
-   "cn_new": 0
+   "new": 1,
+   "total": 109,
+   "cn": 107,
+   "cn_new": 1
   },
   {
    "handle": "tychozzz",
@@ -167,10 +167,10 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 3,
-   "total": 134,
+   "new": 1,
+   "total": 135,
    "cn": 119,
-   "cn_new": 3
+   "cn_new": 0
   },
   {
    "handle": "Balder13946731",
@@ -221,10 +221,10 @@
    "handle": "darrencao2024",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 113,
-   "cn": 106,
-   "cn_new": 0
+   "new": 1,
+   "total": 114,
+   "cn": 107,
+   "cn_new": 1
   },
   {
    "handle": "LucyBuilding",
@@ -248,10 +248,10 @@
    "handle": "yijiangren",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 102,
    "cn": 93,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
@@ -275,10 +275,10 @@
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 78,
-   "cn": 71,
-   "cn_new": 0
+   "new": 1,
+   "total": 79,
+   "cn": 72,
+   "cn_new": 1
   },
   {
    "handle": "LeoYuen13",
