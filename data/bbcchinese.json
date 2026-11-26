@@ -1,5 +1,22 @@
 [
  {
+  "id": "2125857839927468189",
+  "time": "Thu Nov 26 07:43:00 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "美国宣布对部分主要贸易伙伴加征新关税，包括中国和欧盟。不同国家和产品将适用不同的关税税率，其中中国面临的税率最高，最高可达40%。\n\n少数国家面临最高25%的关税，包括泰国和印度；日本、欧盟等则面临最高20%的关税。",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 947,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2125857715360759808/vid/avc1/1080x1920/-hbh203rnyOnhqOa.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2125857839927468189",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125838098240294938",
   "time": "Thu Nov 26 06:24:33 +0000 2026",
   "user": "bbcchinese",
