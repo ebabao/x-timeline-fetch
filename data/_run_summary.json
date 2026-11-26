@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-26T11:15:00Z",
+ "ran_at": "2026-11-26T11:45:25Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 336,
    "cn": 335,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
@@ -104,10 +104,10 @@
    "handle": "qinbafrank",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 108,
    "cn": 106,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "tychozzz",
@@ -131,15 +131,15 @@
    "handle": "Kay2289123",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 34,
-   "cn": 34,
-   "cn_new": 0
+   "new": 1,
+   "total": 35,
+   "cn": 35,
+   "cn_new": 1
   },
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 87,
    "cn": 86,
@@ -149,10 +149,10 @@
    "handle": "wufantouzi",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 124,
    "cn": 124,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "RichTerry123",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 500,
    "cn": 491,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "darrencao2024",
@@ -249,8 +249,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 97,
-   "cn": 88,
+   "total": 98,
+   "cn": 89,
    "cn_new": 1
   },
   {
@@ -266,10 +266,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 109,
-   "cn": 106,
-   "cn_new": 0
+   "new": 1,
+   "total": 110,
+   "cn": 107,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",

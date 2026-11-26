@@ -1,5 +1,20 @@
 [
  {
+  "id": "2125915733100245346",
+  "time": "Thu Nov 26 11:33:03 +0000 2026",
+  "user": "Kay2289123",
+  "name": "美研芒格君",
+  "text": "如果你有很强烈的学习能力，想进 AI 行业，做高薪方向，该学什么？\n\n我真心建议你学 AI 推理工程，可以从下面的步骤来。\n\n1. 先挑一个方向钻进去。 GPU 编程（比如 CUDA）、模型优化、量化、分布式推理，都可以选。\n• 可以先看 GPU 的线程和内存是怎么组织的。NVIDIA《CUDA 编程指南》 https://docs.nvidia.com/cuda/cuda-programming-guide/index.html\n\n2. 把基础学透。 一个请求进来，GPU 跑了哪些计算？模型怎么一个 token 一个 token 地生成答案？\n• 可以跟着 Karpathy 写一个小 GPT，重点看它怎么预测下一个 token。 https://www.youtube.com/watch?v=kCc8FmEb1nY\n\n3. 上手 PyTorch、Triton、vLLM 和 TensorRT-LLM。 试着把模型部署成一个能接真实请求的推理服务。\n• 服务部署可以先从跑通一个 API 开始。vLLM 官方教程 https://docs.vllm.ai/en/stable/getting_started/quickstart/#online-serving\n\n4. 做 3 到 5 个项目。 试着压低推理成本、缩短回复延迟，或者让同样的 GPU 扛住更多请求。\n• 举个例子，拿一个开源模型做量化，用同一套问题对照测试，看看省了多少显存，回答表现有没有变化。\n• 也可以先跑通一版小型推理引擎，再动手改一处调度或缓存。Nano-vLLM https://github.com/GeeeekExplorer/nano-vllm\n\n5. 每个项目都跑 benchmark。 固定 GPU 和测试条件，记录每张卡的吞吐、延迟和每百万 token 的成本。\n• 举个例子，假设同一张卡跑同一批请求，输出从每秒 100 个 token 提到 130 个，吞吐就是多了 30%。也把首 token 延迟和回答质量记下来。\n• 可以照着文档跑一次压测。vLLM Benchmark CLI https://docs.vllm.ai/en/stable/benchmarking/cli/\n\n6. 列出 50 家你真想去的公司。 AI 创业公司、GPU 云厂商、专门做推理的团队都可以。\n• 可以先从公司目录里找做推理和 GPU 云的团队。YC 基础设施公司目录 https://www.ycombinator.com/companies/industry/infrastructure\n\n7. 看看这些公司的系统卡在哪儿。 从工程博客或公开 issue 里挑一个具体问题，做个能复现、能对比的项目。\n• 举个例子，如果一个文档问答服务反复把同一份长文放进提示词，可以用公开文档搭个 demo，测测复用这段前缀能不能缩短首 token 延迟。\n• 可以看看实际团队怎么用缓存路由减少排队和长尾延迟。Modal 与 Sakana AI 的上线复盘 https://modal.com/blog/sakana-case-study\n\n8. 直接联系创始人或工程负责人。 给他们看项目、代码和测试结果，然后问问有没有实习机会。\n• 消息可以这样写，「看到你们工程博客提到长文档请求慢，我用公开数据做了个小实验。这里是代码和测试结果，请问团队有推理方向的实习机会吗？」\n• 可以参考 YC 对第一封联系邮件的建议。 https://www.ycombinator.com/blog/advice-for-job-seekers-on-resumes-and-standing-out\n\n9. 花 12 到 18 个月扎扎实实做一线工程。 亲手部署、看监控、排查故障，搞清楚 AI 系统在线上到底怎么跑。\n• 可以看推理服务怎么部署到 Kubernetes、怎么路由请求、怎么做监控。vLLM Production Stack https://github.com/vllm-project/production-stack#step-by-step-tutorials\n\n10. 有了这些经验，再考虑自己出来做。 可以做推理服务，帮别的团队做性能优化咨询，或者做 GPU 基础设施。\n• 可以先学怎么判断一个创业点子有没有真实需求。YC《如何找到创业点子》 https://www.ycombinator.com/library/8g-how-to-get-startup-ideas\n\n模型会越来越聪明。要让更多人用上它，每次调用得够便宜，用户等回复的时间得够短，流量上来时服务还得扛得住。\n\n谁能把这些问题解决，谁就有机会在 AI 产业里做成一门大生意。",
+  "reply": 0,
+  "like": 8,
+  "rt": 4,
+  "view": 759,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/Kay2289123/status/2125915733100245346",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125621541039985038",
   "time": "Wed Nov 25 16:04:02 +0000 2026",
   "user": "Kay2289123",
