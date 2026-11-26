@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-26T14:12:00Z",
+ "ran_at": "2026-11-26T14:40:51Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -50,7 +50,7 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 334,
    "cn": 0,
    "cn_new": 0
@@ -167,10 +167,10 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 130,
-   "cn": 115,
-   "cn_new": 0
+   "new": 1,
+   "total": 131,
+   "cn": 116,
+   "cn_new": 1
   },
   {
    "handle": "Balder13946731",
@@ -249,8 +249,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 100,
-   "cn": 91,
+   "total": 101,
+   "cn": 92,
    "cn_new": 1
   },
   {
