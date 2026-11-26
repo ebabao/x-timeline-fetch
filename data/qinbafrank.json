@@ -1,5 +1,22 @@
 [
  {
+  "id": "2125822230567530704",
+  "time": "Thu Nov 26 05:21:30 +0000 2026",
+  "user": "qinbafrank",
+  "name": "qinbafrank",
+  "text": "太空数据中心拿到了批文，美国联邦通信委员会（FCC）正式为SpaceX的太空数据中心计划放行，批准其发射100万颗卫星，组建名为“Starmind”的AI算力星座。昨晚FCC主席Brendan Carr称这是美国历史上首次批准在太空部署数据中心星座。\n\nFCC批准的时间约束，要求“2040年前完成”，根据FCC完整命令，SpaceX必须在以下节点前完成部署，任何一个中间节点未达标，许可即告失效：\n1）2033年11月25日前，发射并运营第一颗Starmind卫星；\n2）2035年11月25日前，完成100万颗中的10%入轨；\n3）2038年11月25日前，完成50%；\n4）2040年11月25日前，完成全部星座部署。\n\nFCC同时驳回了亚马逊Leo、Viasat和美国天文学会提出的拒绝申请，豁免了SpaceX的履约保证金，并将许可期限设为15年。\n\n根据申请与FCC命令披露的信息，Starmind星座由约100万颗“轨道算力模块”组成，本质是把AI数据中心拆成海量卫星单元送上轨道：\n用太阳能为主要能源，以光学星间链路（laser inter-satellite links）构建星间骨干网，之前这里https://x.com/qinbafrank/status/2071151529974006162?a=HKo3BEbxSadjImy3NhQ&s=46还聊过SpaceX的星间激光网络。FCC另批准其补充射频链路，用于备份和应急遥测、跟踪与指令。Starmind是独立的算力星座，与SpaceX现有的Starlink宽带星座并行运行。\n\n当然从FCC的批文里也能看出来，太空数据中心现在还是一个提振情绪和估值期权，短期确实能提振市场情绪和预期，但离真正建成投产还有相当长的时间。",
+  "reply": 4,
+  "like": 15,
+  "rt": 0,
+  "view": 4011,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYBuSl0bkAA7FVL.jpg?name=orig"
+  ],
+  "url": "https://x.com/qinbafrank/status/2125822230567530704",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125808450190115026",
   "time": "Thu Nov 26 04:26:44 +0000 2026",
   "user": "qinbafrank",
