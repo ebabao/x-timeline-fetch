@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-26T01:55:13Z",
+ "ran_at": "2026-11-26T02:24:48Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -32,10 +32,10 @@
    "handle": "fxtrader",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 484,
    "cn": 470,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
@@ -60,8 +60,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 193,
-   "cn": 193,
+   "total": 194,
+   "cn": 194,
    "cn_new": 1
   },
   {
@@ -221,10 +221,10 @@
    "handle": "darrencao2024",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 109,
-   "cn": 102,
-   "cn_new": 0
+   "new": 1,
+   "total": 110,
+   "cn": 103,
+   "cn_new": 1
   },
   {
    "handle": "LucyBuilding",
@@ -239,10 +239,10 @@
    "handle": "traders18",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 141,
-   "cn": 141,
-   "cn_new": 0
+   "new": 2,
+   "total": 143,
+   "cn": 143,
+   "cn_new": 2
   },
   {
    "handle": "yijiangren",
@@ -275,10 +275,10 @@
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 74,
    "cn": 67,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "LeoYuen13",
