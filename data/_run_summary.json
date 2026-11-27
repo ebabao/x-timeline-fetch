@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-27T17:32:28Z",
+ "ran_at": "2026-11-27T18:02:45Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -31,11 +31,11 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "guest-gql",
-   "new": 14,
+   "src": "fxtwitter-v2",
+   "new": 0,
    "total": 500,
    "cn": 486,
-   "cn_new": 14
+   "cn_new": 0
   },
   {
    "handle": "CrushTheShorts",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 110,
    "cn": 102,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "Kay2289123",
@@ -166,7 +166,7 @@
   {
    "handle": "ShanghaoJin",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 141,
    "cn": 125,
@@ -176,10 +176,10 @@
    "handle": "Balder13946731",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 170,
    "cn": 165,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "peng_hellen",
@@ -194,10 +194,10 @@
    "handle": "ArtofSpecuycky",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 25,
    "cn": 24,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "tig88411109",
@@ -220,7 +220,7 @@
   {
    "handle": "darrencao2024",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 117,
    "cn": 109,
@@ -246,11 +246,12 @@
   },
   {
    "handle": "yijiangren",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "fxtwitter-v2",
+   "new": 1,
+   "total": 111,
+   "cn": 101,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
@@ -265,16 +266,16 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 2,
+   "new": 0,
    "total": 115,
    "cn": 112,
-   "cn_new": 2
+   "cn_new": 0
   },
   {
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 83,
    "cn": 75,
    "cn_new": 0
