@@ -1,5 +1,52 @@
 [
  {
+  "id": "2126248244900413503",
+  "time": "Fri Nov 27 09:34:20 +0000 2026",
+  "user": "AntonLaVay",
+  "name": "Manchurius Hao — Greeks.live 首席赌狗",
+  "text": "但是他的做法，一个最大的缺陷，就是很可能错过肥尾，比如20年的 $GME 你Burry哥离场早了踏空了35倍。他当时还吹牛逼自己不看希腊字母，是哦，所以当时他不知道什么叫Gamma squeeze…\n\n这件事显然给他留下了深刻的印象或者说心理创伤，他现在明显平仓起来不再一次性走光了，经常留一些尾巴抓肥尾",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 32,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/AntonLaVay/status/2126248244900413503",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126247688543043817",
+  "time": "Fri Nov 27 09:32:07 +0000 2026",
+  "user": "AntonLaVay",
+  "name": "Manchurius Hao — Greeks.live 首席赌狗",
+  "text": "https://antonsean.substack.com/p/burry",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 119,
+  "lang": null,
+  "media": [
+   "https://pbs.twimg.com/media/HYHzAIDWgAABb16.jpg?name=orig"
+  ],
+  "url": "https://x.com/AntonLaVay/status/2126247688543043817",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126247479855206743",
+  "time": "Fri Nov 27 09:31:17 +0000 2026",
+  "user": "AntonLaVay",
+  "name": "Manchurius Hao — Greeks.live 首席赌狗",
+  "text": "Michael Burry 的双重低买高卖\n\n这个人，我们抛开他的观点不谈，其实他有一点很值得我们学习，就是这人对于表达观点的工具要求很苛刻，工具不趁手交易宁可不做。\n\n翻完 Michael Burry 过去一年的交易记录，他总是在同一笔交易里做双重低买高卖，一次对标的本身，一次对工具本身（收恐慌溢价）。\n\n9 月 28 日 VIX 很低，他把股票空头全换成 9-24 个月到期的 Put（买在市场大意时）\n\n11 月 20 日和 25 日 VIX 飙升，他看空观点并没有变，但是卖掉大部分 Put。（卖在恐慌时）。\n\n为什么不等判断被市场完全证实再走？\n\n算完 Black-Scholes 模型就能看清残酷的数学：恐慌时一张 Put 的利润，大约三分之二来自隐含波动率飙升。\n\n哪怕后面股价继续大跌，只要恐慌情绪消退，你的 Put 依然可能回吐四分之一的价值。\n\n全文⬇️",
+  "reply": 2,
+  "like": 6,
+  "rt": 0,
+  "view": 599,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/AntonLaVay/status/2126247479855206743",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125664944704389342",
   "time": "Wed Nov 25 18:56:30 +0000 2026",
   "user": "AntonLaVay",
