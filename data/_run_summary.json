@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-27T17:00:56Z",
+ "ran_at": "2026-11-27T17:32:28Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -31,11 +31,11 @@
   {
    "handle": "fxtrader",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 0,
+   "src": "guest-gql",
+   "new": 14,
    "total": 500,
    "cn": 486,
-   "cn_new": 0
+   "cn_new": 14
   },
   {
    "handle": "CrushTheShorts",
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 108,
-   "cn": 100,
-   "cn_new": 0
+   "new": 2,
+   "total": 110,
+   "cn": 102,
+   "cn_new": 2
   },
   {
    "handle": "Kay2289123",
@@ -166,7 +166,7 @@
   {
    "handle": "ShanghaoJin",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 141,
    "cn": 125,
@@ -177,8 +177,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 169,
-   "cn": 164,
+   "total": 170,
+   "cn": 165,
    "cn_new": 1
   },
   {
@@ -195,8 +195,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 24,
-   "cn": 23,
+   "total": 25,
+   "cn": 24,
    "cn_new": 1
   },
   {
@@ -246,12 +246,11 @@
   },
   {
    "handle": "yijiangren",
-   "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 1,
-   "total": 110,
-   "cn": 100,
-   "cn_new": 1
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "new": 0,
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "octopusycc",
@@ -266,17 +265,17 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 113,
-   "cn": 110,
-   "cn_new": 0
+   "new": 2,
+   "total": 115,
+   "cn": 112,
+   "cn_new": 2
   },
   {
    "handle": "SupFin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 82,
+   "new": 1,
+   "total": 83,
    "cn": 75,
    "cn_new": 0
   },
