@@ -1,5 +1,22 @@
 [
  {
+  "id": "2126196431493136805",
+  "time": "Fri Nov 27 06:08:26 +0000 2026",
+  "user": "bbcchinese",
+  "name": "BBC News 中文",
+  "text": "BBC Verify 发现，在台湾地方选举前夕，台湾政治人物正成为网络攻势的目标。社群媒体上流传着利用人工智能（AI）制作的影片，散布不实及误导性讯息。分析指出，一个与中国有关联的网络已制作数百部针对台湾执政党的假影片。",
+  "reply": 7,
+  "like": 2,
+  "rt": 0,
+  "view": 1387,
+  "lang": "zh",
+  "media": [
+   "https://video.twimg.com/amplify_video/2126195821532356608/vid/avc1/1080x1920/gAWy8q4RAbqwDEFt.mp4?tag=29"
+  ],
+  "url": "https://x.com/bbcchinese/status/2126196431493136805",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126172376882659362",
   "time": "Fri Nov 27 04:32:51 +0000 2026",
   "user": "bbcchinese",
