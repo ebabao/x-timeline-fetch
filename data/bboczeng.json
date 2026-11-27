@@ -1,5 +1,52 @@
 [
  {
+  "id": "2126238332019720692",
+  "time": "Fri Nov 27 08:54:56 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "据彭博社报道，华为技术有限公司正准备公布一款新型高带宽内存（HBM）芯片的详细信息，其性能有望超越三星电子和 SK 海力士现有的产品。\n\n此举旨在推动这一关键 AI 组件在中国本土量产，而该组件目前受美国制裁限制。",
+  "reply": 2,
+  "like": 2,
+  "rt": 0,
+  "view": 721,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126238332019720692",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126235432514208013",
+  "time": "Fri Nov 27 08:43:25 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "2008 年，数以百万计从未逾期还款的房主，在优惠利率结束后，发现房子资不抵债，也无法再融资。\n\n2026年，AI基建狂潮下的25座价值百亿的数据中心园区正走向同样的境地：\n\nCoreWeave 的四个园区目前价值已低于其债务，\n\n若把十年期国债收益率的上行也计算在内，Oracle 背后的六个园区中已经有三个资不抵债：",
+  "reply": 1,
+  "like": 4,
+  "rt": 0,
+  "view": 1164,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYHidmRa0AA7tVn.jpg?name=orig"
+  ],
+  "url": "https://x.com/bboczeng/status/2126235432514208013",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126234716911104010",
+  "time": "Fri Nov 27 08:40:34 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "这确实是我见过关于CDS债务危机分析最好的文章，如果是空头，值得你花一晚上好好看看\n\n美中不足的是它是英文，而且太长，太专业了，绝大部分人估计只想知道结论\n\n那我就在这里给大家提前总结一下：\n\n机构的信用评级落后CDS，AI基建的杠杆很大，部分园区已经资不抵债，CRWV大概率是真的完了\n\nhttps://open.substack.com/pub/groundbreakerre/p/mark-to-swap-how-the-market-is-mispricing?utm_campaign=post-expanded-share&utm_medium=web",
+  "reply": 4,
+  "like": 19,
+  "rt": 0,
+  "view": 1906,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126234716911104010",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126230397633867946",
   "time": "Fri Nov 27 08:23:24 +0000 2026",
   "user": "bboczeng",
@@ -7573,53 +7620,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/bboczeng/status/2123194221113086074",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123193516415394046",
-  "time": "Wed Nov 18 23:15:55 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "彭博社报道，Anthropic 将于明天进行 IPO，每股定价 83 美元，公司估值将达 1.5 万亿美元。",
-  "reply": 0,
-  "like": 2,
-  "rt": 0,
-  "view": 795,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123193516415394046",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123193101753921853",
-  "time": "Wed Nov 18 23:14:17 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "谁能想到，SNDK居然还能登上这样的榜单\n\n以前都是正向排行榜第一啊",
-  "reply": 1,
-  "like": 2,
-  "rt": 0,
-  "view": 757,
-  "lang": "zh",
-  "media": [
-   "https://pbs.twimg.com/media/HXcYyfcaIAAHRYw.png?name=orig"
-  ],
-  "url": "https://x.com/bboczeng/status/2123193101753921853",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123192924217479250",
-  "time": "Wed Nov 18 23:13:34 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "“内战”发动在即，美股会变好吗？\n\n估计一调查，特朗普家族得把股票全卖掉\n\n到时候，半导体还有的跌\n\n佩洛西也得破产\n\n至少把24年赚的全吐出来\n\n😅😅😅",
-  "reply": 0,
-  "like": 3,
-  "rt": 0,
-  "view": 766,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123192924217479250",
   "src": "fxtwitter-v2"
  }
 ]
