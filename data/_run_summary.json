@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-27T10:07:14Z",
+ "ran_at": "2026-11-27T10:36:38Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 1,
    "total": 500,
    "cn": 489,
-   "cn_new": 0
+   "cn_new": 1
   },
   {
    "handle": "dmjk001",
@@ -42,8 +42,8 @@
    "ok": true,
    "src": "fxtwitter-v2",
    "new": 1,
-   "total": 202,
-   "cn": 176,
+   "total": 203,
+   "cn": 177,
    "cn_new": 1
   },
   {
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 343,
-   "cn": 342,
-   "cn_new": 0
+   "new": 1,
+   "total": 344,
+   "cn": 343,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -113,10 +113,10 @@
    "handle": "tychozzz",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 74,
-   "cn": 73,
-   "cn_new": 0
+   "new": 1,
+   "total": 75,
+   "cn": 74,
+   "cn_new": 1
   },
   {
    "handle": "TheMarketMemo",
@@ -212,10 +212,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 2,
    "total": 500,
    "cn": 488,
-   "cn_new": 1
+   "cn_new": 2
   },
   {
    "handle": "darrencao2024",
@@ -228,16 +228,17 @@
   },
   {
    "handle": "LucyBuilding",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 25,
+   "cn": 25,
+   "cn_new": 0
   },
   {
    "handle": "traders18",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 145,
    "cn": 145,
@@ -245,11 +246,12 @@
   },
   {
    "handle": "yijiangren",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
-   "new": 0,
-   "total": 0,
-   "cn": 0
+   "ok": true,
+   "src": "fxtwitter-v2",
+   "new": 1,
+   "total": 104,
+   "cn": 95,
+   "cn_new": 1
   },
   {
    "handle": "octopusycc",
@@ -290,20 +292,20 @@
   {
    "handle": "AntonLaVay",
    "ok": true,
-   "src": "fxtwitter-v2",
-   "new": 1,
+   "src": "guest-gql",
+   "new": 0,
    "total": 111,
    "cn": 108,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xingpt",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 91,
    "cn": 90,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "brantchinesefn",
