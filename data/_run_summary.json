@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-27T21:29:55Z",
+ "ran_at": "2026-11-27T22:00:11Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -94,7 +94,7 @@
   {
    "handle": "TJ_Research",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 101,
    "cn": 92,
@@ -103,7 +103,7 @@
   {
    "handle": "qinbafrank",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 113,
    "cn": 111,
