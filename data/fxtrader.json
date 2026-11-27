@@ -1,5 +1,23 @@
 [
  {
+  "id": "2126120884708741138",
+  "time": "Fri Nov 27 01:08:14 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "有用户反馈，DeepSeek网页端和移动端App正在灰度测试“显示本轮消耗额度”功能。\n\n用户在完成一轮对话后，界面会弹出详情页，展示本次交互消耗的Token数量及其对应的估算金额。\n\nDeepSeek面向个人的对话服务依然免费，只是让用户直观感受对话背后的计算成本。",
+  "reply": 6,
+  "like": 8,
+  "rt": 0,
+  "view": 5953,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYF_JlnaoAAxxel.jpg?name=orig",
+   "https://pbs.twimg.com/media/HYF_LWhbYAAZHrR.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2126120884708741138",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126113608862257307",
   "time": "Fri Nov 27 00:39:20 +0000 2026",
   "user": "fxtrader",
@@ -8015,20 +8033,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/fxtrader/status/1750360926271000605",
-  "src": "guest-gql"
- },
- {
-  "id": "1743930039488713070",
-  "time": "Sun Jan 07 09:38:16 +0000 2024",
-  "user": "fxtrader",
-  "name": "外汇交易员",
-  "text": "“如果你想造艘船，不要老催人去采木，忙着分配工作和发号施令。而是要激起他们对浩瀚无垠的大海的向往。”——埃克苏佩里",
-  "reply": 41,
-  "like": 964,
-  "rt": 158,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/fxtrader/status/1743930039488713070",
   "src": "guest-gql"
  }
 ]
