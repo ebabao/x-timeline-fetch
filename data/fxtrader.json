@@ -1,5 +1,22 @@
 [
  {
+  "id": "2126208087682076701",
+  "time": "Fri Nov 27 06:54:45 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "路透社：卫星图像和一份研究报告显示，中国大陆解放军正在福建大埕湾进行为期数周的两栖登陆演习，测试一种将民用船只连接成临时浮桥，从而实现部队登陆的新方法。\n\n卫星图像及地理空间数据公司ingeniSPACE认为，利用民用船只搭建浮桥，将重型装备和物资从较深水域运送上岸，可为解放军提供更多潜在的登陆地点。\n\n台湾方面认为，演习似乎是解放军今年“全军战略演习”的一部分，属于例行演习，但举行时间较以往更晚，演习内容也针对第一岛链可能发生的军事事态。",
+  "reply": 0,
+  "like": 14,
+  "rt": 1,
+  "view": 4255,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYHNNwmasAA40Xk.jpg?name=orig"
+  ],
+  "url": "https://x.com/fxtrader/status/2126208087682076701",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126194641565614539",
   "time": "Fri Nov 27 06:01:19 +0000 2026",
   "user": "fxtrader",
@@ -8041,20 +8058,6 @@
   "view": null,
   "lang": "qme",
   "url": "https://x.com/fxtrader/status/1843919960348995724",
-  "src": "guest-gql"
- },
- {
-  "id": "1834499918200979823",
-  "time": "Fri Sep 13 07:50:38 +0000 2024",
-  "user": "fxtrader",
-  "name": "外汇交易员",
-  "text": "#梗图 #延迟退休 https://t.co/3dVOcxejPP",
-  "reply": 70,
-  "like": 2625,
-  "rt": 94,
-  "view": null,
-  "lang": "qme",
-  "url": "https://x.com/fxtrader/status/1834499918200979823",
   "src": "guest-gql"
  }
 ]
