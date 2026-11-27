@@ -1,5 +1,20 @@
 [
  {
+  "id": "2126159290255945761",
+  "time": "Fri Nov 27 03:40:51 +0000 2026",
+  "user": "fxtrader",
+  "name": "外汇交易员",
+  "text": "渣打银行旗下加密货币托管部门Zodia Custody本周发现安全漏洞，部分客户和员工信息泄露。首席执行官Richard Clark对路透社表示，周一发现有人试图探测其系统后，立即下线了一款软件。该软件原本允许机构客户系统与Zodia平台直接连接。",
+  "reply": 0,
+  "like": 0,
+  "rt": 0,
+  "view": 586,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/fxtrader/status/2126159290255945761",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126139254736892278",
   "time": "Fri Nov 27 02:21:14 +0000 2026",
   "user": "fxtrader",
@@ -8032,20 +8047,6 @@
   "view": null,
   "lang": "zh",
   "url": "https://x.com/fxtrader/status/1802124135273025688",
-  "src": "guest-gql"
- },
- {
-  "id": "1795309768552358023",
-  "time": "Tue May 28 04:22:58 +0000 2024",
-  "user": "fxtrader",
-  "name": "外汇交易员",
-  "text": "🤣不要低估学生们的模仿能力。 https://t.co/Ndlel5gdzf",
-  "reply": 134,
-  "like": 3012,
-  "rt": 455,
-  "view": null,
-  "lang": "zh",
-  "url": "https://x.com/fxtrader/status/1795309768552358023",
   "src": "guest-gql"
  }
 ]
