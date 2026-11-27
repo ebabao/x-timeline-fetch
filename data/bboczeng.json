@@ -1,5 +1,20 @@
 [
  {
+  "id": "2126268498892783851",
+  "time": "Fri Nov 27 10:54:48 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "彭博社报道：美股有望迎来一波反弹，市场风险偏好回升\n\n此前一轮抛售曾使纳斯达克100指数濒临熊市",
+  "reply": 1,
+  "like": 6,
+  "rt": 0,
+  "view": 765,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126268498892783851",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126256987256312057",
   "time": "Fri Nov 27 10:09:04 +0000 2026",
   "user": "bboczeng",
@@ -7602,21 +7617,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/bboczeng/status/2123256742477983808",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123249198896382082",
-  "time": "Thu Nov 19 02:57:11 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "华尔街日报：英伟达5000亿美元芯片融资计划至今零资金到位，预计2027年前不会有交易执行\n\n今年8月，英伟达（$NVDA）宣布与阿波罗，黑石（Blackstone）、贝莱德（BlackRock）、布鲁克菲尔德（Brookfield）、高盛（Goldman Sachs）和KKR合作，计划动员5000亿美元资金，帮助OpenAI、Anthropic以及规模较小的AI云计算公司等客户为购买芯片融资。\n\n但该协议只是一份寥寥数页的谅解备忘录。各家机构均无义务募集任何资金，目前也没有任何资金到位。",
-  "reply": 0,
-  "like": 1,
-  "rt": 0,
-  "view": 497,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123249198896382082",
   "src": "fxtwitter-v2"
  }
 ]
