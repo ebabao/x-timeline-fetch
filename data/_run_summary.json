@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-27T13:05:34Z",
+ "ran_at": "2026-11-27T13:33:37Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -14,10 +14,10 @@
    "handle": "dmjk001",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 408,
-   "cn": 351,
-   "cn_new": 0
+   "new": 1,
+   "total": 409,
+   "cn": 352,
+   "cn_new": 1
   },
   {
    "handle": "baoshu88",
@@ -68,19 +68,19 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 347,
    "cn": 346,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "xiaomustock",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 87,
-   "cn": 86,
-   "cn_new": 0
+   "new": 1,
+   "total": 88,
+   "cn": 87,
+   "cn_new": 1
   },
   {
    "handle": "artinmemes",
@@ -264,11 +264,12 @@
   },
   {
    "handle": "hanking66",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 112,
+   "cn": 109,
+   "cn_new": 0
   },
   {
    "handle": "SupFin",
@@ -292,15 +293,15 @@
    "handle": "AntonLaVay",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 111,
-   "cn": 108,
-   "cn_new": 0
+   "new": 2,
+   "total": 113,
+   "cn": 110,
+   "cn_new": 2
   },
   {
    "handle": "xingpt",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 91,
    "cn": 90,
