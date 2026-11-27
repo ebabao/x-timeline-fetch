@@ -1,5 +1,22 @@
 [
  {
+  "id": "2126105322498433270",
+  "time": "Fri Nov 27 00:06:24 +0000 2026",
+  "user": "dmjk001",
+  "name": "大猫调研信息",
+  "text": "CNBC：两位知情人士向 CNBC 透露，芯片卖家已告知新云服务商，如果任何计算能力将被租给中国公司，他们就不会供应英伟达芯片。\n芯片销售商似乎是在寻求抛售 GPU，因为这些 GPU 原本用于数据中心，而中国公司会通过这些数据中心租用算力。",
+  "reply": 0,
+  "like": 1,
+  "rt": 0,
+  "view": 428,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYFxLOaa8AARnWO.jpg?name=orig"
+  ],
+  "url": "https://x.com/dmjk001/status/2126105322498433270",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2125944480264258027",
   "time": "Thu Nov 26 13:27:16 +0000 2026",
   "user": "dmjk001",
