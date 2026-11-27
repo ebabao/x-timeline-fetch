@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-27T19:28:15Z",
+ "ran_at": "2026-11-27T19:58:07Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -283,7 +283,7 @@
   {
    "handle": "LeoYuen13",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 69,
    "cn": 69,
@@ -292,7 +292,7 @@
   {
    "handle": "AntonLaVay",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 117,
    "cn": 114,
