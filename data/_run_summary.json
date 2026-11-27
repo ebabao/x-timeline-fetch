@@ -1,5 +1,5 @@
 {
- "ran_at": "2026-11-27T22:33:24Z",
+ "ran_at": "2026-11-27T23:03:04Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
@@ -22,7 +22,7 @@
   {
    "handle": "baoshu88",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 185,
    "cn": 185,
@@ -85,7 +85,7 @@
   {
    "handle": "artinmemes",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 74,
    "cn": 74,
@@ -94,7 +94,7 @@
   {
    "handle": "TJ_Research",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 101,
    "cn": 92,
@@ -139,7 +139,7 @@
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 87,
    "cn": 86,
@@ -157,7 +157,7 @@
   {
    "handle": "RichTerry123",
    "ok": true,
-   "src": "guest-gql",
+   "src": "fxtwitter-v2",
    "new": 0,
    "total": 64,
    "cn": 48,
@@ -192,11 +192,12 @@
   },
   {
    "handle": "ArtofSpecuycky",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 25,
+   "cn": 24,
+   "cn_new": 0
   },
   {
    "handle": "tig88411109",
@@ -245,11 +246,12 @@
   },
   {
    "handle": "yijiangren",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 111,
+   "cn": 101,
+   "cn_new": 0
   },
   {
    "handle": "octopusycc",
@@ -262,11 +264,12 @@
   },
   {
    "handle": "hanking66",
-   "ok": false,
-   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication HTTP 429",
+   "ok": true,
+   "src": "fxtwitter-v2",
    "new": 0,
-   "total": 0,
-   "cn": 0
+   "total": 116,
+   "cn": 113,
+   "cn_new": 0
   },
   {
    "handle": "SupFin",
