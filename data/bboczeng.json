@@ -1,5 +1,22 @@
 [
  {
+  "id": "2126611099982454886",
+  "time": "Sat Nov 28 09:36:11 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "很多人说采样不准，现在看看基本是很准的了。\n\n开票10%，差距超过1%的话，基本就是结果，",
+  "reply": 0,
+  "like": 1,
+  "rt": 1,
+  "view": 33,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYM9hjYaUAAB7VG.jpg?name=orig"
+  ],
+  "url": "https://x.com/bboczeng/status/2126611099982454886",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126601862728290590",
   "time": "Sat Nov 28 08:59:29 +0000 2026",
   "user": "bboczeng",
@@ -7612,21 +7629,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/bboczeng/status/2123478806174548309",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123469149758513512",
-  "time": "Thu Nov 19 17:31:12 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "据 Hunterbrook 报道，AMD（$AMD）有 22.4% 的营收来自账单地址在中国大陆和香港的客户，而英伟达（$NVDA）仅为 9.1%。这引发了市场担忧：在美国芯片出口限制不断收紧的背景下，AMD 面临的风险敞口可能更大。",
-  "reply": 2,
-  "like": 3,
-  "rt": 0,
-  "view": 1456,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123469149758513512",
   "src": "fxtwitter-v2"
  }
 ]
