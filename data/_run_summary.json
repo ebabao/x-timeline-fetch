@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-27T23:30:59Z",
+ "ran_at": "2026-11-28T00:02:59Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
+   "new": 7,
    "total": 500,
    "cn": 489,
-   "cn_new": 0
+   "cn_new": 6
   },
   {
    "handle": "dmjk001",
@@ -220,7 +220,7 @@
   {
    "handle": "darrencao2024",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 117,
    "cn": 109,
