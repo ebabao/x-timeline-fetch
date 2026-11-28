@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-28T01:02:41Z",
+ "ran_at": "2026-11-28T01:31:49Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 3,
    "total": 500,
    "cn": 489,
-   "cn_new": 0
+   "cn_new": 2
   },
   {
    "handle": "dmjk001",
@@ -50,7 +50,7 @@
    "handle": "ReutersChina",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 350,
    "cn": 0,
    "cn_new": 0
@@ -122,10 +122,10 @@
    "handle": "TheMarketMemo",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 110,
-   "cn": 102,
-   "cn_new": 0
+   "new": 1,
+   "total": 111,
+   "cn": 103,
+   "cn_new": 1
   },
   {
    "handle": "Kay2289123",
@@ -283,7 +283,7 @@
   {
    "handle": "LeoYuen13",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 69,
    "cn": 69,
