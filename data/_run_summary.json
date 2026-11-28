@@ -1,14 +1,14 @@
 {
- "ran_at": "2026-11-28T09:37:39Z",
+ "ran_at": "2026-11-28T10:08:49Z",
  "summary": [
   {
    "handle": "cnfinancewatch",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 4,
+   "new": 1,
    "total": 500,
    "cn": 488,
-   "cn_new": 4
+   "cn_new": 1
   },
   {
    "handle": "dmjk001",
@@ -68,10 +68,10 @@
    "handle": "bbcchinese",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 359,
-   "cn": 358,
-   "cn_new": 0
+   "new": 1,
+   "total": 360,
+   "cn": 359,
+   "cn_new": 1
   },
   {
    "handle": "xiaomustock",
@@ -103,7 +103,7 @@
   {
    "handle": "qinbafrank",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 114,
    "cn": 112,
@@ -129,17 +129,16 @@
   },
   {
    "handle": "Kay2289123",
-   "ok": true,
-   "src": "fxtwitter-v2",
+   "ok": false,
+   "src": "fxtwitter-v2: HTTP 404 / code 404 | guest-gql: None | syndication: syndication 解析为空",
    "new": 0,
-   "total": 37,
-   "cn": 37,
-   "cn_new": 0
+   "total": 0,
+   "cn": 0
   },
   {
    "handle": "maojietrading",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 87,
    "cn": 86,
@@ -167,15 +166,15 @@
    "handle": "ShanghaoJin",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 0,
    "total": 149,
    "cn": 133,
-   "cn_new": 1
+   "cn_new": 0
   },
   {
    "handle": "Balder13946731",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 174,
    "cn": 169,
@@ -184,7 +183,7 @@
   {
    "handle": "peng_hellen",
    "ok": true,
-   "src": "fxtwitter-v2",
+   "src": "guest-gql",
    "new": 0,
    "total": 62,
    "cn": 61,
@@ -212,10 +211,10 @@
    "handle": "bboczeng",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 1,
+   "new": 3,
    "total": 500,
    "cn": 487,
-   "cn_new": 1
+   "cn_new": 3
   },
   {
    "handle": "darrencao2024",
@@ -266,10 +265,10 @@
    "handle": "hanking66",
    "ok": true,
    "src": "fxtwitter-v2",
-   "new": 0,
-   "total": 117,
-   "cn": 114,
-   "cn_new": 0
+   "new": 1,
+   "total": 118,
+   "cn": 115,
+   "cn_new": 1
   },
   {
    "handle": "SupFin",

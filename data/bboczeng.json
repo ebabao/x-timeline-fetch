@@ -1,5 +1,52 @@
 [
  {
+  "id": "2126617222349255030",
+  "time": "Sat Nov 28 10:00:31 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "英伟达股价吐回大部分涨幅，因 Blackwell 芯片被发现出现在上海数据中心\n\n中国监管文件显示，多家公司将英伟达强大的 GB300 NVL72 机架作为贷款抵押品，这些机架位于与 Alice Huang 有关联的\"长三角项目\"数据中心。\n\n这一发现经由序列号和保修记录得到核实，而美国的出口限制要求向中国出口 Blackwell 芯片必须取得许可。英伟达股价回吐早盘涨幅，一小时内市值蒸发超过 2000 亿美元，市场对复杂供应链下的执法力度产生疑问。\n\n涉事公司均否认有不当行为，此事也凸显出追踪高端半导体的难度。",
+  "reply": 1,
+  "like": 4,
+  "rt": 0,
+  "view": 404,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126617222349255030",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126613185470087326",
+  "time": "Sat Nov 28 09:44:28 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "输光了，至少输掉5万票\n\n😂😂😂",
+  "reply": 5,
+  "like": 14,
+  "rt": 0,
+  "view": 2514,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYM_ad9aEAEIAVT.jpg?name=orig"
+  ],
+  "url": "https://x.com/bboczeng/status/2126613185470087326",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126612875364163973",
+  "time": "Sat Nov 28 09:43:14 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "有消息称，$CRWV 的优先无担保债券，如今在破产情形下被认为一文不值，原因是其七笔 DDTL （延迟提款定期贷款）融资中有六笔由母公司提供了无条件担保。\n\nDDTL 实际上并不以芯片产生的收入作为支撑，因为客户还要支付 35% 到 100% 的预付款来帮助建设，所以这些资产并非由收入支撑。DDTL 中资产的价值，取评估机构的评估值，与\"GPU 服务器和基础设施在 4 至 6 年期间内的折旧后购置价格\"这两者中的较低者。\n\n基本上，有担保的 DDTL 债券背后几乎没有任何东西支撑。母公司的资产（非常有限），而且由于无条件担保，DDTL 持有人享有优先权。\n\n这意味着 210 亿美元的无担保债券如今一文不值。基本上就是欺诈。",
+  "reply": 2,
+  "like": 4,
+  "rt": 0,
+  "view": 1318,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126612875364163973",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126611099982454886",
   "time": "Sat Nov 28 09:36:11 +0000 2026",
   "user": "bboczeng",
@@ -7584,51 +7631,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/bboczeng/status/2123481889541640674",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123481167836205200",
-  "time": "Thu Nov 19 18:18:57 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "按照这个情况，AMD至少要跌破$300\n\n立贴为证\n\n晚安",
-  "reply": 0,
-  "like": 7,
-  "rt": 1,
-  "view": 1184,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123481167836205200",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123479381322678557",
-  "time": "Thu Nov 19 18:11:51 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "半导体方面，INTC已经腰斩了，NVDA正在腰斩的路上，MU，SNDK都gg了\n\n唯一没有跌回4月份的大型公司，只剩AMD了吧\n\n可惜AMD要跌回去的话，至少要跌80%\n\n那岂不是真的要完？\n\n😅😅😅",
-  "reply": 1,
-  "like": 3,
-  "rt": 0,
-  "view": 300,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123479381322678557",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123478806174548309",
-  "time": "Thu Nov 19 18:09:34 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "Anthropic被甩卖并不意外，但卖出的这笔钱竟然没有回流股市\n\n这就很奇怪了\n\n难道机构是真的决定彻底跑了？\n\n多头最后的希望都能破灭，那么应该大概率和2018年一样\n\n一路跌倒12月底了",
-  "reply": 1,
-  "like": 2,
-  "rt": 0,
-  "view": 424,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123478806174548309",
   "src": "fxtwitter-v2"
  }
 ]
