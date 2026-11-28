@@ -1,5 +1,52 @@
 [
  {
+  "id": "2126601862728290590",
+  "time": "Sat Nov 28 08:59:29 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "本周的感恩节回报排名历史第二，达5.6%\n\n但这样比反而更让人害怕了，\n\n因为榜单排行第一的，竟然是2008\n\n😂😂😂",
+  "reply": 2,
+  "like": 2,
+  "rt": 0,
+  "view": 409,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126601862728290590",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126598814673097063",
+  "time": "Sat Nov 28 08:47:22 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "基本输了，现在30倍😭",
+  "reply": 0,
+  "like": 4,
+  "rt": 0,
+  "view": 400,
+  "lang": "zh",
+  "media": [],
+  "url": "https://x.com/bboczeng/status/2126598814673097063",
+  "src": "fxtwitter-v2"
+ },
+ {
+  "id": "2126597074313740523",
+  "time": "Sat Nov 28 08:40:27 +0000 2026",
+  "user": "bboczeng",
+  "name": "勃勃OC",
+  "text": "根据统计学采样的中心极限定理，现在基本已经可以确定选举结果了：\n\n台北市当选的是蒋万安，新北市当选的是李四川，桃园市是张善政，\n\n但在台中，台南，高雄，国民党则全输",
+  "reply": 14,
+  "like": 17,
+  "rt": 0,
+  "view": 5470,
+  "lang": "zh",
+  "media": [
+   "https://pbs.twimg.com/media/HYMwPO6aUAA1LYs.jpg?name=orig"
+  ],
+  "url": "https://x.com/bboczeng/status/2126597074313740523",
+  "src": "fxtwitter-v2"
+ },
+ {
   "id": "2126596229899686391",
   "time": "Sat Nov 28 08:37:06 +0000 2026",
   "user": "bboczeng",
@@ -7580,51 +7627,6 @@
   "lang": "zh",
   "media": [],
   "url": "https://x.com/bboczeng/status/2123469149758513512",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123467801671413814",
-  "time": "Thu Nov 19 17:25:50 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "那可太好了啊，你为什么要和他们共情呢？他们这辈子赚的还不够多吗？\n\n腰斩腰斩再腰斩\n\n这才是我们普通人这辈子，唯一的alpha\n\n谢谢大家",
-  "reply": 0,
-  "like": 3,
-  "rt": 0,
-  "view": 983,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123467801671413814",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123467254759411743",
-  "time": "Thu Nov 19 17:23:40 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "怎么破发了？？\n\n振作起来吧，给多头一个跑路的机会\n\n就这么难吗？\n\n这难道真的是美股历史上，第一个中途没有任何反弹的\n\n直线型大熊市？\n\n诶\n\n😅😅😅",
-  "reply": 4,
-  "like": 10,
-  "rt": 0,
-  "view": 2616,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123467254759411743",
-  "src": "fxtwitter-v2"
- },
- {
-  "id": "2123466046065819651",
-  "time": "Thu Nov 19 17:18:52 +0000 2026",
-  "user": "bboczeng",
-  "name": "勃勃OC",
-  "text": "突发：据其状态页面显示，在 Anthropic 于纳斯达克开始交易的当天，Claude 出现性能下降。\n\n状态页面显示，Claude 目前\"性能下降\"（degraded performance），而 Claude API 和 Claude Code 运行正常。\n\nAnthropic 尚未公布具体原因。",
-  "reply": 1,
-  "like": 2,
-  "rt": 0,
-  "view": 1835,
-  "lang": "zh",
-  "media": [],
-  "url": "https://x.com/bboczeng/status/2123466046065819651",
   "src": "fxtwitter-v2"
  }
 ]
